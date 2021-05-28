@@ -1,0 +1,5 @@
+﻿AttemperEngineSink.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  Correspond.vcxproj -> G:\SVN\DLM\服务端\系统模块\服务器组件\协调服务器\../../../运行/Debug/Unicode/Correspond.exe
+  Correspond.vcxproj -> ../../../中间目录/协调服务器/Debug_Unicode/Correspond.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Debug\Unicode 已经存在。
+  已复制         1 个文件。

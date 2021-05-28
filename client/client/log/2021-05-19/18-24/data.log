@@ -1,0 +1,16 @@
+[
+    "clientscene:queryUserScoreInfo 05/19/21 18:24:21",
+    "clientscene:queryUserScoreInfo responese 05/19/21 18:24:21",
+    "clientscene:queryUserScoreInfo 05/19/21 18:24:23",
+    "clientscene:queryUserScoreInfo responese 05/19/21 18:24:23",
+    "clientscene:queryUserScoreInfo 05/19/21 18:24:30",
+    "clientscene:queryUserScoreInfo responese 05/19/21 18:24:30",
+    {
+        "logtime": "2021/05/19 18:24:57",
+        "logdata": {}
+    },
+    {
+        "logtime": "2021/05/19 18:24:58",
+        "logdata": {}
+    }
+]

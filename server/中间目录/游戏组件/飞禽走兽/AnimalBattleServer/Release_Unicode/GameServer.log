@@ -1,0 +1,34 @@
+﻿  Stdafx.cpp
+d:\qijianban\laok\服务端\游戏组件\开发库\include\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+d:\qijianban\laok\服务端\游戏组件\开发库\include\Core/UIManager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“EVENTTYPE_UI”的左侧
+  DlgCustomRule.cpp
+  GameLogic.cpp
+  GameServer.cpp
+  GameServerManager.cpp
+  TableFrameSink.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\Dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\Dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+TableFrameSink.cpp(1621): warning C4477: “_snwprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“LONGLONG”
+  TableFrameSink.cpp(1621): note: 请考虑在格式字符串中使用“%lld”
+  TableFrameSink.cpp(1621): note: 请考虑在格式字符串中使用“%I64d”
+TableFrameSink.cpp(2714): warning C4477: “swprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“LONGLONG”
+  TableFrameSink.cpp(2714): note: 请考虑在格式字符串中使用“%lld”
+  TableFrameSink.cpp(2714): note: 请考虑在格式字符串中使用“%I64d”
+TableFrameSink.cpp(2716): warning C4477: “swprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“LONGLONG”
+  TableFrameSink.cpp(2716): note: 请考虑在格式字符串中使用“%lld”
+  TableFrameSink.cpp(2716): note: 请考虑在格式字符串中使用“%I64d”
+TableFrameSink.cpp(2718): warning C4477: “swprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“LONGLONG”
+  TableFrameSink.cpp(2718): note: 请考虑在格式字符串中使用“%lld”
+  TableFrameSink.cpp(2718): note: 请考虑在格式字符串中使用“%I64d”
+TableFrameSink.cpp(2762): warning C4477: “swprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“LONGLONG”
+  TableFrameSink.cpp(2762): note: 请考虑在格式字符串中使用“%lld”
+  TableFrameSink.cpp(2762): note: 请考虑在格式字符串中使用“%I64d”
+TableFrameSink.cpp(4233): warning C4477: “_snwprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“LONGLONG”
+  TableFrameSink.cpp(4233): note: 请考虑在格式字符串中使用“%lld”
+  TableFrameSink.cpp(4233): note: 请考虑在格式字符串中使用“%I64d”
+  正在生成代码...
+    正在创建库 ../../../../运行/Release/Unicode/GameServer.lib 和对象 ../../../../运行/Release/Unicode/GameServer.exp
+  GameServer.vcxproj -> D:\qijianban\laok\服务端\游戏组件\老K子游戏\飞禽走兽\游戏服务器\../../../../运行/Release/Unicode/AnimalBattleServer.dll
+  GameServer.vcxproj -> ../../../../运行/Release/Unicode/AnimalBattleServer.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Release\Unicode\ 已经存在。
+  已复制         1 个文件。

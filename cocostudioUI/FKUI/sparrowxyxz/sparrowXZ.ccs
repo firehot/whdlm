@@ -1,0 +1,95 @@
+<Solution>
+  <PropertyGroup Name="sparrowXZ" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="fonts">
+          <TTF Name="FZHTJW.TTF" />
+          <TTF Name="round_body.ttf" />
+        </Folder>
+        <Folder Name="game">
+          <Image Name="389bt_agree_1.png" />
+          <Image Name="389bt_agree_2.png" />
+          <Image Name="389bt_oppose_1.png" />
+          <Image Name="389bt_oppose_2.png" />
+          <Image Name="389sp_dismissRoom_bg.png" />
+          <Image Name="389sp_dismissRoom_flag.png" />
+          <Image Name="bt_invite_0.png" />
+          <Image Name="bt_invite_1.png" />
+          <Image Name="btn_close1.png" />
+          <Image Name="btn_close2.png" />
+          <Image Name="btn_return.png" />
+          <Image Name="btn_share.png" />
+          <Image Name="btnInfo1.png" />
+          <Image Name="btnInfo2.png" />
+          <Image Name="coin.png" />
+          <Project Name="DismissLayer.csd" Type="Layer" />
+          <Image Name="fanghao.png" />
+          <Image Name="kindbg.png" />
+          <Image Name="label_roomer.png" />
+          <Image Name="midBg.png" />
+          <Project Name="Node_info.csd" Type="Node" />
+          <Image Name="num_count.png" />
+          <Image Name="num_room.png" />
+          <Image Name="playerinfobg.png" />
+          <Image Name="pri_end_bg.png" />
+          <Project Name="PrivateGameEndLayer.csd" Type="Layer" />
+          <Project Name="PrivateGameLayer.csd" Type="Layer" />
+          <Image Name="roomidbg.png" />
+          <Image Name="tit_bg.png" />
+          <Image Name="title.png" />
+          <Image Name="totalscore.png" />
+          <Image Name="user_face.png" />
+          <Image Name="winner.png" />
+        </Folder>
+        <Folder Name="public">
+          <Image Name="anniu1.png" />
+          <Image Name="cjf_xuanzedi.png" />
+          <Image Name="cjf_xuanzedi2.png" />
+          <Image Name="cjfj_di.png" />
+          <Image Name="cjfj_gou.png" />
+          <Image Name="cjfj_mfcj.png" />
+          <Image Name="cjfj_yydi.png" />
+          <Image Name="pri_sp_createroom_separator.png" />
+          <Image Name="pri_sp_flag.png" />
+          <Image Name="sparrowgd_sp_dropdownbg.png" />
+        </Folder>
+        <Folder Name="room">
+          <Image Name="bomBg.png" />
+          <Image Name="btn_change.png" />
+          <Image Name="btn_delete.png" />
+          <Image Name="btn_edit.png" />
+          <Image Name="btn_extend.png" />
+          <Image Name="createTitle.png" />
+          <Image Name="csmBg1.png" />
+          <Image Name="csmBg2.png" />
+          <Image Name="dt_dian2.png" />
+          <Image Name="editBg.png" />
+          <Image Name="extendBg.png" />
+          <Image Name="headBg.png" />
+          <Image Name="imgBg.png" />
+          <Image Name="jiao1.png" />
+          <Image Name="land_pribtn_arrow_down_0.png" />
+          <Image Name="land_pribtn_arrow_down_1.png" />
+          <Image Name="land_prisp_dropdown_menu.png" />
+          <Image Name="land_sp_dropdownbg.png" />
+          <Image Name="line.png" />
+          <Image Name="nclub_bg.png" />
+          <Image Name="nclub_close.png" />
+          <Image Name="nclub_titleBg1.png" />
+          <Image Name="nclub_titleBg2.png" />
+          <Image Name="pri_check_sel_0.png" />
+          <Image Name="pri_check_sel_1.png" />
+          <Image Name="pri_check_sel_1_0.png" />
+          <Project Name="PrivateRoomCreateLayer.csd" Type="Layer" />
+          <Image Name="selectBox1.png" />
+          <Image Name="selectBox2.png" />
+          <Image Name="sparrowgd_prisp_diamond.png" />
+          <Image Name="switch1.png" />
+          <Image Name="wf_btn.png" />
+          <Image Name="xzIcon.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

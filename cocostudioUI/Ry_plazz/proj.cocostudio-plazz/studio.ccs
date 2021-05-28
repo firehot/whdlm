@@ -1,0 +1,2196 @@
+<Solution>
+  <PropertyGroup Name="studio" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="0-1">
+          <Image Name="0-1.png" />
+          <Project Name="1.csd" Type="Scene" />
+          <Image Name="1-1.png" />
+          <Image Name="1-2.png" />
+          <Image Name="1-3.png" />
+          <Image Name="1-3-2.png" />
+          <Image Name="1-4.png" />
+          <Image Name="1-5.png" />
+          <Image Name="1-6.png" />
+          <Image Name="1-7.png" />
+          <Image Name="1-8.png" />
+          <Image Name="1-9.png" />
+        </Folder>
+        <Folder Name="action_create">
+          <Project Name="1.csd" Type="Scene" />
+          <Image Name="1.png" />
+          <Image Name="1_1.png" />
+          <Image Name="1_10.png" />
+          <Image Name="1_2.png" />
+          <Image Name="1_3.png" />
+          <Image Name="1_4.png" />
+          <Image Name="1_5.png" />
+          <Image Name="1_6.png" />
+          <Image Name="1_7.png" />
+          <Image Name="1_8.png" />
+          <Image Name="1_9.png" />
+          <Project Name="Node_0.csd" Type="Node" />
+        </Folder>
+        <Folder Name="activity">
+          <Image Name="activity_title.png" />
+          <Image Name="btn_close.png" />
+          <Image Name="btn_recv.png" />
+          <Image Name="day.png" />
+          <Image Name="dibubg.png" />
+          <Image Name="f.png" />
+          <Image Name="fhbtn.png" />
+          <Image Name="img_background.png" />
+          <Image Name="img_bg_left.png" />
+          <Image Name="img_item.png" />
+          <Image Name="img_left_item.png" />
+          <Image Name="img_left_item_choose.png" />
+          <Image Name="img_red_point.png" />
+          <Image Name="img_up.png" />
+          <Project Name="LayerActivity.csd" Type="Layer" />
+          <Image Name="loudi3Dzhuanzhuan11.png" />
+          <Image Name="loudi3Dzhuanzhuan22.png" />
+          <Image Name="tabs_bg.png" />
+          <Image Name="tabs_hover.png" />
+          <Image Name="zuobianbg.png" />
+        </Folder>
+        <PlistImageFolder Image="card.png" PListFile="card.plist" Name=".card_PList.Dir">
+          <PlistImageFile Name="bg_back.png" Key="bg_back.png" />
+          <PlistImageFile Name="bg_front.png" Key="bg_front.png" />
+          <PlistImageFile Name="num_black_1.png" Key="num_black_1.png" />
+          <PlistImageFile Name="num_black_10.png" Key="num_black_10.png" />
+          <PlistImageFile Name="num_black_11.png" Key="num_black_11.png" />
+          <PlistImageFile Name="num_black_12.png" Key="num_black_12.png" />
+          <PlistImageFile Name="num_black_13.png" Key="num_black_13.png" />
+          <PlistImageFile Name="num_black_2.png" Key="num_black_2.png" />
+          <PlistImageFile Name="num_black_3.png" Key="num_black_3.png" />
+          <PlistImageFile Name="num_black_4.png" Key="num_black_4.png" />
+          <PlistImageFile Name="num_black_5.png" Key="num_black_5.png" />
+          <PlistImageFile Name="num_black_6.png" Key="num_black_6.png" />
+          <PlistImageFile Name="num_black_7.png" Key="num_black_7.png" />
+          <PlistImageFile Name="num_black_8.png" Key="num_black_8.png" />
+          <PlistImageFile Name="num_black_9.png" Key="num_black_9.png" />
+          <PlistImageFile Name="num_red_1.png" Key="num_red_1.png" />
+          <PlistImageFile Name="num_red_10.png" Key="num_red_10.png" />
+          <PlistImageFile Name="num_red_11.png" Key="num_red_11.png" />
+          <PlistImageFile Name="num_red_12.png" Key="num_red_12.png" />
+          <PlistImageFile Name="num_red_13.png" Key="num_red_13.png" />
+          <PlistImageFile Name="num_red_2.png" Key="num_red_2.png" />
+          <PlistImageFile Name="num_red_3.png" Key="num_red_3.png" />
+          <PlistImageFile Name="num_red_4.png" Key="num_red_4.png" />
+          <PlistImageFile Name="num_red_5.png" Key="num_red_5.png" />
+          <PlistImageFile Name="num_red_6.png" Key="num_red_6.png" />
+          <PlistImageFile Name="num_red_7.png" Key="num_red_7.png" />
+          <PlistImageFile Name="num_red_8.png" Key="num_red_8.png" />
+          <PlistImageFile Name="num_red_9.png" Key="num_red_9.png" />
+          <PlistImageFile Name="role_0_J.png" Key="role_0_J.png" />
+          <PlistImageFile Name="role_0_K.png" Key="role_0_K.png" />
+          <PlistImageFile Name="role_0_Q.png" Key="role_0_Q.png" />
+          <PlistImageFile Name="role_1_J.png" Key="role_1_J.png" />
+          <PlistImageFile Name="role_1_K.png" Key="role_1_K.png" />
+          <PlistImageFile Name="role_1_Q.png" Key="role_1_Q.png" />
+          <PlistImageFile Name="role_2_J.png" Key="role_2_J.png" />
+          <PlistImageFile Name="role_2_K.png" Key="role_2_K.png" />
+          <PlistImageFile Name="role_2_Q.png" Key="role_2_Q.png" />
+          <PlistImageFile Name="role_3_J.png" Key="role_3_J.png" />
+          <PlistImageFile Name="role_3_K.png" Key="role_3_K.png" />
+          <PlistImageFile Name="role_3_Q.png" Key="role_3_Q.png" />
+          <PlistImageFile Name="shape_club.png" Key="shape_club.png" />
+          <PlistImageFile Name="shape_club_s.png" Key="shape_club_s.png" />
+          <PlistImageFile Name="shape_diamond.png" Key="shape_diamond.png" />
+          <PlistImageFile Name="shape_diamond_s.png" Key="shape_diamond_s.png" />
+          <PlistImageFile Name="shape_heart.png" Key="shape_heart.png" />
+          <PlistImageFile Name="shape_heart_s.png" Key="shape_heart_s.png" />
+          <PlistImageFile Name="shape_spade.png" Key="shape_spade.png" />
+          <PlistImageFile Name="shape_spade_s.png" Key="shape_spade_s.png" />
+        </PlistImageFolder>
+        <Folder Name="club">
+          <Image Name="08.png" />
+          <Image Name="09.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="add.png" />
+          <Image Name="add_back.png" />
+          <Image Name="add_cellBg.png" />
+          <Image Name="add_cellBg1.png" />
+          <Image Name="add_clean.png" />
+          <Image Name="add_num1.png" />
+          <Image Name="add_num2.png" />
+          <Image Name="add_title.png" />
+          <Image Name="addCaptain_test.png" />
+          <Image Name="back.png" />
+          <Image Name="bot_bg.png" />
+          <Image Name="box_title.png" />
+          <Image Name="boxBg.png" />
+          <Image Name="btn_add1.png" />
+          <Image Name="btn_addwf.png" />
+          <Image Name="btn_all.png" />
+          <Image Name="btn_all1.png" />
+          <Image Name="btn_all2.png" />
+          <Image Name="btn_clubmore.png" />
+          <Image Name="btn_common1.png" />
+          <Image Name="btn_common2.png" />
+          <Image Name="btn_common3.png" />
+          <Image Name="btn_common4.png" />
+          <Image Name="btn_edit.png" />
+          <Image Name="btn_fen.png" />
+          <Image Name="btn_game.png" />
+          <Image Name="btn_gonggao.png" />
+          <Image Name="btn_guangbo.png" />
+          <Image Name="btn_huang.png" />
+          <Image Name="btn_huang1.png" />
+          <Image Name="btn_kong.png" />
+          <Image Name="btn_long.png" />
+          <Image Name="btn_long1.png" />
+          <Image Name="btn_message.png" />
+          <Image Name="btn_purple1.png" />
+          <Image Name="btn_purple2.png" />
+          <Image Name="btn_qh.png" />
+          <Image Name="btn_set.png" />
+          <Image Name="btn_setc.png" />
+          <Image Name="btn_share.png" />
+          <Image Name="btn_sub1.png" />
+          <Image Name="btn_wfedit.png" />
+          <Image Name="btnCreateConfig.png" />
+          <Image Name="bto_icon_1.png" />
+          <Image Name="bto_icon_2.png" />
+          <Image Name="bto_icon_3.png" />
+          <Image Name="bto_icon_4.png" />
+          <Image Name="bto_icon_5.png" />
+          <Image Name="captainLow.png" />
+          <Image Name="captainMng_test.png" />
+          <Image Name="captainMng_title.png" />
+          <Image Name="captainMngBg1.png" />
+          <Image Name="captainMngBg2.png" />
+          <Image Name="cha.png" />
+          <Image Name="changeWanfa.png" />
+          <Image Name="club_applyMsg_btn_remove.png" />
+          <Image Name="club_applyMsg_btn_removeAll.png" />
+          <Image Name="club_applyMsg_btn_return.png" />
+          <Image Name="club_applyMsg_btn_returnAll.png" />
+          <Image Name="club_applyMsg_sp_ApplyNum.png" />
+          <Image Name="club_applyMsg_sp_cell.png" />
+          <Image Name="club_applyMsg_sp_conteng.png" />
+          <Image Name="club_applyMsg_sp_lab.png" />
+          <Image Name="club_applyMsg_sp_state1.png" />
+          <Image Name="club_applyMsg_sp_state2.png" />
+          <Image Name="club_applyMsg_sp_state3.png" />
+          <Image Name="club_applyMsg_sp_title.png" />
+          <Image Name="club_btn_applymsg.png" />
+          <Image Name="club_btn_clubinfo_1.png" />
+          <Image Name="club_btn_clubinfo_2.png" />
+          <Image Name="club_btn_create.png" />
+          <Image Name="club_btn_createRoom.png" />
+          <Image Name="club_btn_deleteroom.png" />
+          <Image Name="club_btn_enter_1.png" />
+          <Image Name="club_btn_enter_2.png" />
+          <Image Name="club_btn_enterrroom_1.png" />
+          <Image Name="club_btn_enterrroom_2.png" />
+          <Image Name="club_btn_help.png" />
+          <Image Name="club_btn_info.png" />
+          <Image Name="club_btn_join.png" />
+          <Image Name="club_btn_joinclub_1.png" />
+          <Image Name="club_btn_joinclub_2.png" />
+          <Image Name="club_btn_member.png" />
+          <Image Name="club_btn_menu_1.png" />
+          <Image Name="club_btn_menu_2.png" />
+          <Image Name="club_btn_message.png" />
+          <Image Name="club_btn_msg.png" />
+          <Image Name="club_btn_myclub_1.png" />
+          <Image Name="club_btn_myclub_2.png" />
+          <Image Name="club_btn_Op_add.png" />
+          <Image Name="club_btn_Op_sub.png" />
+          <Image Name="club_btn_Op_sure.png" />
+          <Image Name="club_btn_returnall.png" />
+          <Image Name="club_btn_serch.png" />
+          <Image Name="club_btn_tilte.png" />
+          <Project Name="club_CaptainList.csd" Type="Layer" />
+          <Project Name="club_captainLow.csd" Type="Layer" />
+          <Image Name="club_create_btn_create.png" />
+          <Image Name="club_create_btn_paymode1.png" />
+          <Image Name="club_create_btn_paymode2.png" />
+          <Image Name="club_create_sp_lab1.png" />
+          <Image Name="club_create_sp_lab2.png" />
+          <Image Name="club_create_sp_lab3.png" />
+          <Image Name="club_create_sp_title.png" />
+          <Project Name="club_Desk.csd" Type="Node" />
+          <Image Name="club_game_3.png" />
+          <Project Name="club_GameListLayer.csd" Type="Layer" />
+          <Image Name="club_helpTitle.png" />
+          <Image Name="club_helpView.png" />
+          <Project Name="club_MainLayer.csd" Type="Layer" />
+          <Image Name="club_member_delete.png" />
+          <Image Name="club_member_delete_2.png" />
+          <Project Name="club_MemberList.csd" Type="Layer" />
+          <Project Name="club_MemberScore.csd" Type="Layer" />
+          <Project Name="club_MemberSet.csd" Type="Layer" />
+          <Project Name="club_myRecord.csd" Type="Layer" />
+          <Image Name="club_repondMsg_btn_delete.png" />
+          <Image Name="club_repondMsg_btn_deleteAll.png" />
+          <Image Name="club_repondMsg_btn_pass.png" />
+          <Image Name="club_repondMsg_btn_passAll.png" />
+          <Image Name="club_repondMsg_sp_cell.png" />
+          <Image Name="club_repondMsg_sp_facebg.png" />
+          <Image Name="club_repondMsg_sp_lab.png" />
+          <Image Name="club_repondMsg_sp_title.png" />
+          <Image Name="club_roominfo_btn_copy.png" />
+          <Image Name="club_roominfo_btn_dismiss.png" />
+          <Image Name="club_roominfo_btn_edit.png" />
+          <Image Name="club_roominfo_btn_editDes.png" />
+          <Image Name="club_roominfo_btn_exit.png" />
+          <Image Name="club_roominfo_btn_pay1.png" />
+          <Image Name="club_roominfo_btn_pay2.png" />
+          <Image Name="club_roominfo_btn_save.png" />
+          <Image Name="club_roominfo_btn_share.png" />
+          <Image Name="club_roominfo_sp_bg.png" />
+          <Image Name="club_roominfo_sp_infobg.png" />
+          <Image Name="club_roominfo_sp_title.png" />
+          <Image Name="club_sp_AddClubText.png" />
+          <Image Name="club_sp_bg.png" />
+          <Image Name="club_sp_clubcell_normal.png" />
+          <Image Name="club_sp_clubcell_selected.png" />
+          <Image Name="club_sp_clublistbg.png" />
+          <Image Name="club_sp_clubname_bg.png" />
+          <Image Name="club_sp_clubroomlist_bg.png" />
+          <Image Name="club_sp_GameSelectBg.png" />
+          <Image Name="club_sp_GameSelectCellBg.png" />
+          <Image Name="club_sp_infocell.png" />
+          <Image Name="club_sp_menbericon.png" />
+          <Image Name="club_sp_menubg.png" />
+          <Image Name="club_sp_MyClubText.png" />
+          <Image Name="club_sp_Op_edit.png" />
+          <Image Name="club_sp_Op_title.png" />
+          <Image Name="club_sp_roomcell_bg.png" />
+          <Image Name="club_sp_roomflag.png" />
+          <Image Name="club_sp_roomicon.png" />
+          <Image Name="club_sp_swarrow.png" />
+          <Image Name="club_sp_tips1.png" />
+          <Image Name="club_sp_tips2.png" />
+          <Image Name="clubBg1.png" />
+          <Image Name="clubBg2.png" />
+          <Image Name="clubBtn1.png" />
+          <Image Name="clubBtn2.png" />
+          <Image Name="clubBtn4.png" />
+          <Image Name="clubDeskTest1.png" />
+          <Image Name="clubDeskTest2.png" />
+          <Image Name="clubIcon.png" />
+          <Image Name="clubRight1.png" />
+          <Image Name="clubTitle.png" />
+          <Image Name="clubUpBg.png" />
+          <Image Name="configEditBg.png" />
+          <Image Name="configGame_302.png" />
+          <Image Name="configGame_57.png" />
+          <Image Name="copyIcon.png" />
+          <Image Name="create_title.png" />
+          <Image Name="createrHead2.png" />
+          <Image Name="deskBg1_33.png" />
+          <Image Name="deskBg2_302.png" />
+          <Image Name="detail_title.png" />
+          <Image Name="dj_cellBg.png" />
+          <Image Name="dj_cellBg2.png" />
+          <Image Name="dj_line.png" />
+          <Image Name="dj_rank1.png" />
+          <Image Name="dj_rank2.png" />
+          <Image Name="dj_rank3.png" />
+          <Image Name="dj_rankbg.png" />
+          <Image Name="dj_tipBg.png" />
+          <Image Name="dj_title.png" />
+          <Image Name="djie_title.png" />
+          <Image Name="dr_bg.png" />
+          <Image Name="dr_title.png" />
+          <Image Name="dt_dian1.png" />
+          <Image Name="dt_dian2.png" />
+          <Image Name="dt_num.png" />
+          <Image Name="dt_riqiBg.png" />
+          <Image Name="dt_riqibg2.png" />
+          <Image Name="dt_san.png" />
+          <Image Name="dt_title.png" />
+          <Image Name="dt_xian.png" />
+          <Image Name="dt_xie.png" />
+          <Image Name="dt_xin1.png" />
+          <Image Name="dt_xin2.png" />
+          <Image Name="dt_xin3.png" />
+          <Image Name="dyj_title.png" />
+          <Image Name="editBg.png" />
+          <Image Name="editBg2.png" />
+          <Image Name="editIcon.png" />
+          <Image Name="enterClub.png" />
+          <Image Name="enterHead1.png" />
+          <Image Name="enterInfo1.png" />
+          <Image Name="enterInfo2.png" />
+          <Image Name="fastBtn2.png" />
+          <Image Name="fastBtn3.png" />
+          <Image Name="fastBtn4.png" />
+          <Image Name="fastBtn5.png" />
+          <Image Name="first_cancel.png" />
+          <Image Name="fk_title.png" />
+          <Image Name="gameList_57_1.png" />
+          <Image Name="gamelist_new.png" />
+          <Image Name="gameListBg.png" />
+          <Image Name="gameSelect.png" />
+          <Image Name="glodBg.png" />
+          <Image Name="gold.png" />
+          <Image Name="grayBg.png" />
+          <Image Name="headBg.png" />
+          <Image Name="headBg1.png" />
+          <Image Name="headBg2.png" />
+          <Image Name="index4.png" />
+          <Image Name="jc_title.png" />
+          <Image Name="joinBtn1.png" />
+          <Image Name="joinBtn2.png" />
+          <Image Name="joinImg1.png" />
+          <Image Name="joinImg2.png" />
+          <Image Name="joinNum.png" />
+          <Image Name="joinTest1.png" />
+          <Image Name="jr_back.png" />
+          <Image Name="jr_btnjr.png" />
+          <Image Name="jr_cellBg.png" />
+          <Image Name="jr_diBg.png" />
+          <Image Name="jr_icon1.png" />
+          <Image Name="jr_icon2.png" />
+          <Image Name="jr_keyboardBg.png" />
+          <Image Name="jr_search.png" />
+          <Image Name="jr_searchBg.png" />
+          <Image Name="jr_tip.png" />
+          <Image Name="jr_tip1.png" />
+          <Image Name="jr_title.png" />
+          <Image Name="js_title.png" />
+          <Image Name="jsfj_title.png" />
+          <Image Name="line.png" />
+          <Image Name="lowMember_title.png" />
+          <Image Name="mber_bg1.png" />
+          <Image Name="mber_bg2.png" />
+          <Image Name="mber_cell.png" />
+          <Image Name="mber_line.png" />
+          <Image Name="mber_searchBg.png" />
+          <Image Name="mber_title.png" />
+          <Image Name="mber_topTxt.png" />
+          <Image Name="meaaage_head.png" />
+          <Image Name="mem_btn.png" />
+          <Image Name="mem_btn2.png" />
+          <Image Name="mem_btn3.png" />
+          <Image Name="mem_cellBg.png" />
+          <Image Name="mem_cheak1.png" />
+          <Image Name="mem_duizhang.png" />
+          <Image Name="mem_gou.png" />
+          <Image Name="mem_title.png" />
+          <Image Name="mem_topBg.png" />
+          <Image Name="member_record11.png" />
+          <Image Name="member_test11.png" />
+          <Image Name="member_test2.png" />
+          <Image Name="memberList_dui.png" />
+          <Image Name="memberList_title.png" />
+          <Image Name="memberset_title.png" />
+          <Image Name="membertj_test.png" />
+          <Image Name="memberTj_title.png" />
+          <Image Name="message_bg.png" />
+          <Image Name="message_title.png" />
+          <Image Name="message_v.png" />
+          <Image Name="my_cellBg.png" />
+          <Image Name="my_headBg.png" />
+          <Image Name="my_recored_test.png" />
+          <Image Name="my_title.png" />
+          <Image Name="my_topTxt.png" />
+          <Image Name="myclub_add.png" />
+          <Image Name="myclub_bg.png" />
+          <Image Name="myclub_cellBg.png" />
+          <Image Name="myclub_cellBg1.png" />
+          <Image Name="myclub_create.png" />
+          <Image Name="myclub_midBg.png" />
+          <Image Name="myclub_title.png" />
+          <Image Name="myclub_topBg.png" />
+          <Image Name="myclub_topbtn.png" />
+          <Image Name="myCode.png" />
+          <Image Name="myrecord_btn.png" />
+          <Image Name="myrecord_test.png" />
+          <Image Name="myrecord_title.png" />
+          <Project Name="nclub_addClub.csd" Type="Layer" />
+          <Project Name="nclub_addScore.csd" Type="Layer" />
+          <Image Name="nclub_bg.png" />
+          <Project Name="nclub_captainAdd.csd" Type="Layer" />
+          <Image Name="nclub_close.png" />
+          <Project Name="nclub_create.csd" Type="Layer" />
+          <Project Name="nclub_dj.csd" Type="Layer" />
+          <Project Name="nclub_djie.csd" Type="Layer" />
+          <Project Name="nclub_dr.csd" Type="Layer" />
+          <Project Name="nclub_dt.csd" Type="Layer" />
+          <Project Name="nclub_dyj.csd" Type="Layer" />
+          <Project Name="nclub_editName.csd" Type="Layer" />
+          <Project Name="nclub_jc.csd" Type="Layer" />
+          <Project Name="nclub_js.csd" Type="Layer" />
+          <Project Name="nclub_msg.csd" Type="Layer" />
+          <Project Name="nclub_mt.csd" Type="Layer" />
+          <Project Name="nclub_notice.csd" Type="Layer" />
+          <Project Name="nclub_qyqRecord.csd" Type="Layer" />
+          <Project Name="nclub_remove1.csd" Type="Layer" />
+          <Project Name="nclub_remove2.csd" Type="Layer" />
+          <Project Name="nclub_right.csd" Type="Layer" />
+          <Project Name="nclub_roomlimit.csd" Type="Layer" />
+          <Project Name="nclub_score1.csd" Type="Layer" />
+          <Project Name="nclub_score2.csd" Type="Layer" />
+          <Project Name="nclub_scoreBox.csd" Type="Layer" />
+          <Project Name="nclub_selectGame.csd" Type="Layer" />
+          <Project Name="nclub_set.csd" Type="Layer" />
+          <Project Name="nclub_setLow.csd" Type="Layer" />
+          <Project Name="nclub_setPoint.csd" Type="Layer" />
+          <Project Name="nclub_share.csd" Type="Layer" />
+          <Project Name="nclub_share1.csd" Type="Layer" />
+          <Project Name="nclub_tiqu.csd" Type="Layer" />
+          <Image Name="nclub_titleBg1.png" />
+          <Image Name="nclub_titleBg2.png" />
+          <Project Name="nclub_wanfa.csd" Type="Layer" />
+          <Project Name="nclub_wanfaedit.csd" Type="Layer" />
+          <Project Name="nclub_xk.csd" Type="Layer" />
+          <Image Name="nedit_title.png" />
+          <Project Name="node_addcap.csd" Type="Node" />
+          <Project Name="node_captain.csd" Type="Node" />
+          <Project Name="node_captainLow.csd" Type="Node" />
+          <Project Name="node_clubcell.csd" Type="Node" />
+          <Project Name="node_dj.csd" Type="Node" />
+          <Project Name="node_dr.csd" Type="Node" />
+          <Project Name="node_dt.csd" Type="Node" />
+          <Project Name="node_fasticon.csd" Type="Node" />
+          <Project Name="node_memberCell.csd" Type="Node" />
+          <Project Name="node_memberScore.csd" Type="Node" />
+          <Project Name="node_memList.csd" Type="Node" />
+          <Project Name="node_memList_dy.csd" Type="Node" />
+          <Project Name="node_msg1.csd" Type="Node" />
+          <Project Name="node_msg2.csd" Type="Node" />
+          <Project Name="node_myRecord.csd" Type="Node" />
+          <Project Name="node_qr.csd" Type="Node" />
+          <Project Name="node_remove.csd" Type="Node" />
+          <Project Name="node_score1.csd" Type="Node" />
+          <Project Name="node_wanfa.csd" Type="Node" />
+          <Project Name="node_wfcell.csd" Type="Node" />
+          <Image Name="notice_bg1.png" />
+          <Image Name="notice_title.png" />
+          <Image Name="notice1.png" />
+          <Image Name="noticeBg.png" />
+          <Image Name="numDiamond1.png" />
+          <Image Name="numDiamond2.png" />
+          <Image Name="playingStutas1.png" />
+          <Image Name="playingStutas2.png" />
+          <Image Name="point_test1.png" />
+          <Image Name="qr_myr.png" />
+          <Image Name="qr_title.png" />
+          <Image Name="qr_zuan.png" />
+          <Image Name="rc_bg1.png" />
+          <Image Name="rc_de.png" />
+          <Image Name="rc_hst.png" />
+          <Image Name="rc_now.png" />
+          <Image Name="rc_record.png" />
+          <Image Name="rc_title.png" />
+          <Image Name="rc_topTxt.png" />
+          <Image Name="rc_yst.png" />
+          <Image Name="redPoint.png" />
+          <Image Name="remove_test.png" />
+          <Image Name="remove_test1.png" />
+          <Image Name="remove_test2.png" />
+          <Image Name="remove_title.png" />
+          <Image Name="ri_btn.png" />
+          <Image Name="ri_btnText.png" />
+          <Image Name="right_btn1.png" />
+          <Image Name="right_btn2.png" />
+          <Image Name="right_test.png" />
+          <Image Name="right_title.png" />
+          <Image Name="rightIcon.png" />
+          <Image Name="roomlimit_test.png" />
+          <Image Name="roomlimit_title.png" />
+          <Image Name="score_arrow.png" />
+          <Image Name="score_cell.png" />
+          <Image Name="score_cell1.png" />
+          <Image Name="score_line.png" />
+          <Image Name="score_test1.png" />
+          <Image Name="score_test2.png" />
+          <Image Name="score_title.png" />
+          <Image Name="scoreBox.png" />
+          <Image Name="scoreBox_test.png" />
+          <Image Name="scoreBtn.png" />
+          <Image Name="scoreChange.png" />
+          <Image Name="scoreChange1.png" />
+          <Image Name="scoreChange3.png" />
+          <Image Name="scoreNum.png" />
+          <Image Name="scoreRecordBtn1.png" />
+          <Image Name="scoreRecordBtn2.png" />
+          <Image Name="scoreSet.png" />
+          <Image Name="scoreTitle.png" />
+          <Image Name="set_test555.png" />
+          <Image Name="set_title.png" />
+          <Image Name="setScoreTitle.png" />
+          <Image Name="share_bg1.png" />
+          <Image Name="share_cellBg.png" />
+          <Image Name="share_headBg2.png" />
+          <Image Name="share_test.png" />
+          <Image Name="share_title.png" />
+          <Image Name="share_wx.png" />
+          <Image Name="share_wxc.png" />
+          <Image Name="shareBg33.png" />
+          <Image Name="shareTxt1.png" />
+          <Image Name="shareTxt2.png" />
+          <Image Name="shareTxtMa.png" />
+          <Image Name="spread_kuang.png" />
+          <Image Name="spread_phone.png" />
+          <Image Name="spread_qq.png" />
+          <Image Name="spread_wx.png" />
+          <Image Name="tableBg1.png" />
+          <Image Name="tableBg2.png" />
+          <Image Name="tableText.png" />
+          <Image Name="test_.png" />
+          <Image Name="test_addclub.png" />
+          <Image Name="test_create.png" />
+          <Image Name="test_dj.png" />
+          <Image Name="test_djie.png" />
+          <Image Name="test_dr.png" />
+          <Image Name="test_dyj.png" />
+          <Image Name="test_editName.png" />
+          <Image Name="test_enterTable.png" />
+          <Image Name="test_fk.png" />
+          <Image Name="test_jc.png" />
+          <Image Name="test_js.png" />
+          <Image Name="test_jsfj.png" />
+          <Image Name="test_meassage.png" />
+          <Image Name="test_mem.png" />
+          <Image Name="test_memberList.png" />
+          <Image Name="test_memduiyuan.png" />
+          <Image Name="test_myclub.png" />
+          <Image Name="test_notice.png" />
+          <Image Name="test_qr.png" />
+          <Image Name="test_s1.png" />
+          <Image Name="test_s2.png" />
+          <Image Name="test_set.png" />
+          <Image Name="Test_wanfa.png" />
+          <Image Name="test_wanfacehua.png" />
+          <Image Name="test_xk.png" />
+          <Image Name="test_xqk.png" />
+          <Image Name="test112.png" />
+          <Image Name="test122166.png" />
+          <Image Name="testmessage2.png" />
+          <Image Name="testnewew.png" />
+          <Image Name="tip_noTable1.png" />
+          <Image Name="tip_noTable2.png" />
+          <Image Name="tiqu_test.png" />
+          <Image Name="title_addCap.png" />
+          <Image Name="title_setPoint.png" />
+          <Image Name="title_share1.png" />
+          <Image Name="wanfa_test.png" />
+          <Image Name="wanfa_test11.png" />
+          <Image Name="wanfaBg.png" />
+          <Image Name="wanfaSet.png" />
+          <Image Name="wf_btn.png" />
+          <Image Name="wf_cellBg.png" />
+          <Image Name="wf_title.png" />
+          <Image Name="xiahuaxian.png" />
+          <Image Name="xiancell.png" />
+          <Image Name="xk_title.png" />
+          <Image Name="xq_bg1.png" />
+          <Image Name="xq_btn_add.png" />
+          <Image Name="xq_btn_enter.png" />
+          <Image Name="xq_head.png" />
+          <Image Name="xq_title.png" />
+          <Image Name="xq_topBg.png" />
+          <Image Name="xq_wanfa.png" />
+          <Image Name="xqk_title.png" />
+          <Image Name="xunzhang_test1.png" />
+          <Image Name="xunzhang_test2.png" />
+          <Image Name="xz_title.png" />
+          <Image Name="xzall_title.png" />
+          <Image Name="z_benzuan.png" />
+          <Image Name="z_btn_cun.png" />
+          <Image Name="z_btn_qu.png" />
+          <Image Name="z_cunqu.png" />
+          <Image Name="z_edit.png" />
+          <Image Name="z_img1.png" />
+          <Image Name="z_tipBg.png" />
+          <Image Name="z_titleTxt.png" />
+          <Image Name="z_zuan.png" />
+          <Image Name="zj_title.png" />
+          <Image Name="zj_topTxt.png" />
+          <Image Name="zj_video.png" />
+        </Folder>
+        <Folder Name="fonts">
+          <TTF Name="FZHTJW.TTF" />
+          <TTF Name="round_body.ttf" />
+        </Folder>
+        <Folder Name="gameicon">
+          <Image Name="gameicon_200.png" />
+          <Image Name="gameicon_386.png" />
+          <Image Name="gameicon_389.png" />
+          <Image Name="gameicon_391.png" />
+          <Image Name="gameicon_49.png" />
+          <Image Name="gameicon_50.png" />
+          <Image Name="gameicon_55.png" />
+          <Image Name="gameicon_6.png" />
+          <Image Name="gameicon_default.png" />
+          <Image Name="gameicon_null_1.png" />
+          <Image Name="gameicon_sp_downloadbg.png" />
+          <Image Name="gameicon_sp_downloaddot.png" />
+          <Image Name="gameicon_sp_downloadnum.png" />
+          <Image Name="gameicon_sp_downloadtip.png" />
+          <Image Name="gameicon_sp_downloadtips.png" />
+          <Image Name="gameicon_sp_tipbg.png" />
+          <Image Name="gameicon_sp_updatetip.png" />
+          <Image Name="gamemark_200.png" />
+          <Image Name="gamemark_386.png" />
+          <Image Name="gamemark_389.png" />
+          <Image Name="gamemark_391.png" />
+          <Image Name="gamemark_49.png" />
+          <Image Name="gamemark_50.png" />
+          <Image Name="gamemark_6.png" />
+        </Folder>
+        <Folder Name="hezuo">
+          <Image Name="close.png" />
+          <Image Name="fzqw.png" />
+          <Image Name="xiaoguo.png" />
+        </Folder>
+        <Folder Name="introduction">
+          <Image Name="introduction_bg.png" />
+          <Project Name="IntroductionLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="logon">
+          <Image Name="agreement_bg.png" />
+          <Image Name="anhui.png" />
+          <Image Name="gouxuan.png" />
+          <Image Name="gouxuanBg.png" />
+          <Image Name="guanbi.png" />
+          <Image Name="loding_bg.png" />
+          <Image Name="loding_num.png" />
+          <Image Name="loding_test.png" />
+          <Image Name="logo_text_00.png" />
+          <Image Name="logon_btn_notice_0.png" />
+          <Image Name="logon_btn_notice_0_0.png" />
+          <Image Name="logon_btn_service_0.png" />
+          <Image Name="logon_btn_service_1.png" />
+          <Image Name="logon_btn_wechat_0.png" />
+          <Image Name="logon_btn_wechat_1.png" />
+          <Image Name="logon_newl2.png" />
+          <Image Name="logon_sp_bar_0.png" />
+          <Image Name="logon_sp_bar_1.png" />
+          <Image Name="logon_sp_bar_thumb.png" />
+          <Image Name="logon_sp_line.png" />
+          <Image Name="logon_sp_logo.png" />
+          <Image Name="logon_star1.png" />
+          <Image Name="logon_star2.png" />
+          <Image Name="logon_star3.png" />
+          <Project Name="LogonLayer.csd" Type="Layer" />
+          <Image Name="pos_set.jpg" />
+          <Image Name="text_title.png" />
+          <Image Name="wenzi.png" />
+        </Folder>
+        <Folder Name="match">
+          <Image Name="bnt_signup.png" />
+          <Image Name="btn_back.png" />
+          <Image Name="btn_back1.png" />
+          <Image Name="btn_share1.png" />
+          <Image Name="cell_match.png" />
+          <Image Name="coin.png" />
+          <Image Name="curImg.png" />
+          <Image Name="Dialog_bg.png" />
+          <Image Name="Dialog_btn0.png" />
+          <Image Name="Dialog_btn1.png" />
+          <Image Name="diamond.png" />
+          <Image Name="dingshiBg1.png" />
+          <Image Name="dingshiBg2.png" />
+          <Image Name="dingshiTest.png" />
+          <Image Name="dingshitxt.png" />
+          <Image Name="full_count.png" />
+          <Image Name="game_sign_bg.png" />
+          <Image Name="icon_0.png" />
+          <Image Name="icon_diamond.png" />
+          <Image Name="loadind1.png" />
+          <Image Name="loading2.png" />
+          <Image Name="logo_200.png" />
+          <Image Name="maohao.png" />
+          <Image Name="match_bg.png" />
+          <Image Name="match_btn_fixtime1.png" />
+          <Image Name="match_btn_fixtime2.png" />
+          <Image Name="match_btn_immediate1.png" />
+          <Image Name="match_btn_immediate2.png" />
+          <Image Name="match_btn_quit.png" />
+          <Image Name="match_championcupsp.png" />
+          <Image Name="match_championsp.png" />
+          <Image Name="match_detailbg.png" />
+          <Image Name="match_detailbg2.png" />
+          <Image Name="match_detailtitle.png" />
+          <Project Name="Match_Dialog.csd" Type="Layer" />
+          <Image Name="match_Dialog_close.png" />
+          <Image Name="match_historybg.png" />
+          <Image Name="match_historylabel.png" />
+          <Image Name="match_icon0.png" />
+          <Image Name="match_info_btn1.png" />
+          <Image Name="match_info_btn2.png" />
+          <Image Name="match_info_btn3.png" />
+          <Image Name="match_info_btn4.png" />
+          <Image Name="match_infobg.png" />
+          <Image Name="match_infotxtbg1.png" />
+          <Image Name="match_infotxtbg2.png" />
+          <Image Name="match_mask.png" />
+          <Image Name="match_num.png" />
+          <Image Name="match_progerss0.png" />
+          <Image Name="match_progerss1.png" />
+          <Image Name="match_promotion_atlas1.png" />
+          <Image Name="match_promotion_atlas2.png" />
+          <Image Name="match_promotion_bg.png" />
+          <Image Name="match_promotion_cone.png" />
+          <Image Name="match_promotion_countbg0.png" />
+          <Image Name="match_promotion_countbg1.png" />
+          <Image Name="match_promotion_graybg.png" />
+          <Image Name="match_promotion_progress.png" />
+          <Image Name="match_promotion_progressbg.png" />
+          <Image Name="match_promotion_sp.png" />
+          <Image Name="match_qualified_atlas.png" />
+          <Image Name="match_qualified_info.png" />
+          <Image Name="match_reward_coin.png" />
+          <Image Name="match_secondcupsp.png" />
+          <Image Name="match_secondplacesp.png" />
+          <Image Name="match_timeicon.png" />
+          <Image Name="match_title_1.png" />
+          <Image Name="match_title_2.png" />
+          <Image Name="match_toast.png" />
+          <Image Name="match_wait_atlas.png" />
+          <Image Name="match_wait_atlas1.png" />
+          <Image Name="match_wait_atlas2.png" />
+          <Image Name="match_wait_atlas3.png" />
+          <Image Name="match_wait_atlas4.png" />
+          <Image Name="match_wait_cone.png" />
+          <Image Name="match_wait_dot.png" />
+          <Image Name="match_wait_dot2.png" />
+          <Image Name="match_wait_graybg.png" />
+          <Image Name="match_wait_info.png" />
+          <Image Name="match_wait_notice.png" />
+          <Image Name="match_wait_progress.png" />
+          <Image Name="match_wait_progressbg.png" />
+          <Image Name="match_wait_sp1.png" />
+          <Image Name="match_wait_sp2.png" />
+          <Image Name="match_wait_type.png" />
+          <Project Name="MatchDetailNode.csd" Type="Node" />
+          <Project Name="MatchDetails.csd" Type="Layer" />
+          <Project Name="MatchGameResult.csd" Type="Layer" />
+          <Project Name="MatchHistoryNode.csd" Type="Node" />
+          <Project Name="MatchInfoLayer.csd" Type="Layer" />
+          <Image Name="matchlist_graybg.png" />
+          <Project Name="MatchNode.csd" Type="Node" />
+          <Image Name="matchnode_bg.png" />
+          <Image Name="matchnode_diamond.png" />
+          <Project Name="MatchNode1.csd" Type="Node" />
+          <Project Name="MatchQuery.csd" Type="Layer" />
+          <Project Name="MatchRoomListLayer.csd" Type="Layer" />
+          <Project Name="MatchTips.csd" Type="Layer" />
+          <Image Name="mine_match.png" />
+          <Image Name="mine_match_bg.png" />
+          <Image Name="mine_match_tipsbg.png" />
+          <Image Name="mine_match_title.png" />
+          <Project Name="Mine_MatchLayer.csd" Type="Layer" />
+          <Image Name="mine_tit_bg.png" />
+          <Image Name="new_bg.png" />
+          <Image Name="plaza_sp_diamond.png" />
+          <Image Name="plaza_sp_rankgold.png" />
+          <Project Name="PromotionLayer.csd" Type="Layer" />
+          <Image Name="ref.png" />
+          <Image Name="renshu1.png" />
+          <Image Name="roominfo_bt_1.png" />
+          <Image Name="scoreBg.png" />
+          <Image Name="sign_up_number.png" />
+          <Image Name="sign_up_progress0.png" />
+          <Image Name="sign_up_progress1.png" />
+          <Image Name="tainer_bg.png" />
+          <Image Name="test11.jpg" />
+          <Image Name="test3333.jpg" />
+          <Image Name="TESTbG.png" />
+          <Image Name="ticket.png" />
+          <Image Name="timeBg.png" />
+          <Image Name="tipTxt.png" />
+          <Image Name="title_bg.png" />
+          <Image Name="title_match.png" />
+          <Image Name="wait_bg.png" />
+          <Project Name="Wait_Layer.csd" Type="Layer" />
+          <Project Name="Wait_Layer1.csd" Type="Layer" />
+          <Image Name="zhuzi1.png" />
+        </Folder>
+        <Folder Name="option">
+          <Image Name="entertainment_score_progress.png" />
+          <Image Name="entertainment_score_progressbg.png" />
+          <Image Name="guanbi.png" />
+          <Project Name="LockMachineLayer.csd" Type="Layer" />
+          <Image Name="locktitle.png" />
+          <Image Name="model1.jpg" />
+          <Project Name="node_setBg.csd" Type="Node" />
+          <Image Name="optin_sp_headbg.png" />
+          <Image Name="option_btn_help_0.png" />
+          <Image Name="option_btn_help_1.png" />
+          <Image Name="option_btn_lock_0.png" />
+          <Image Name="option_btn_lock_1.png" />
+          <Image Name="option_btn_service_0.png" />
+          <Image Name="option_btn_service_1.png" />
+          <Image Name="option_btn_switch_0.png" />
+          <Image Name="option_btn_switch_1.png" />
+          <Image Name="option_sp_bg_1.png" />
+          <Image Name="option_sp_bgBox.png" />
+          <Image Name="option_sp_bgBoxBig.png" />
+          <Image Name="option_sp_bgBoxSelect.png" />
+          <Image Name="option_sp_cell_1.png" />
+          <Image Name="option_sp_effect.png" />
+          <Image Name="option_sp_locktitle.png" />
+          <Image Name="option_sp_mask.png" />
+          <Image Name="option_sp_music.png" />
+          <Image Name="option_sp_nickbg.png" />
+          <Image Name="option_sp_sliderbg.png" />
+          <Image Name="option_sp_sliderbg_1.png" />
+          <Image Name="option_sp_sliderthumb_1.png" />
+          <Image Name="option_sp_slience.png" />
+          <Image Name="option_sp_title.png" />
+          <Image Name="option_switch_close_0.png" />
+          <Image Name="option_switch_close_1.png" />
+          <Image Name="option_switch_open_0.png" />
+          <Image Name="option_switch_open_1.png" />
+          <Image Name="setbtn.png" />
+          <Image Name="setModel.png" />
+          <Project Name="SettingLayer.csd" Type="Layer" />
+          <Image Name="szbg.png" />
+        </Folder>
+        <Folder Name="plaza">
+          <Folder Name="0-1" />
+          <Folder Name="action_create">
+            <Project Name="1.csd" Type="Scene" />
+            <Image Name="1.png" />
+            <Image Name="1_1.png" />
+            <Image Name="1_10.png" />
+            <Image Name="1_2.png" />
+            <Image Name="1_3.png" />
+            <Image Name="1_4.png" />
+            <Image Name="1_5.png" />
+            <Image Name="1_6.png" />
+            <Image Name="1_7.png" />
+            <Image Name="1_8.png" />
+            <Image Name="1_9.png" />
+            <Project Name="Node_create.csd" Type="Node" />
+          </Folder>
+          <Folder Name="Plazapng">
+            <Image Name="40.png" />
+            <Image Name="95.png" />
+            <Image Name="bianpao.png" />
+            <Image Name="btn_plus.png" />
+            <Image Name="btn_refresh.png" />
+            <Image Name="bz.png" />
+            <Image Name="dbjb.png" />
+            <Image Name="dbzs.png" />
+            <Image Name="dhbtn.png" />
+            <Image Name="fx.png" />
+            <Image Name="fx_btn.png" />
+            <Image Name="hd.png" />
+            <Image Name="hd_btn.png" />
+            <Image Name="help_btn.png" />
+            <Image Name="img_id.png" />
+            <Image Name="img_share_bg.png" />
+            <Image Name="lxwm_btn.png" />
+            <Image Name="more.png" />
+            <Image Name="optin_sp_headbg.png" />
+            <Image Name="plaza_btn_copy_1.png" />
+            <Image Name="plaza_sp_rewardtips.png" />
+            <Image Name="plaza_sp_wechaticon.png" />
+            <Image Name="public_blank.png" />
+            <Image Name="reward1.png" />
+            <Image Name="sc_btn.png" />
+            <Image Name="shezhi.png" />
+            <Image Name="sm.png" />
+            <Image Name="sz.png" />
+            <Image Name="sz_btn.png" />
+            <Image Name="teahouse_partner_logo2.png" />
+            <Image Name="tsbg.png" />
+            <Image Name="wf_btn.png" />
+            <Image Name="zj.png" />
+            <Image Name="zj_btn.png" />
+          </Folder>
+          <Image Name="0-0.jpg" />
+          <Image Name="0-1.jpg" />
+          <Image Name="0-2.jpg" />
+          <Image Name="bg.png" />
+          <Image Name="bg_flash.png" />
+          <Image Name="bottom_bg.png" />
+          <Image Name="btn_clubmore.png" />
+          <Image Name="btn_voice_chat_0.png" />
+          <Image Name="btn_voice_chat_1.png" />
+          <Image Name="cjclub_btn.png" />
+          <Image Name="clubBtn1.png" />
+          <Image Name="clubBtn2.png" />
+          <Image Name="clubBtn4.png" />
+          <Image Name="clubIcon.png" />
+          <Image Name="clubRight1.png" />
+          <Image Name="clubTitle.png" />
+          <Image Name="content_bg.png" />
+          <Project Name="CreateRoomAni.csd" Type="Node" />
+          <Project Name="DailyBonusLayer.csd" Type="Layer" />
+          <Project Name="F2fQrLayer.csd" Type="Layer" />
+          <Image Name="gameicon_6.png" />
+          <Image Name="gameIcon1.png" />
+          <Image Name="gameIcon2.png" />
+          <Image Name="gameIcon3.png" />
+          <Project Name="GameListLayer.csd" Type="Layer" />
+          <Image Name="HelpBg.png" />
+          <Image Name="helpTest.png" />
+          <Image Name="icon_roomlist_title.png" />
+          <Image Name="index_test.png" />
+          <Image Name="IP.png" />
+          <Image Name="join_set.jpg" />
+          <Project Name="JoinRoomAni.csd" Type="Node" />
+          <Image Name="loction.png" />
+          <ExportJsonFile Name="meinv.ExportJson" />
+          <Image Name="model.png" />
+          <Project Name="node_clubEnter.csd" Type="Node" />
+          <Project Name="node_gameIcon.csd" Type="Node" />
+          <Project Name="node_light.csd" Type="Node" />
+          <Project Name="Node_RankUserInfo.csd" Type="Node" />
+          <Project Name="Node_RankUserInfo_1.csd" Type="Node" />
+          <Project Name="NodeActionCreate.csd" Type="Node" />
+          <Image Name="phbtxt.png" />
+          <Image Name="plaza_atlas_gold.png" />
+          <Image Name="plaza_atlas_ranknum.png" />
+          <Image Name="plaza_atlas_rankscore.png" />
+          <Image Name="plaza_box.png" />
+          <Image Name="plaza_btn_ad_0.png" />
+          <Image Name="plaza_btn_ad_1.png" />
+          <Image Name="plaza_btn_add_0.png" />
+          <Image Name="plaza_btn_add_1.png" />
+          <Image Name="plaza_btn_addialog_close_0.png" />
+          <Image Name="plaza_btn_addialog_close_1.png" />
+          <Image Name="plaza_btn_back_0.png" />
+          <Image Name="plaza_btn_back1_0.png" />
+          <Image Name="plaza_btn_backgame_0.png" />
+          <Image Name="plaza_btn_backgame_1.png" />
+          <Image Name="plaza_btn_changeGame.png" />
+          <Image Name="plaza_btn_chargerank.png" />
+          <Image Name="plaza_btn_checkRoom.png" />
+          <Image Name="plaza_btn_consumerank.png" />
+          <Image Name="plaza_btn_copy_0.png" />
+          <Image Name="plaza_btn_copy_1.png" />
+          <Image Name="plaza_btn_create.png" />
+          <Image Name="plaza_btn_createroom_base.png" />
+          <Image Name="plaza_btn_createroom_select.png" />
+          <Image Name="plaza_btn_dailybonusbox1.png" />
+          <Image Name="plaza_btn_dailybonusbox2.png" />
+          <Image Name="plaza_btn_dailybonusbox3.png" />
+          <Image Name="plaza_btn_dailybonusbox4.png" />
+          <Image Name="plaza_btn_dailybonusbox5.png" />
+          <Image Name="plaza_btn_dailybonusbox6.png" />
+          <Image Name="plaza_btn_dailybonusboxCanGet.png" />
+          <Image Name="plaza_btn_dailybonusboxget.png" />
+          <Image Name="plaza_btn_dailybonusfreeprize.png" />
+          <Image Name="plaza_btn_dailybonusfreeprize1.png" />
+          <Image Name="plaza_btn_diamond_bg.png" />
+          <Image Name="plaza_btn_enter.png" />
+          <Image Name="plaza_btn_enter_0.png" />
+          <Image Name="plaza_btn_exit_0.png" />
+          <Image Name="plaza_btn_exit_1.png" />
+          <Image Name="plaza_btn_fastStart.png" />
+          <Image Name="plaza_btn_fastStart1.png" />
+          <Image Name="plaza_btn_fastStart2.png" />
+          <Image Name="plaza_btn_fastStart3.png" />
+          <Image Name="plaza_btn_fastStart4.png" />
+          <Image Name="plaza_btn_fastStart5.png" />
+          <Image Name="plaza_btn_fastStart6.png" />
+          <Image Name="plaza_btn_fastStart7.png" />
+          <Image Name="plaza_btn_fastStart8.png" />
+          <Image Name="plaza_btn_fastStart9.png" />
+          <Image Name="plaza_btn_frsehen_0.png" />
+          <Image Name="plaza_btn_hiderank_0.png" />
+          <Image Name="plaza_btn_hiderank_1.png" />
+          <Image Name="plaza_btn_introduction_0.png" />
+          <Image Name="plaza_btn_introduction_1.png" />
+          <Image Name="plaza_btn_joinroom_base.png" />
+          <Image Name="plaza_btn_joinroom_select.png" />
+          <Image Name="plaza_btn_kefu_1.png" />
+          <Image Name="plaza_btn_mark_0.png" />
+          <Image Name="plaza_btn_mark_1.png" />
+          <Image Name="plaza_btn_match_base.png" />
+          <Image Name="plaza_btn_more_0.png" />
+          <Image Name="plaza_btn_notice_0.png" />
+          <Image Name="plaza_btn_private_base.png" />
+          <Image Name="plaza_btn_rank.png" />
+          <Image Name="plaza_btn_rankrewards.png" />
+          <Image Name="plaza_btn_rewardExit.png" />
+          <Image Name="plaza_btn_right_0.png" />
+          <Image Name="plaza_btn_roomlistback.png" />
+          <Image Name="plaza_btn_score_bg.png" />
+          <Image Name="plaza_btn_scorelist_0.png" />
+          <Image Name="plaza_btn_scorelist_1.png" />
+          <Image Name="plaza_btn_scorerank.png" />
+          <Image Name="plaza_btn_scorerank1.png" />
+          <Image Name="plaza_btn_service_0.png" />
+          <Image Name="plaza_btn_service_1.png" />
+          <Image Name="plaza_btn_setting_0.png" />
+          <Image Name="plaza_btn_setting_1.png" />
+          <Image Name="plaza_btn_shop_0.png" />
+          <Image Name="plaza_btn_shop_1.png" />
+          <Image Name="plaza_btn_shop_2.png" />
+          <Image Name="plaza_btn_shop_3.png" />
+          <Image Name="plaza_btn_shop_4.png" />
+          <Image Name="plaza_btn_shop_5.png" />
+          <Image Name="plaza_btn_shop_6.png" />
+          <Image Name="plaza_btn_shop_7.png" />
+          <Image Name="plaza_btn_shop_8.png" />
+          <Image Name="plaza_btn_shop_select.png" />
+          <Image Name="plaza_btn_showrank_0.png" />
+          <Image Name="plaza_btn_showrank_1.png" />
+          <Image Name="plaza_btn_sign_0.png" />
+          <Image Name="plaza_btn_spread_0.png" />
+          <Image Name="plaza_btn_spread_01.png" />
+          <Image Name="plaza_btn_spread_1.png" />
+          <Image Name="plaza_btn_spread_10.png" />
+          <Image Name="plaza_btn_spread_2.png" />
+          <Image Name="plaza_btn_spread_3.png" />
+          <Image Name="plaza_btn_spread_4.png" />
+          <Image Name="plaza_btn_spread_5.png" />
+          <Image Name="plaza_btn_spread_6.png" />
+          <Image Name="plaza_btn_spread_7.png" />
+          <Image Name="plaza_btn_spread_8.png" />
+          <Image Name="plaza_btn_spread_9.png" />
+          <Image Name="plaza_btn_spread_select.png" />
+          <Image Name="plaza_btn_sure.png" />
+          <Image Name="plaza_btn_target_cycle.png" />
+          <Image Name="plaza_btn_target_f2f.png" />
+          <Image Name="plaza_btn_target_wx.png" />
+          <Image Name="plaza_btn_task_0.png" />
+          <Image Name="plaza_btn_tips.png" />
+          <Image Name="plaza_btn_winrank.png" />
+          <Image Name="plaza_btn_winrank1.png" />
+          <Image Name="plaza_btn_wx.png" />
+          <Image Name="plaza_moreBtnBg.png" />
+          <Image Name="plaza_roomlist_notable.png" />
+          <Image Name="plaza_score_bg.png" />
+          <Image Name="plaza_score_bg_small.png" />
+          <Image Name="plaza_so_rule_tips.png" />
+          <Image Name="plaza_so_rule_tipsBg.png" />
+          <Image Name="plaza_sp_adbg.png" />
+          <Image Name="plaza_sp_adbg1.png" />
+          <Image Name="plaza_sp_adlist_bg.png" />
+          <Image Name="plaza_sp_adtitle.png" />
+          <Image Name="plaza_sp_bottombg.png" />
+          <Image Name="plaza_sp_chargerank.png" />
+          <Image Name="plaza_sp_consumerank.png" />
+          <Image Name="plaza_sp_create_bg.png" />
+          <Image Name="plaza_sp_createlight.png" />
+          <Image Name="plaza_sp_createroom_dice.png" />
+          <Image Name="plaza_sp_createroom_star.png" />
+          <Image Name="plaza_sp_createroom_title.png" />
+          <Image Name="plaza_sp_dailybonusbg.png" />
+          <Image Name="plaza_sp_dailybonusdesbg.png" />
+          <Image Name="plaza_sp_dailybonusloading.png" />
+          <Image Name="plaza_sp_dailybonusprizebg.png" />
+          <Image Name="plaza_sp_dailybonusprizebox.png" />
+          <Image Name="plaza_sp_dailybonusprizedatebg.png" />
+          <Image Name="plaza_sp_dailybonusprizedaybg.png" />
+          <Image Name="plaza_sp_dailybonusshadow.png" />
+          <Image Name="plaza_sp_dailybonustablebg.png" />
+          <Image Name="plaza_sp_dailybonustableselect.png" />
+          <Image Name="plaza_sp_dailybonustipsbg.png" />
+          <Image Name="plaza_sp_dailybonustitle.png" />
+          <Image Name="plaza_sp_dailybonustitlebg.png" />
+          <Image Name="plaza_sp_diamond.png" />
+          <Image Name="plaza_sp_diamondbg.png" />
+          <Image Name="plaza_sp_gold1.png" />
+          <Image Name="plaza_sp_gold3.png" />
+          <Image Name="plaza_sp_headbg.png" />
+          <Image Name="plaza_sp_headbg_1.png" />
+          <Image Name="plaza_sp_iconaction1.png" />
+          <Image Name="plaza_sp_iconaction2.png" />
+          <Image Name="plaza_sp_iconaction3.png" />
+          <Image Name="plaza_sp_iconaction4.png" />
+          <Image Name="plaza_sp_iconaction5.png" />
+          <Image Name="plaza_sp_iconaction6.png" />
+          <Image Name="plaza_sp_iconaction7.png" />
+          <Image Name="plaza_sp_iconaction8.png" />
+          <Image Name="plaza_sp_iconaction9.png" />
+          <Image Name="plaza_sp_iconMyCode.png" />
+          <Image Name="plaza_sp_idbg.png" />
+          <Image Name="plaza_sp_identify.png" />
+          <Image Name="plaza_sp_idicon.png" />
+          <Image Name="plaza_sp_idNum.png" />
+          <Image Name="plaza_sp_indicator_0.png" />
+          <Image Name="plaza_sp_indicator_1.png" />
+          <Image Name="plaza_sp_invitetitle.png" />
+          <Image Name="plaza_sp_itembg.png" />
+          <Image Name="plaza_sp_join_fa.png" />
+          <Image Name="plaza_sp_join_stars.png" />
+          <Image Name="plaza_sp_join_zhong.png" />
+          <Image Name="plaza_sp_joinlight.png" />
+          <Image Name="plaza_sp_joinroom_title.png" />
+          <Image Name="plaza_sp_left.png" />
+          <Image Name="plaza_sp_light.png" />
+          <Image Name="plaza_sp_listrank.png" />
+          <Image Name="plaza_sp_logo.png" />
+          <Image Name="plaza_sp_logo_bg.png" />
+          <Image Name="plaza_sp_multigame_bg.png" />
+          <Image Name="plaza_sp_myRank.png" />
+          <Image Name="plaza_sp_notice__btnflag.png" />
+          <Image Name="plaza_sp_notice__btnflag_1.png" />
+          <Image Name="plaza_sp_playerNumIcon.png" />
+          <Image Name="plaza_sp_progress_1.png" />
+          <Image Name="plaza_sp_progress_2.png" />
+          <Image Name="plaza_sp_rank_1.png" />
+          <Image Name="plaza_sp_rank_2.png" />
+          <Image Name="plaza_sp_rank_3.png" />
+          <Image Name="plaza_sp_rank_diamond.png" />
+          <Image Name="plaza_sp_rank_gold.png" />
+          <Image Name="plaza_sp_rank_num.png" />
+          <Image Name="plaza_sp_rank_numW.png" />
+          <Image Name="plaza_sp_rank_title.png" />
+          <Image Name="plaza_sp_rank_wan.png" />
+          <Image Name="plaza_sp_rank_yi.png" />
+          <Image Name="plaza_sp_rank1.png" />
+          <Image Name="plaza_sp_rank2.png" />
+          <Image Name="plaza_sp_rank3.png" />
+          <Image Name="plaza_sp_rankbg.png" />
+          <Image Name="plaza_sp_rankcellitem.png" />
+          <Image Name="plaza_sp_rankgold.png" />
+          <Image Name="plaza_sp_rankheadbg.png" />
+          <Image Name="plaza_sp_rankline.png" />
+          <Image Name="plaza_sp_ranknickbg.png" />
+          <Image Name="plaza_sp_rankreward_itembg.png" />
+          <Image Name="plaza_sp_rankrewardbg.png" />
+          <Image Name="plaza_sp_rankrewards_faceBg.png" />
+          <Image Name="plaza_sp_rankrewards_faceBgsmall.png" />
+          <Image Name="plaza_sp_rankrewards_facebox1.png" />
+          <Image Name="plaza_sp_rankrewards_facebox2.png" />
+          <Image Name="plaza_sp_rankrewards_facebox3.png" />
+          <Image Name="plaza_sp_rankrewards_facebox4.png" />
+          <Image Name="plaza_sp_rankrewards_infobg.png" />
+          <Image Name="plaza_sp_rankrewards_line.png" />
+          <Image Name="plaza_sp_rankrewards_title.png" />
+          <Image Name="plaza_sp_rankrewards_title1.png" />
+          <Image Name="plaza_sp_rankrewards1.png" />
+          <Image Name="plaza_sp_rankrewards2.png" />
+          <Image Name="plaza_sp_rankrewards3.png" />
+          <Image Name="plaza_sp_rankrewards4.png" />
+          <Image Name="plaza_sp_ranktitle_bg.png" />
+          <Image Name="plaza_sp_reddot.png" />
+          <Image Name="plaza_sp_rewardlight.png" />
+          <Image Name="plaza_sp_rewards.png" />
+          <Image Name="plaza_sp_rewardstitaction1.png" />
+          <Image Name="plaza_sp_rewardstitaction2.png" />
+          <Image Name="plaza_sp_rewardstitaction3.png" />
+          <Image Name="plaza_sp_rewardstitaction4.png" />
+          <Image Name="plaza_sp_rewardstitaction5.png" />
+          <Image Name="plaza_sp_rewardstitaction6.png" />
+          <Image Name="plaza_sp_rewardstitaction7.png" />
+          <Image Name="plaza_sp_rewardstitaction8.png" />
+          <Image Name="plaza_sp_rewardstitaction9.png" />
+          <Image Name="plaza_sp_rewardtips.png" />
+          <Image Name="plaza_sp_rewardtitle.png" />
+          <Image Name="plaza_sp_right.png" />
+          <Image Name="plaza_sp_rommlist_title.png" />
+          <Image Name="plaza_sp_roomInfo_bg.png" />
+          <Image Name="plaza_sp_roomlist_title.png" />
+          <Image Name="plaza_sp_roomListbg.png" />
+          <Image Name="plaza_sp_ruleIcon.png" />
+          <Image Name="plaza_sp_score.png" />
+          <Image Name="plaza_sp_scorernak.png" />
+          <Image Name="plaza_sp_sharetitle.png" />
+          <Image Name="plaza_sp_sharetitle_bg.png" />
+          <Image Name="plaza_sp_shop.png" />
+          <Image Name="plaza_sp_shop1.png" />
+          <Image Name="plaza_sp_shop10.png" />
+          <Image Name="plaza_sp_shop2.png" />
+          <Image Name="plaza_sp_shop3.png" />
+          <Image Name="plaza_sp_shop4.png" />
+          <Image Name="plaza_sp_shop5.png" />
+          <Image Name="plaza_sp_shop6.png" />
+          <Image Name="plaza_sp_shop7.png" />
+          <Image Name="plaza_sp_shop8.png" />
+          <Image Name="plaza_sp_shop9.png" />
+          <Image Name="plaza_sp_shopbtn_bg.png" />
+          <Image Name="plaza_sp_targetshare_bg.png" />
+          <Image Name="plaza_sp_text_enterLimit.png" />
+          <Image Name="plaza_sp_text_score.png" />
+          <Image Name="plaza_sp_tipsBg.png" />
+          <Image Name="plaza_sp_title_bg.png" />
+          <Image Name="plaza_sp_top_bg.png" />
+          <Image Name="plaza_sp_trumpleflag.png" />
+          <Image Name="plaza_sp_wealthtitle.png" />
+          <Image Name="plaza_sp_wechaticon.png" />
+          <Image Name="plaza_sp_wintitle.png" />
+          <Image Name="plaza_spani_buttonlight_1.png" />
+          <Image Name="plaza_spani_buttonlight_2.png" />
+          <Image Name="plaza_spani_buttonlight_3.png" />
+          <Image Name="plaza_spani_buttonlight_4.png" />
+          <Image Name="plaza_spani_buttonlight_5.png" />
+          <Image Name="plaza_spani_buttonlight_6.png" />
+          <Image Name="plaza_spani_buttonlight_7.png" />
+          <Image Name="plaza_spani_buttonlight_8.png" />
+          <Image Name="plaza_spani_jointbuttonlight_1.png" />
+          <Image Name="plaza_spani_jointbuttonlight_2.png" />
+          <Image Name="plaza_spani_jointbuttonlight_3.png" />
+          <Image Name="plaza_spani_jointbuttonlight_4.png" />
+          <Image Name="plaza_spani_jointbuttonlight_5.png" />
+          <Image Name="plaza_spani_jointbuttonlight_6.png" />
+          <Image Name="plaza_spani_jointbuttonlight_7.png" />
+          <Image Name="plaza_spani_jointbuttonlight_8.png" />
+          <Image Name="plaza_title_gamelist.png" />
+          <Image Name="plaza_title_gold.png" />
+          <Project Name="PlazaAdLayer.csd" Type="Layer" />
+          <Project Name="PlazaLayer.csd" Type="Layer" />
+          <Image Name="rank_user_Sign.png" />
+          <Image Name="rank_userbg.png" />
+          <Image Name="rank_userbg_1.png" />
+          <Image Name="rank_userFemale.png" />
+          <Image Name="rank_userMale.png" />
+          <Project Name="RankItemNode.csd" Type="Node" />
+          <Project Name="RankItemNode_Rewards.csd" Type="Node" />
+          <Project Name="RankListLayer.csd" Type="Layer" />
+          <Project Name="RankNormalItemNode.csd" Type="Node" />
+          <Project Name="RankRewardItemNode.csd" Type="Node" />
+          <Project Name="RankRewardLayer.csd" Type="Layer" />
+          <Image Name="recon_sp_waitround.png" />
+          <Project Name="ReConnectPopWait.csd" Type="Layer" />
+          <Project Name="RewardLayer.csd" Type="Layer" />
+          <Project Name="RoomInfoNode.csd" Type="Node" />
+          <Project Name="RoomListLayer.csd" Type="Layer" />
+          <Project Name="RoomListLayer_score.csd" Type="Layer" />
+          <Project Name="RoonInfoLayer.csd" Type="Layer" />
+          <Image Name="scoreAdd.png" />
+          <Image Name="scoreNum.png" />
+          <Image Name="tabs_bg.png" />
+          <Project Name="TargetShareLayer.csd" Type="Layer" />
+          <Image Name="tipsbg.png" />
+          <Image Name="titbg.png" />
+          <Image Name="top_bg.png" />
+          <Project Name="VoiceRecordLayer.csd" Type="Layer" />
+          <Image Name="web_title.png" />
+          <Project Name="WebViewLayer.csd" Type="Layer" />
+        </Folder>
+        <PlistImageFolder Image="plaza.png" PListFile="plaza.plist" Name=".plaza_PList.Dir">
+          <PlistImageFile Name="122-title.png" Key="122-title.png" />
+          <PlistImageFile Name="back_btn.png" Key="back_btn.png" />
+          <PlistImageFile Name="bg_input_password.png" Key="bg_input_password.png" />
+          <PlistImageFile Name="bt_ok_down.png" Key="bt_ok_down.png" />
+          <PlistImageFile Name="bt_ok_up.png" Key="bt_ok_up.png" />
+          <PlistImageFile Name="dengjitiao.png" Key="dengjitiao.png" />
+          <PlistImageFile Name="desk_framback.png" Key="desk_framback.png" />
+          <PlistImageFile Name="desk_lock.png" Key="desk_lock.png" />
+          <PlistImageFile Name="desk_noBody.png" Key="desk_noBody.png" />
+          <PlistImageFile Name="desk_playing.png" Key="desk_playing.png" />
+          <PlistImageFile Name="desk_pwd.png" Key="desk_pwd.png" />
+          <PlistImageFile Name="desk_pwd_text.png" Key="desk_pwd_text.png" />
+          <PlistImageFile Name="desk_quickEnter.png" Key="desk_quickEnter.png" />
+          <PlistImageFile Name="desk_ready.png" Key="desk_ready.png" />
+          <PlistImageFile Name="flag_group.png" Key="flag_group.png" />
+          <PlistImageFile Name="game_page_0.png" Key="game_page_0.png" />
+          <PlistImageFile Name="game_page_1.png" Key="game_page_1.png" />
+          <PlistImageFile Name="group_exit.png" Key="group_exit.png" />
+          <PlistImageFile Name="group_join.png" Key="group_join.png" />
+          <PlistImageFile Name="group_mode.png" Key="group_mode.png" />
+          <PlistImageFile Name="level_cat.png" Key="level_cat.png" />
+          <PlistImageFile Name="level_progress.png" Key="level_progress.png" />
+          <PlistImageFile Name="room_0.png" Key="room_0.png" />
+          <PlistImageFile Name="room_1.png" Key="room_1.png" />
+          <PlistImageFile Name="room_2.png" Key="room_2.png" />
+          <PlistImageFile Name="room_3.png" Key="room_3.png" />
+          <PlistImageFile Name="room_menu_back.png" Key="room_menu_back.png" />
+          <PlistImageFile Name="room_type_1.png" Key="room_type_1.png" />
+          <PlistImageFile Name="room_type_10.png" Key="room_type_10.png" />
+          <PlistImageFile Name="room_type_2.png" Key="room_type_2.png" />
+          <PlistImageFile Name="room_type_3.png" Key="room_type_3.png" />
+          <PlistImageFile Name="room_type_4.png" Key="room_type_4.png" />
+          <PlistImageFile Name="room_type_5.png" Key="room_type_5.png" />
+          <PlistImageFile Name="room_type_6.png" Key="room_type_6.png" />
+          <PlistImageFile Name="room_type_7.png" Key="room_type_7.png" />
+          <PlistImageFile Name="room_type_8.png" Key="room_type_8.png" />
+          <PlistImageFile Name="room_type_9.png" Key="room_type_9.png" />
+          <PlistImageFile Name="txt_room_score.png" Key="txt_room_score.png" />
+        </PlistImageFolder>
+        <Folder Name="plazaAction">
+          <Image Name="0-1.png" />
+          <Project Name="1.csd" Type="Scene" />
+          <Image Name="1-1.png" />
+          <Image Name="1-2.png" />
+          <Image Name="1-3.png" />
+          <Image Name="1-3-2.png" />
+          <Image Name="1-4.png" />
+          <Image Name="1-5.png" />
+          <Image Name="1-6.png" />
+          <Image Name="1-7.png" />
+          <Image Name="1-8.png" />
+          <Image Name="1-9.png" />
+          <Project Name="Node.csd" Type="Node" />
+        </Folder>
+        <Folder Name="Plazapng">
+          <Image Name="40.png" />
+          <Image Name="95.png" />
+          <Image Name="bianpao.png" />
+          <Image Name="btn_plus.png" />
+          <Image Name="btn_refresh.png" />
+          <Image Name="bz.png" />
+          <Image Name="dbjb.png" />
+          <Image Name="dbzs.png" />
+          <Image Name="dhbtn.png" />
+          <Image Name="fx.png" />
+          <Image Name="fx_btn.png" />
+          <Image Name="hd.png" />
+          <Image Name="hd_btn.png" />
+          <Image Name="help_btn.png" />
+          <Image Name="img_share_bg.png" />
+          <Image Name="lxwm_btn.png" />
+          <Image Name="more.png" />
+          <Image Name="plaza_btn_copy_1.png" />
+          <Image Name="plaza_sp_rewardtips.png" />
+          <Image Name="reward1.png" />
+          <Image Name="sc_btn.png" />
+          <Image Name="shezhi.png" />
+          <Image Name="sm.png" />
+          <Image Name="sz.png" />
+          <Image Name="sz_btn.png" />
+          <Image Name="teahouse_partner_logo2.png" />
+          <Image Name="tsbg.png" />
+          <Image Name="wf_btn.png" />
+          <Image Name="zj.png" />
+          <Image Name="zj_btn.png" />
+        </Folder>
+        <Folder Name="private">
+          <Image Name="bg.png" />
+          <Image Name="bg5.png" />
+          <Image Name="btn0.png" />
+          <Image Name="btn1.png" />
+          <Image Name="btn2.png" />
+          <Image Name="btn3.png" />
+          <Image Name="btn4.png" />
+          <Image Name="btn5.png" />
+          <Image Name="btn6.png" />
+          <Image Name="btn7.png" />
+          <Image Name="btn8.png" />
+          <Image Name="btn9.png" />
+          <Image Name="cs.png" />
+          <Image Name="detail_set.jpg" />
+          <Image Name="gb.png" />
+          <Image Name="guanbi.png" />
+          <Image Name="icon_time.png" />
+          <Image Name="innerbg.png" />
+          <Image Name="join_set.jpg" />
+          <Image Name="plaza_sp_title_bg.png" />
+          <Image Name="pri_atlas_joinroomid.png" />
+          <Image Name="pri_btn_clear_0.png" />
+          <Image Name="pri_btn_clear_1.png" />
+          <Image Name="pri_btn_copy_0.png" />
+          <Image Name="pri_btn_copy_1.png" />
+          <Image Name="pri_btn_create_0.png" />
+          <Image Name="pri_btn_create_1.png" />
+          <Image Name="pri_btn_del_0.png" />
+          <Image Name="pri_btn_del_1.png" />
+          <Image Name="pri_btn_detail_dissume_0.png" />
+          <Image Name="pri_btn_detail_dissume_1.png" />
+          <Image Name="pri_btn_detail_invite_0.png" />
+          <Image Name="pri_btn_detail_invite_1.png" />
+          <Image Name="pri_btn_detail_join_0.png" />
+          <Image Name="pri_btn_detail_join_1.png" />
+          <Image Name="pri_btn_enterroom_0.png" />
+          <Image Name="pri_btn_enterroom_1.png" />
+          <Image Name="pri_btn_invite_0.png" />
+          <Image Name="pri_btn_invite_1.png" />
+          <Image Name="pri_btn_Join_0.png" />
+          <Image Name="pri_btn_Join_1.png" />
+          <Image Name="pri_btn_joingame_0.png" />
+          <Image Name="pri_btn_joingame_1.png" />
+          <Image Name="pri_btn_NoJoin_0.png" />
+          <Image Name="pri_btn_NoJoin_1.png" />
+          <Image Name="pri_btn_num_0_0.png" />
+          <Image Name="pri_btn_num_0_1.png" />
+          <Image Name="pri_btn_num_1_0.png" />
+          <Image Name="pri_btn_num_1_1.png" />
+          <Image Name="pri_btn_num_2_0.png" />
+          <Image Name="pri_btn_num_2_1.png" />
+          <Image Name="pri_btn_num_3_0.png" />
+          <Image Name="pri_btn_num_3_1.png" />
+          <Image Name="pri_btn_num_4_0.png" />
+          <Image Name="pri_btn_num_4_1.png" />
+          <Image Name="pri_btn_num_5_0.png" />
+          <Image Name="pri_btn_num_5_1.png" />
+          <Image Name="pri_btn_num_6_0.png" />
+          <Image Name="pri_btn_num_6_1.png" />
+          <Image Name="pri_btn_num_7_0.png" />
+          <Image Name="pri_btn_num_7_1.png" />
+          <Image Name="pri_btn_num_8_0.png" />
+          <Image Name="pri_btn_num_8_1.png" />
+          <Image Name="pri_btn_num_9_0.png" />
+          <Image Name="pri_btn_num_9_1.png" />
+          <Image Name="pri_btn_record_0.png" />
+          <Image Name="pri_btn_record_1.png" />
+          <Image Name="pri_btn_sure_0.png" />
+          <Image Name="pri_btn_sure_1.png" />
+          <Image Name="pri_btn_video_0.png" />
+          <Image Name="pri_btn_video_1.png" />
+          <Image Name="pri_icon_playerNum.png" />
+          <Image Name="pri_sp_backbtn_bg.png" />
+          <Image Name="pri_sp_bg.png" />
+          <Image Name="pri_sp_bottombg.png" />
+          <Image Name="pri_sp_detail_bg_2.png" />
+          <Image Name="pri_sp_detail_status_tips.png" />
+          <Image Name="pri_sp_detail_tips.png" />
+          <Image Name="pri_sp_detail_title.png" />
+          <Image Name="pri_sp_flag.png" />
+          <Image Name="pri_sp_gamemarf_mahjong.png" />
+          <Image Name="pri_sp_join_title.png" />
+          <Image Name="pri_sp_joingame_role.png" />
+          <Image Name="pri_sp_joinnum_bg.png" />
+          <Image Name="pri_sp_numbg_0.png" />
+          <Image Name="pri_sp_numbg_1.png" />
+          <Image Name="pri_sp_passwdbg.png" />
+          <Image Name="pri_sp_passwdinputbg.png" />
+          <Image Name="pri_sp_record_cellbg.png" />
+          <Image Name="pri_sp_recordbg_1.png" />
+          <Image Name="pri_sp_roomlist_tips.png" />
+          <Image Name="pri_sp_roomlist_title.png" />
+          <Image Name="pri_sp_roomPasswd_title.png" />
+          <Image Name="pri_sp_state_end.png" />
+          <Image Name="pri_sp_state_free.png" />
+          <Image Name="pri_sp_state_play.png" />
+          <Image Name="pri_sp_tab_select.png" />
+          <Image Name="pri_sp_tabs_bg.png" />
+          <Image Name="pri_sp_timeicon.png" />
+          <Image Name="pri_sp_timeicon1.png" />
+          <Image Name="pri_sp_tips.png" />
+          <Image Name="pri_sp_title_setting.png" />
+          <Image Name="pri_sp_topbg.png" />
+          <Image Name="pri_sp_wait.png" />
+          <Project Name="PrivateCreateResLayer.csd" Type="Layer" />
+          <Project Name="PrivateDetailLayer.csd" Type="Layer" />
+          <Project Name="PrivateIdEditLayer.csd" Type="Layer" />
+          <Project Name="PrivateIdInputLayer.csd" Type="Layer" />
+          <Project Name="PrivatePasswdInputLayer.csd" Type="Layer" />
+          <Project Name="PrivateRecordLayer.csd" Type="Layer" />
+          <Project Name="PrivateRecordNode.csd" Type="Node" />
+          <Project Name="PrivateScoreInputLayer.csd" Type="Layer" />
+          <Image Name="rectbg.png" />
+          <Image Name="sc.png" />
+          <Image Name="shuruk.png" />
+          <Image Name="sr.png" />
+        </Folder>
+        <Folder Name="public">
+          <PlistImageFolder Image="public.png" PListFile="public.plist" Name=".public_PList.Dir">
+            <PlistImageFile Name="ani_loading_0.png" Key="ani_loading_0.png" />
+            <PlistImageFile Name="ani_loading_1.png" Key="ani_loading_1.png" />
+            <PlistImageFile Name="ani_loading_10.png" Key="ani_loading_10.png" />
+            <PlistImageFile Name="ani_loading_11.png" Key="ani_loading_11.png" />
+            <PlistImageFile Name="ani_loading_12.png" Key="ani_loading_12.png" />
+            <PlistImageFile Name="ani_loading_13.png" Key="ani_loading_13.png" />
+            <PlistImageFile Name="ani_loading_14.png" Key="ani_loading_14.png" />
+            <PlistImageFile Name="ani_loading_15.png" Key="ani_loading_15.png" />
+            <PlistImageFile Name="ani_loading_16.png" Key="ani_loading_16.png" />
+            <PlistImageFile Name="ani_loading_17.png" Key="ani_loading_17.png" />
+            <PlistImageFile Name="ani_loading_18.png" Key="ani_loading_18.png" />
+            <PlistImageFile Name="ani_loading_19.png" Key="ani_loading_19.png" />
+            <PlistImageFile Name="ani_loading_2.png" Key="ani_loading_2.png" />
+            <PlistImageFile Name="ani_loading_20.png" Key="ani_loading_20.png" />
+            <PlistImageFile Name="ani_loading_21.png" Key="ani_loading_21.png" />
+            <PlistImageFile Name="ani_loading_22.png" Key="ani_loading_22.png" />
+            <PlistImageFile Name="ani_loading_23.png" Key="ani_loading_23.png" />
+            <PlistImageFile Name="ani_loading_24.png" Key="ani_loading_24.png" />
+            <PlistImageFile Name="ani_loading_25.png" Key="ani_loading_25.png" />
+            <PlistImageFile Name="ani_loading_26.png" Key="ani_loading_26.png" />
+            <PlistImageFile Name="ani_loading_27.png" Key="ani_loading_27.png" />
+            <PlistImageFile Name="ani_loading_28.png" Key="ani_loading_28.png" />
+            <PlistImageFile Name="ani_loading_29.png" Key="ani_loading_29.png" />
+            <PlistImageFile Name="ani_loading_3.png" Key="ani_loading_3.png" />
+            <PlistImageFile Name="ani_loading_30.png" Key="ani_loading_30.png" />
+            <PlistImageFile Name="ani_loading_31.png" Key="ani_loading_31.png" />
+            <PlistImageFile Name="ani_loading_32.png" Key="ani_loading_32.png" />
+            <PlistImageFile Name="ani_loading_33.png" Key="ani_loading_33.png" />
+            <PlistImageFile Name="ani_loading_34.png" Key="ani_loading_34.png" />
+            <PlistImageFile Name="ani_loading_35.png" Key="ani_loading_35.png" />
+            <PlistImageFile Name="ani_loading_36.png" Key="ani_loading_36.png" />
+            <PlistImageFile Name="ani_loading_37.png" Key="ani_loading_37.png" />
+            <PlistImageFile Name="ani_loading_38.png" Key="ani_loading_38.png" />
+            <PlistImageFile Name="ani_loading_39.png" Key="ani_loading_39.png" />
+            <PlistImageFile Name="ani_loading_4.png" Key="ani_loading_4.png" />
+            <PlistImageFile Name="ani_loading_40.png" Key="ani_loading_40.png" />
+            <PlistImageFile Name="ani_loading_41.png" Key="ani_loading_41.png" />
+            <PlistImageFile Name="ani_loading_42.png" Key="ani_loading_42.png" />
+            <PlistImageFile Name="ani_loading_43.png" Key="ani_loading_43.png" />
+            <PlistImageFile Name="ani_loading_44.png" Key="ani_loading_44.png" />
+            <PlistImageFile Name="ani_loading_45.png" Key="ani_loading_45.png" />
+            <PlistImageFile Name="ani_loading_46.png" Key="ani_loading_46.png" />
+            <PlistImageFile Name="ani_loading_47.png" Key="ani_loading_47.png" />
+            <PlistImageFile Name="ani_loading_48.png" Key="ani_loading_48.png" />
+            <PlistImageFile Name="ani_loading_49.png" Key="ani_loading_49.png" />
+            <PlistImageFile Name="ani_loading_5.png" Key="ani_loading_5.png" />
+            <PlistImageFile Name="ani_loading_50.png" Key="ani_loading_50.png" />
+            <PlistImageFile Name="ani_loading_51.png" Key="ani_loading_51.png" />
+            <PlistImageFile Name="ani_loading_52.png" Key="ani_loading_52.png" />
+            <PlistImageFile Name="ani_loading_53.png" Key="ani_loading_53.png" />
+            <PlistImageFile Name="ani_loading_54.png" Key="ani_loading_54.png" />
+            <PlistImageFile Name="ani_loading_55.png" Key="ani_loading_55.png" />
+            <PlistImageFile Name="ani_loading_56.png" Key="ani_loading_56.png" />
+            <PlistImageFile Name="ani_loading_57.png" Key="ani_loading_57.png" />
+            <PlistImageFile Name="ani_loading_58.png" Key="ani_loading_58.png" />
+            <PlistImageFile Name="ani_loading_59.png" Key="ani_loading_59.png" />
+            <PlistImageFile Name="ani_loading_6.png" Key="ani_loading_6.png" />
+            <PlistImageFile Name="ani_loading_60.png" Key="ani_loading_60.png" />
+            <PlistImageFile Name="ani_loading_61.png" Key="ani_loading_61.png" />
+            <PlistImageFile Name="ani_loading_62.png" Key="ani_loading_62.png" />
+            <PlistImageFile Name="ani_loading_63.png" Key="ani_loading_63.png" />
+            <PlistImageFile Name="ani_loading_64.png" Key="ani_loading_64.png" />
+            <PlistImageFile Name="ani_loading_65.png" Key="ani_loading_65.png" />
+            <PlistImageFile Name="ani_loading_66.png" Key="ani_loading_66.png" />
+            <PlistImageFile Name="ani_loading_67.png" Key="ani_loading_67.png" />
+            <PlistImageFile Name="ani_loading_68.png" Key="ani_loading_68.png" />
+            <PlistImageFile Name="ani_loading_69.png" Key="ani_loading_69.png" />
+            <PlistImageFile Name="ani_loading_7.png" Key="ani_loading_7.png" />
+            <PlistImageFile Name="ani_loading_70.png" Key="ani_loading_70.png" />
+            <PlistImageFile Name="ani_loading_71.png" Key="ani_loading_71.png" />
+            <PlistImageFile Name="ani_loading_72.png" Key="ani_loading_72.png" />
+            <PlistImageFile Name="ani_loading_73.png" Key="ani_loading_73.png" />
+            <PlistImageFile Name="ani_loading_74.png" Key="ani_loading_74.png" />
+            <PlistImageFile Name="ani_loading_75.png" Key="ani_loading_75.png" />
+            <PlistImageFile Name="ani_loading_76.png" Key="ani_loading_76.png" />
+            <PlistImageFile Name="ani_loading_764.png" Key="ani_loading_764.png" />
+            <PlistImageFile Name="ani_loading_77.png" Key="ani_loading_77.png" />
+            <PlistImageFile Name="ani_loading_78.png" Key="ani_loading_78.png" />
+            <PlistImageFile Name="ani_loading_79.png" Key="ani_loading_79.png" />
+            <PlistImageFile Name="ani_loading_8.png" Key="ani_loading_8.png" />
+            <PlistImageFile Name="ani_loading_9.png" Key="ani_loading_9.png" />
+            <PlistImageFile Name="Avatar0.png" Key="Avatar0.png" />
+            <PlistImageFile Name="chag_frame.png" Key="chag_frame.png" />
+            <PlistImageFile Name="chat_bg.png" Key="chat_bg.png" />
+            <PlistImageFile Name="chat_close.png" Key="chat_close.png" />
+            <PlistImageFile Name="chat_close_0.png" Key="chat_close_0.png" />
+            <PlistImageFile Name="chat_his.png" Key="chat_his.png" />
+            <PlistImageFile Name="chat_item_framebg.png" Key="chat_item_framebg.png" />
+            <PlistImageFile Name="chat_record_0.png" Key="chat_record_0.png" />
+            <PlistImageFile Name="chat_record_1.png" Key="chat_record_1.png" />
+            <PlistImageFile Name="chat_send.png" Key="chat_send.png" />
+            <PlistImageFile Name="chat_send_1.png" Key="chat_send_1.png" />
+            <PlistImageFile Name="chat_texts_0.png" Key="chat_texts_0.png" />
+            <PlistImageFile Name="chat_texts_1.png" Key="chat_texts_1.png" />
+            <PlistImageFile Name="public_sp_popinfo_bg.png" Key="public_sp_popinfo_bg.png" />
+            <PlistImageFile Name="public_sp_popinfo_frame.png" Key="public_sp_popinfo_frame.png" />
+            <PlistImageFile Name="public_sp_systitle.png" Key="public_sp_systitle.png" />
+            <PlistImageFile Name="record_chat_begin_ani_0.png" Key="record_chat_begin_ani_0.png" />
+            <PlistImageFile Name="record_chat_begin_ani_1.png" Key="record_chat_begin_ani_1.png" />
+            <PlistImageFile Name="record_play_ani_1.png" Key="record_play_ani_1.png" />
+            <PlistImageFile Name="record_play_ani_2.png" Key="record_play_ani_2.png" />
+            <PlistImageFile Name="record_play_ani_3.png" Key="record_play_ani_3.png" />
+            <PlistImageFile Name="record_volum_aini_1.png" Key="record_volum_aini_1.png" />
+            <PlistImageFile Name="record_volum_aini_10.png" Key="record_volum_aini_10.png" />
+            <PlistImageFile Name="record_volum_aini_2.png" Key="record_volum_aini_2.png" />
+            <PlistImageFile Name="record_volum_aini_3.png" Key="record_volum_aini_3.png" />
+            <PlistImageFile Name="record_volum_aini_4.png" Key="record_volum_aini_4.png" />
+            <PlistImageFile Name="record_volum_aini_5.png" Key="record_volum_aini_5.png" />
+            <PlistImageFile Name="record_volum_aini_6.png" Key="record_volum_aini_6.png" />
+            <PlistImageFile Name="record_volum_aini_7.png" Key="record_volum_aini_7.png" />
+            <PlistImageFile Name="record_volum_aini_8.png" Key="record_volum_aini_8.png" />
+            <PlistImageFile Name="record_volum_aini_9.png" Key="record_volum_aini_9.png" />
+          </PlistImageFolder>
+          <Image Name="background_2.png" />
+          <Image Name="background_3.png" />
+          <Image Name="bg1.png" />
+          <Image Name="bg2.png" />
+          <Image Name="bg3.png" />
+          <Image Name="bg4.png" />
+          <Image Name="btn_darkblue.png" />
+          <Image Name="btn_darkred.png" />
+          <Image Name="btn_purple.png" />
+          <Image Name="enter1.png" />
+          <Image Name="enterNum.png" />
+          <Image Name="frame_agent_1.png" />
+          <Project Name="GameChatLayer.csd" Type="Layer" />
+          <Project Name="GamePopInfo.csd" Type="Layer" />
+          <Project Name="GamePopInfoNormal.csd" Type="Layer" />
+          <Image Name="hongbaoBg.png" />
+          <Image Name="mark_sp_Listbg.png" />
+          <Project Name="Node_RoomInfo.csd" Type="Node" />
+          <Project Name="Node_RoomInfo_NoGold.csd" Type="Node" />
+          <Project Name="nodeActionFastGame.csd" Type="Node" />
+          <Image Name="plaza_spicon_cion.png" />
+          <Image Name="plaza_spicon_player.png" />
+          <Project Name="PlazzPopInfo.csd" Type="Layer" />
+          <Project Name="PlazzPopInfoNormal.csd" Type="Layer" />
+          <Image Name="pri_sp_tab_select.png" />
+          <Image Name="pri_sp_tabs_bg.png" />
+          <Image Name="prop_1.png" />
+          <Image Name="prop_2.png" />
+          <Image Name="prop_Bg.png" />
+          <Image Name="prop_gold.png" />
+          <Image Name="prop_line.png" />
+          <Image Name="prop_numBg.png" />
+          <Image Name="prop_test.png" />
+          <Image Name="public_background_4.png" />
+          <Image Name="public_blank.png" />
+          <Image Name="public_btn_back_0.png" />
+          <Image Name="public_btn_back_1.png" />
+          <Image Name="public_btn_close_0.png" />
+          <Image Name="public_btn_close_1.png" />
+          <Image Name="public_btn_close_1_0.png" />
+          <Image Name="public_btn_close_2_0.png" />
+          <Image Name="public_btn_close_4.png" />
+          <Image Name="public_btn_sure_0.png" />
+          <Image Name="public_btn_sure_1.png" />
+          <Image Name="public_btn_tips.png" />
+          <Image Name="public_chat_txtSelect.png" />
+          <Image Name="public_chatBg.png" />
+          <Image Name="public_chatEmoj.png" />
+          <Image Name="public_chatLine.png" />
+          <Image Name="public_chatSelect.png" />
+          <Image Name="public_chatTxt.png" />
+          <Image Name="public_editBg.png" />
+          <Image Name="public_pop_frame.png" />
+          <Image Name="public_popbg.png" />
+          <Image Name="public_popbg_2.png" />
+          <Image Name="public_popbg_3.png" />
+          <Image Name="public_poptitlebg.png" />
+          <Image Name="public_sp_bgUp.png" />
+          <Image Name="public_sp_bubble.png" />
+          <Image Name="public_sp_bubble2.png" />
+          <Image Name="public_sp_dialogbg.png" />
+          <Image Name="public_sp_dialogbg_2.png" />
+          <Image Name="public_sp_dialogbg_3.png" />
+          <Image Name="public_sp_editbg.png" />
+          <Image Name="public_sp_frame_01.png" />
+          <Image Name="public_sp_frame_02.png" />
+          <Image Name="public_sp_frame_03.png" />
+          <Image Name="public_sp_quittips.png" />
+          <Image Name="public_sp_systitle.png" />
+          <Image Name="puclic_two_bar_codes.png" />
+          <Image Name="roomicon_0.png" />
+          <Image Name="roomicon_1.png" />
+          <Image Name="roomicon_2.png" />
+          <Image Name="roomicon_3.png" />
+          <Image Name="roomicon_4.png" />
+          <Image Name="roomicon_5.png" />
+          <Image Name="roomicon_6.png" />
+          <Image Name="roomicon_7.png" />
+          <Image Name="roomicon_8.png" />
+          <Image Name="roomicon_9.png" />
+          <Image Name="roomicon_gold.png" />
+          <Image Name="roomicon_Groomlist_1.png" />
+          <Image Name="roomicon_Groomlist_2.png" />
+          <Image Name="roomicon_Groomlist_3.png" />
+          <Image Name="roomicon_roomlist_2.png" />
+          <Image Name="roomList_cellscore.png" />
+          <Image Name="rootype_roomlist_1.png" />
+          <Image Name="rootype_roomlist_2.png" />
+          <Image Name="rootype_roomlist_3.png" />
+        </Folder>
+        <Folder Name="rank">
+          <Image Name="cellBg.png" />
+          <Image Name="cellBg_me.png" />
+          <Image Name="cellBg_other.png" />
+          <Image Name="check_day1.png" />
+          <Image Name="check_day2.png" />
+          <Image Name="check_week1.png" />
+          <Image Name="check_week2.png" />
+          <Image Name="index1.png" />
+          <Image Name="myrankTxt.png" />
+          <Image Name="rank_tabs_bg.png" />
+          <Image Name="rank_test.png" />
+          <Image Name="rank_title.png" />
+          <Image Name="rank1.png" />
+          <Image Name="rank2.png" />
+          <Image Name="rank3.png" />
+        </Folder>
+        <Folder Name="room">
+          <Image Name="back.png" />
+          <Image Name="bgda23.png" />
+          <Image Name="btn_bg1.png" />
+          <Image Name="btn_bg2.png" />
+          <Image Name="btnAdd.png" />
+          <Image Name="fanhuibtn.png" />
+          <Image Name="gameTitle.png" />
+          <Project Name="goldCell.csd" Type="Node" />
+          <Image Name="goldIcon.png" />
+          <Image Name="goldRoomBg.png" />
+          <Image Name="help.png" />
+          <Image Name="help2.png" />
+          <Image Name="icon1.png" />
+          <Image Name="icon2.png" />
+          <Image Name="imgBg.png" />
+          <Image Name="nullRoomTip.png" />
+          <Image Name="option_sp_sliderthumb_1.png" />
+          <Image Name="playerIcon.png" />
+          <Project Name="PlazaCreateRoomLayer.csd" Type="Layer" />
+          <Image Name="pri_btn_normal.png" />
+          <Project Name="RoomLayer.csd" Type="Layer" />
+          <Image Name="scoreNum1.png" />
+          <Image Name="scoreNum2.png" />
+          <Image Name="test.png" />
+          <Image Name="test1.png" />
+          <Image Name="test2.png" />
+          <Image Name="testNew.png" />
+          <Image Name="tottom_bg.png" />
+          <Image Name="txt_gold1.png" />
+          <Image Name="txt_gold2.png" />
+          <Image Name="txt_normal1.png" />
+          <Image Name="txt_normal2.png" />
+          <Image Name="txt_score1.png" />
+          <Image Name="txt_score2.png" />
+          <Image Name="xian.png" />
+        </Folder>
+        <Folder Name="service">
+          <Image Name="help_btn_back.png" />
+          <Image Name="help_sp_bg.png" />
+          <Image Name="help_sp_cellbg.png" />
+          <Image Name="help_sp_title.png" />
+          <Project Name="HelpLayer.csd" Type="Layer" />
+          <Image Name="notice_btn_send_0.png" />
+          <Image Name="notice_btn_send_1.png" />
+          <Image Name="notice_cellbg.png" />
+          <Image Name="notice_line.png" />
+          <Image Name="notice_nickbg1.png" />
+          <Image Name="notice_nickbg2.png" />
+          <Image Name="notice_sp_bg.png" />
+          <Image Name="notice_sp_bg2.png" />
+          <Image Name="notice_sp_bg3.png" />
+          <Image Name="notice_sp_bgline.png" />
+          <Image Name="notice_sp_cellbg.png" />
+          <Image Name="notice_sp_cellbg_1.png" />
+          <Image Name="notice_sp_cellbg_2.png" />
+          <Image Name="notice_sp_dot.png" />
+          <Image Name="notice_sp_editbg.png" />
+          <Image Name="notice_sp_title.png" />
+          <Image Name="notice_sp_title_1.png" />
+          <Image Name="notice_sp_trumpetflag.png" />
+          <Image Name="notice_sp_trumpetuse.png" />
+          <Image Name="notice_title.png" />
+          <Image Name="notice_titlebg.png" />
+          <Project Name="NoticeItemNode.csd" Type="Node" />
+          <Project Name="NoticeLayer.csd" Type="Layer" />
+          <Project Name="PlazaNoticeItemNode.csd" Type="Node" />
+          <Project Name="PlazaNoticeLayer.csd" Type="Layer" />
+          <Image Name="service_bg.png" />
+          <Image Name="service_btn_help.png" />
+          <Image Name="service_btn_qq_0.png" />
+          <Image Name="service_btn_qq_1.png" />
+          <Image Name="service_btn_tel_0.png" />
+          <Image Name="service_btn_tel_1.png" />
+          <Image Name="service_btn_wx_0.png" />
+          <Image Name="service_btn_wx_1.png" />
+          <Image Name="service_icon.png" />
+          <Image Name="service_sp_cellbg.png" />
+          <Image Name="service_sp_cellbg2.png" />
+          <Image Name="service_sp_celltitle_bg.png" />
+          <Image Name="service_sp_itembg.png" />
+          <Image Name="service_sp_qrbg.png" />
+          <Image Name="service_sp_qrshadow.png" />
+          <Image Name="service_sp_title.png" />
+          <Project Name="ServiceLayer.csd" Type="Layer" />
+          <Image Name="shurukuang.png" />
+          <Image Name="sysnotice_line.png" />
+        </Folder>
+        <Folder Name="shop">
+          <Image Name="btn_price.png" />
+          <Image Name="coin.png" />
+          <Image Name="diamond.png" />
+          <Image Name="ewaiBg.png" />
+          <Image Name="itembuy_bg.png" />
+          <Image Name="itembuy_btn_add_0.png" />
+          <Image Name="itembuy_btn_add_1.png" />
+          <Image Name="itembuy_btn_buy_0.png" />
+          <Image Name="itembuy_btn_buy_1.png" />
+          <Image Name="itembuy_btn_sub_0.png" />
+          <Image Name="itembuy_btn_sub_1.png" />
+          <Image Name="itembuy_sp_diamond.png" />
+          <Image Name="itembuy_sp_diamond_gray.png" />
+          <Image Name="itembuy_sp_editbg.png" />
+          <Image Name="itembuy_sp_icon.png" />
+          <Image Name="itembuy_sp_iconbg.png" />
+          <Image Name="itembuy_sp_iconlight.png" />
+          <Image Name="itembuy_sp_namebg.png" />
+          <Image Name="itembuy_sp_tips.png" />
+          <Image Name="itembuy_title.png" />
+          <Project Name="ItemBuyLayer.csd" Type="Layer" />
+          <Project Name="LingQianLayer.csd" Type="Layer" />
+          <Project Name="LingQianPay.csd" Type="Layer" />
+          <Image Name="shop_arrow.png" />
+          <Image Name="shop_atlas_num.png" />
+          <Image Name="shop_btn_charge_alipay.png" />
+          <Image Name="shop_btn_charge_alipay1.png" />
+          <Image Name="shop_btn_charge_jft1.png" />
+          <Image Name="shop_btn_charge_lq1.png" />
+          <Image Name="shop_btn_charge_lq2.png" />
+          <Image Name="shop_btn_charge_wx.png" />
+          <Image Name="shop_btn_charge_wx1.png" />
+          <Image Name="shop_btn_online.png" />
+          <Image Name="shop_charge_bg.png" />
+          <Image Name="shop_check_dia1.png" />
+          <Image Name="shop_check_dia2.png" />
+          <Image Name="shop_check_exchange1.png" />
+          <Image Name="shop_check_exchange2.png" />
+          <Image Name="shop_check_gold1.png" />
+          <Image Name="shop_check_gold2.png" />
+          <Image Name="shop_check_switch_0.png" />
+          <Image Name="shop_check_switch_1.png" />
+          <Image Name="shop_itembg.png" />
+          <Image Name="shop_light_left.png" />
+          <Image Name="shop_sp_bg.png" />
+          <Image Name="shop_sp_bg_1.png" />
+          <Image Name="shop_sp_cellbg.png" />
+          <Image Name="shop_sp_cellbg_1.png" />
+          <Image Name="shop_sp_chargetitle.png" />
+          <Image Name="shop_sp_coinicon.png" />
+          <Image Name="shop_sp_diamond_bg.png" />
+          <Image Name="shop_sp_diamondicon.png" />
+          <Image Name="shop_sp_diamondlarge_1.png" />
+          <Image Name="shop_sp_diamondlarge_2.png" />
+          <Image Name="shop_sp_diamondlarge_3.png" />
+          <Image Name="shop_sp_diamondlarge_4.png" />
+          <Image Name="shop_sp_editbg.png" />
+          <Image Name="shop_sp_firstflag.png" />
+          <Image Name="shop_sp_firstflag1.png" />
+          <Image Name="shop_sp_firstflag10.png" />
+          <Image Name="shop_sp_firstflag11.png" />
+          <Image Name="shop_sp_firstflag12.png" />
+          <Image Name="shop_sp_firstflag13.png" />
+          <Image Name="shop_sp_firstflag2.png" />
+          <Image Name="shop_sp_firstflag3.png" />
+          <Image Name="shop_sp_firstflag4.png" />
+          <Image Name="shop_sp_firstflag5.png" />
+          <Image Name="shop_sp_firstflag6.png" />
+          <Image Name="shop_sp_firstflag7.png" />
+          <Image Name="shop_sp_firstflag8.png" />
+          <Image Name="shop_sp_firstflag9.png" />
+          <Image Name="shop_sp_gold_bg.png" />
+          <Image Name="shop_sp_golddiamond_bg.png" />
+          <Image Name="shop_sp_goldlarge_1.png" />
+          <Image Name="shop_sp_goldlarge_2.png" />
+          <Image Name="shop_sp_goldlarge_3.png" />
+          <Image Name="shop_sp_goldlarge_4.png" />
+          <Image Name="shop_sp_goldlarge_5.png" />
+          <Image Name="shop_sp_goldlarge_6.png" />
+          <Image Name="shop_sp_goldlarge_7.png" />
+          <Image Name="shop_sp_goldlarge_8.png" />
+          <Image Name="shop_sp_lqtitle.png" />
+          <Image Name="shop_sp_onlinebg.png" />
+          <Image Name="shop_sp_onlineCell.png" />
+          <Image Name="shop_sp_onlineIcon.png" />
+          <Image Name="shop_sp_onlinetitle.png" />
+          <Image Name="shop_sp_pricebg.png" />
+          <Image Name="shop_sp_pricebg_1.png" />
+          <Image Name="shop_sp_recommendflag.png" />
+          <Image Name="shop_sp_rmbicon.png" />
+          <Image Name="shop_sp_shoplight.png" />
+          <Image Name="shop_sp_shoptitle.png" />
+          <Image Name="shop_sp_ticketicon.png" />
+          <Image Name="shop_title.png" />
+          <Image Name="shop_title_action1.png" />
+          <Image Name="shop_title_action2.png" />
+          <Image Name="shop_title_action3.png" />
+          <Image Name="shop_title_action4.png" />
+          <Image Name="shop_title_action5.png" />
+          <Image Name="shop_title_action6.png" />
+          <Image Name="shop_title_action7.png" />
+          <Image Name="shop_title_action8.png" />
+          <Image Name="shop_title_action9.png" />
+          <Project Name="ShopChargeLayer.csd" Type="Layer" />
+          <Project Name="ShopChargeOnlineLayer.csd" Type="Layer" />
+          <Project Name="ShopItemNode.csd" Type="Node" />
+          <Project Name="ShopLayer.csd" Type="Layer" />
+          <Project Name="ShopOnlineCell.csd" Type="Node" />
+        </Folder>
+        <Folder Name="spread">
+          <Image Name="agent_bg1.png" />
+          <Image Name="agent_bg2.png" />
+          <Image Name="agent_btn1.png" />
+          <Image Name="agent_btn2.png" />
+          <Image Name="agent_btn3.png" />
+          <Image Name="agent_btn4.png" />
+          <Image Name="agent_btn5.png" />
+          <Image Name="agent_btn6.png" />
+          <Image Name="agent_btnbg.png" />
+          <Image Name="agent_cell1.png" />
+          <Image Name="agent_cell2.png" />
+          <Image Name="agent_cell3.png" />
+          <Image Name="agent_cell4.png" />
+          <Image Name="agent_edit.png" />
+          <Image Name="agent_logo1.png" />
+          <Image Name="agent_logo2.png" />
+          <Image Name="agent_title.png" />
+          <Image Name="agent_title1.png" />
+          <Image Name="agent_title2.png" />
+          <Image Name="agentClose.png" />
+          <Project Name="AgentLayer.csd" Type="Layer" />
+          <Image Name="agentTest.png" />
+          <Image Name="agenttest2.png" />
+          <Image Name="agenttest3.png" />
+          <Image Name="agenttest4.png" />
+          <Image Name="agenttest5.png" />
+          <Image Name="agenttest6.png" />
+          <Image Name="agenttest7.png" />
+          <Image Name="bind_sp_icon.png" />
+          <Image Name="bind_sp_title.png" />
+          <Project Name="BindAccountLayer.csd" Type="Layer" />
+          <Image Name="bindtitle.png" />
+          <Image Name="btn_blue.png" />
+          <Image Name="num_code1.png" />
+          <Image Name="num_code2.png" />
+          <Image Name="num_myCode.png" />
+          <Image Name="plaza_btn_target_cycle.png" />
+          <Image Name="plaza_btn_target_wx.png" />
+          <Image Name="right_bg.png" />
+          <Image Name="spead_diamond.png" />
+          <Image Name="splitline.png" />
+          <Image Name="spread_btn_bind_0.png" />
+          <Image Name="spread_btn_closetips.png" />
+          <Image Name="spread_btn_copy_0.png" />
+          <Image Name="spread_btn_invite_0.png" />
+          <Image Name="spread_btn_invite_1.png" />
+          <Image Name="spread_btn_rule0.png" />
+          <Image Name="spread_btn_rule1.png" />
+          <Image Name="spread_diamond.png" />
+          <Image Name="spread_line.png" />
+          <Image Name="spread_num_tips1.png" />
+          <Image Name="spread_num2.png" />
+          <Image Name="spread_rule_bg.png" />
+          <Image Name="spread_set.jpg" />
+          <Image Name="spread_smallbg.png" />
+          <Image Name="spread_sp_arrow.png" />
+          <Image Name="spread_sp_bg.png" />
+          <Image Name="spread_sp_bg_light.png" />
+          <Image Name="spread_sp_box_1.png" />
+          <Image Name="spread_sp_box_2.png" />
+          <Image Name="spread_sp_box_3.png" />
+          <Image Name="spread_sp_box_4.png" />
+          <Image Name="spread_sp_box_5.png" />
+          <Image Name="spread_sp_boxframe.png" />
+          <Image Name="spread_sp_editbg.png" />
+          <Image Name="spread_sp_giftbox_bg.png" />
+          <Image Name="spread_sp_havegot.png" />
+          <Image Name="spread_sp_haveinvite_count_bg.png" />
+          <Image Name="spread_sp_invitecount_bg.png" />
+          <Image Name="spread_sp_light.png" />
+          <Image Name="spread_sp_tipsdot.png" />
+          <Image Name="spread_sp_tipsinfo.png" />
+          <Image Name="spread_sp_title1.png" />
+          <Image Name="spread_sp_title2.png" />
+          <Image Name="spread_sp_title3.png" />
+          <Image Name="spread_sp_title4.png" />
+          <Image Name="spread_sp_title5.png" />
+          <Image Name="spread_tips1.png" />
+          <Image Name="spread_tips11.png" />
+          <Image Name="spread_tips12.png" />
+          <Image Name="spread_tips13.png" />
+          <Image Name="spread_tips2.png" />
+          <Image Name="spread_tips21.png" />
+          <Image Name="spread_title_myCode.png" />
+          <Project Name="SpreadLayer.csd" Type="Layer" />
+          <Project Name="SpreadLayer_simple.csd" Type="Layer" />
+          <Image Name="spreadruleSign.png" />
+          <Image Name="spreadtitle.png" />
+          <Project Name="tichengNode.csd" Type="Node" />
+          <Image Name="xian1.png" />
+          <Image Name="xian2.png" />
+          <Project Name="yonghuNode.csd" Type="Node" />
+        </Folder>
+        <Folder Name="usercenter">
+          <Image Name="0-0.jpg" />
+          <Image Name="0-1.jpg" />
+          <Image Name="0-2.jpg" />
+          <Image Name="0-3.jpg" />
+          <Project Name="BankInfoLayer.csd" Type="Layer" />
+          <Image Name="btn_bigblue.png" />
+          <Image Name="btn_blue.png" />
+          <Image Name="btn_copy.png" />
+          <Image Name="btn_purple.png" />
+          <Image Name="coin.png" />
+          <Image Name="diamond.png" />
+          <Image Name="identify_btn_spsure.png" />
+          <Image Name="identify_icon.png" />
+          <Image Name="identify_prize_bg.png" />
+          <Image Name="identify_sp_bg2.png" />
+          <Image Name="identify_sp_editbg.png" />
+          <Image Name="identify_sp_figureID.png" />
+          <Image Name="identify_sp_figureName.png" />
+          <Image Name="identify_sp_image.png" />
+          <Image Name="identify_sp_tips.png" />
+          <Image Name="identify_sp_title.png" />
+          <Project Name="IdentifyLayer.csd" Type="Layer" />
+          <Image Name="IP.png" />
+          <Image Name="loction.png" />
+          <Image Name="loctionIcon.png" />
+          <Image Name="model.png" />
+          <Image Name="modeluser.jpg" />
+          <Image Name="reddot.png" />
+          <Image Name="state_choosed.png" />
+          <Project Name="TurnoverInfoLayer.csd" Type="Layer" />
+          <Image Name="ucenter_btn_back.png" />
+          <Image Name="ucenter_btn_charge_0.png" />
+          <Image Name="ucenter_btn_charge_1.png" />
+          <Image Name="ucenter_btn_copy_0.png" />
+          <Image Name="ucenter_btn_copy_1.png" />
+          <Image Name="ucenter_btn_enbalebank_0.png" />
+          <Image Name="ucenter_btn_enbalebank_1.png" />
+          <Image Name="ucenter_btn_exchange_0.png" />
+          <Image Name="ucenter_btn_exchange_1.png" />
+          <Image Name="ucenter_btn_hidepasswd.png" />
+          <Image Name="ucenter_btn_identify_0.png" />
+          <Image Name="ucenter_btn_identify_1.png" />
+          <Image Name="ucenter_btn_modifynick_0.png" />
+          <Image Name="ucenter_btn_remove_0.png" />
+          <Image Name="ucenter_btn_remove_1.png" />
+          <Image Name="ucenter_btn_save_0.png" />
+          <Image Name="ucenter_btn_save_1.png" />
+          <Image Name="ucenter_btn_showpasswd.png" />
+          <Image Name="ucenter_btn_take_0.png" />
+          <Image Name="ucenter_btn_take_1.png" />
+          <Image Name="ucenter_btn_transfer_0.png" />
+          <Image Name="ucenter_btn_transfer_1.png" />
+          <Image Name="ucenter_check_bank_0.png" />
+          <Image Name="ucenter_check_bank_1.png" />
+          <Image Name="ucenter_check_banksave.png" />
+          <Image Name="ucenter_check_banktransfer.png" />
+          <Image Name="ucenter_check_coin_turnover.png" />
+          <Image Name="ucenter_check_diamond_turnover.png" />
+          <Image Name="ucenter_check_enablebank_0.png" />
+          <Image Name="ucenter_check_enablebank_1.png" />
+          <Image Name="ucenter_check_turnover_0.png" />
+          <Image Name="ucenter_check_turnover_1.png" />
+          <Image Name="ucenter_check_uinfo_0.png" />
+          <Image Name="ucenter_check_uinfo_1.png" />
+          <Image Name="ucenter_sp_bank_coinword.png" />
+          <Image Name="ucenter_sp_bankbg.png" />
+          <Image Name="ucenter_sp_bankedit.png" />
+          <Image Name="ucenter_sp_bankenableicon.png" />
+          <Image Name="ucenter_sp_bg_1.png" />
+          <Image Name="ucenter_sp_coinlist_title.png" />
+          <Image Name="ucenter_sp_diamondbg.png" />
+          <Image Name="ucenter_sp_diamondlist_title.png" />
+          <Image Name="ucenter_sp_editbg.png" />
+          <Image Name="ucenter_sp_head.png" />
+          <Image Name="ucenter_sp_identify_flag.png" />
+          <Image Name="ucenter_sp_idicon.png" />
+          <Image Name="ucenter_sp_line.png" />
+          <Image Name="ucenter_sp_nickbg.png" />
+          <Image Name="ucenter_sp_nickicon.png" />
+          <Image Name="ucenter_sp_operate_bg.png" />
+          <Image Name="ucenter_sp_operate_select.png" />
+          <Image Name="ucenter_sp_signicon.png" />
+          <Image Name="ucenter_sp_spread.png" />
+          <Image Name="ucenter_sp_title.png" />
+          <Image Name="ucenter_sp_topbg.png" />
+          <Image Name="ucenter_sp_turnoverbg.png" />
+          <Image Name="ucenter_sp_turnoveritemcell.png" />
+          <Project Name="UserCenterLayer.csd" Type="Layer" />
+          <Image Name="userinfobg.png" />
+          <Project Name="UserInfoLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="video">
+          <Image Name="mark_btn_creatroom_0.png" />
+          <Image Name="mark_btn_creatroom_1.png" />
+          <Image Name="mark_btn_detail_0.png" />
+          <Image Name="mark_btn_detail_1.png" />
+          <Image Name="mark_btn_detail_rp_0.png" />
+          <Image Name="mark_btn_detail_rp_1.png" />
+          <Image Name="mark_btn_detail_share_0.png" />
+          <Image Name="mark_btn_detail_share_1.png" />
+          <Image Name="mark_btn_info.png" />
+          <Image Name="mark_btn_pagebutton.png" />
+          <Image Name="mark_btn_search_0.png" />
+          <Image Name="mark_btn_search_1.png" />
+          <Image Name="mark_btn_serch.png" />
+          <Image Name="mark_btn_type1.png" />
+          <Image Name="mark_btn_type2.png" />
+          <Image Name="mark_set_1.jpg" />
+          <Image Name="mark_sp_backcode_inputtips.png" />
+          <Image Name="mark_sp_bg_1.png" />
+          <Image Name="mark_sp_cellbg.png" />
+          <Image Name="mark_sp_cellbg_2.png" />
+          <Image Name="mark_sp_cellbg_3.png" />
+          <Image Name="mark_sp_cellbg_4.png" />
+          <Image Name="mark_sp_detail_itembg.png" />
+          <Image Name="mark_sp_detail_itembg_6.png" />
+          <Image Name="mark_sp_detail_itembg1.png" />
+          <Image Name="mark_sp_detail_timetips_1.png" />
+          <Image Name="mark_sp_detail_title.png" />
+          <Image Name="mark_sp_detailbg_1.png" />
+          <Image Name="mark_sp_detailbg_1_6.png" />
+          <Image Name="mark_sp_detailtitle.png" />
+          <Image Name="mark_sp_detailTotle_Icon.png" />
+          <Image Name="mark_sp_detailTotle_itembg.png" />
+          <Image Name="mark_sp_editbg.png" />
+          <Image Name="mark_sp_Listbg.png" />
+          <Image Name="mark_sp_marklist_title.png" />
+          <Image Name="mark_sp_roomerflag.png" />
+          <Image Name="mark_sp_selectBg.png" />
+          <Image Name="mark_sp_timeIcon.png" />
+          <Image Name="mark_sp_winnerflag.png" />
+          <Image Name="mark_sp_winnerflag_1.png" />
+          <Image Name="mark_sp_word.png" />
+          <Image Name="mark_sp_word_2.png" />
+          <Project Name="VideoCodeEditLayer.csd" Type="Layer" />
+          <Project Name="VideoMarkDetailLayer.csd" Type="Layer" />
+          <Project Name="VideoMarkDetailLayer_6.csd" Type="Layer" />
+          <Project Name="VideoMarkDetailLayer_set.csd" Type="Layer" />
+          <Project Name="VideoMarkDetailLayer_set_6.csd" Type="Layer" />
+          <Project Name="VideoMarkListLayer.csd" Type="Layer" />
+          <Image Name="videoplay_btn_back_0.png" />
+          <Image Name="videoplay_btn_back_1.png" />
+          <Image Name="videoplay_btn_backward_0.png" />
+          <Image Name="videoplay_btn_backward_1.png" />
+          <Image Name="videoplay_btn_forward_0.png" />
+          <Image Name="videoplay_btn_forward_1.png" />
+          <Image Name="videoplay_btn_start_0.png" />
+          <Image Name="videoplay_btn_start_1.png" />
+          <Image Name="videoplay_btn_stop_0.png" />
+          <Image Name="videoplay_btn_stop_1.png" />
+          <Image Name="videoplay_sp_control.png" />
+          <Project Name="VideoPlayControlLayer.csd" Type="Layer" />
+          <Project Name="VideoRecordNode.csd" Type="Node" />
+          <Project Name="VideoRecordNode_normal.csd" Type="Node" />
+        </Folder>
+        <Image Name="6.png" />
+        <Image Name="asd.png" />
+        <Image Name="base_sp_system_title.png" />
+        <Image Name="bg.png" />
+        <Image Name="bg5.png" />
+        <Image Name="bt_query_cancel_0.png" />
+        <Image Name="bt_query_cancel_1.png" />
+        <Image Name="bt_query_confirm_0.png" />
+        <Image Name="bt_query_confirm_1.png" />
+        <Image Name="btn0.png" />
+        <Image Name="btn1.png" />
+        <Image Name="btn2.png" />
+        <Image Name="btn3.png" />
+        <Image Name="btn4.png" />
+        <Image Name="btn5.png" />
+        <Image Name="btn6.png" />
+        <Image Name="btn7.png" />
+        <Image Name="btn8.png" />
+        <Image Name="btn9.png" />
+        <Image Name="cs.png" />
+        <Image Name="diamond.png" />
+        <Image Name="fudai.png" />
+        <Image Name="gb.png" />
+        <Image Name="guanbi.png" />
+        <Image Name="loding.png" />
+        <Image Name="mark_btn_info.png" />
+        <ExportJsonFile Name="meinv.ExportJson" />
+        <Image Name="mode.png" />
+        <Image Name="mode_rank.png" />
+        <Image Name="mode222l.png" />
+        <Image Name="modecreate.jpg" />
+        <Image Name="modeeee.jpg" />
+        <Image Name="model.jpg" />
+        <Image Name="model.png" />
+        <Image Name="model_daily1.png" />
+        <Image Name="model_online.png" />
+        <Image Name="model_spread.png" />
+        <Image Name="model0522.png" />
+        <Image Name="model1.png" />
+        <Image Name="modelbank.png" />
+        <Image Name="modelll.png" />
+        <Image Name="modelPlaze.png" />
+        <Image Name="modelrewards.png" />
+        <Image Name="modelshop.png" />
+        <Image Name="opopopop.png" />
+        <Image Name="pri_sp_numbg_0.png" />
+        <Image Name="pri_sp_numbg_1.png" />
+        <Image Name="pri_sp_topbg.png" />
+        <Image Name="public_popbg.png" />
+        <Image Name="query_bg.png" />
+        <Project Name="QueryDialog.csd" Type="Layer" />
+        <Project Name="QueryDialogClub.csd" Type="Layer" />
+        <Image Name="sc.png" />
+        <Image Name="server_model.png" />
+        <Image Name="set_modell.png" />
+        <Image Name="shuruk.png" />
+        <Image Name="sr.png" />
+        <Project Name="testLayer.csd" Type="Layer" />
+        <Image Name="wait_round.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

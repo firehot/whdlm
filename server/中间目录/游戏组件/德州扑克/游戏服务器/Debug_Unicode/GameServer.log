@@ -1,0 +1,18 @@
+﻿  Stdafx.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+d:\qijianban\laok\服务端\游戏组件\开发库\include\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+d:\qijianban\laok\服务端\游戏组件\开发库\include\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“EVENTTYPE_UI”的左侧
+  GameServerManager.cpp
+  GameServer.cpp
+  GameLogic.cpp
+  DlgCustomRule.cpp
+  正在生成代码...
+  TableFrameSink.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+DlgCustomRule.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 ../../../../运行/Debug/Unicode/GameServer.lib 和对象 ../../../../运行/Debug/Unicode/GameServer.exp
+  GameServer.vcxproj -> D:\qijianban\laok\服务端\游戏组件\老K子游戏\德州扑克\服务器组件\../../../../运行/Debug/Unicode/DZShowHandServer.dll
+  GameServer.vcxproj -> ../../../../运行/Debug/Unicode/DZShowHandServer.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Debug\Unicode 已经存在。
+  已复制         1 个文件。

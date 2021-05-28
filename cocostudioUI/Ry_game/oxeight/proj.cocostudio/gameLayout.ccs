@@ -1,0 +1,320 @@
+<Solution>
+  <PropertyGroup Name="gameLayout" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="chat">
+          <Project Name="GameChatLayer.csd" Type="Layer" />
+          <Image Name="public_chat_txtSelect.png" />
+          <Image Name="public_chatBg.png" />
+          <Image Name="public_chatEmoj.png" />
+          <Image Name="public_chatLine.png" />
+          <Image Name="public_chatSelect.png" />
+          <Image Name="public_chatTxt.png" />
+        </Folder>
+        <Folder Name="common">
+          <Image Name="btn_red.png" />
+          <Image Name="btn_yellow.png" />
+          <Image Name="common_close.png" />
+        </Folder>
+        <Folder Name="fonts">
+          <TTF Name="FZHTJW.TTF" />
+          <TTF Name="round_body.ttf" />
+        </Folder>
+        <Folder Name="game">
+          <Folder Name="info">
+            <Image Name="1.png" />
+            <Image Name="bg.png" />
+            <Image Name="btn_title.png" />
+            <Image Name="btnRule1.png" />
+            <Image Name="btnRule2.png" />
+            <Image Name="btnScore1.png" />
+            <Image Name="btnScore2.png" />
+            <Image Name="checkbox1.png" />
+            <Image Name="checkbox2.png" />
+            <Image Name="dot_0.png" />
+            <Image Name="dot_1.png" />
+            <Image Name="goldBg.png" />
+            <Project Name="Layer_info.csd" Type="Layer" />
+            <Image Name="me_bg.png" />
+            <Image Name="oxsix_rule_1.png" />
+            <Image Name="oxsix_rule_2.png" />
+            <Image Name="oxsix_rule_3.png" />
+            <Image Name="oxsix_rule_4.png" />
+          </Folder>
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Project Name="AddChipNode.csd" Type="Node" />
+          <Image Name="all_lose1.png" />
+          <Image Name="all_lose2.png" />
+          <Image Name="all_win1.png" />
+          <Image Name="all_win2.png" />
+          <Image Name="auto1.png" />
+          <Image Name="auto2.png" />
+          <Image Name="banker_calling.png" />
+          <Image Name="banker_waitIcon.png" />
+          <Image Name="bankerType_1.png" />
+          <Image Name="bankerType_2.png" />
+          <Image Name="bankerType_3.png" />
+          <Image Name="bankerType_4.png" />
+          <Image Name="bankerType_5.png" />
+          <Image Name="begain.png" />
+          <Image Name="begin.png" />
+          <Image Name="betNum.png" />
+          <Image Name="bg111.png" />
+          <Image Name="bt_confirm0.png" />
+          <Image Name="bt_confirm1.png" />
+          <Image Name="bt_confirm2.png" />
+          <Image Name="btn_address1.png" />
+          <Image Name="btn_address2.png" />
+          <Image Name="btn_auto.png" />
+          <Image Name="btn_Bg2.png" />
+          <Image Name="btn_Bg21.png" />
+          <Image Name="btn_Bg22.png" />
+          <Image Name="btn_Bg31.png" />
+          <Image Name="btn_change.png" />
+          <Image Name="btn_change1.png" />
+          <Image Name="btn_changedesk_1.png" />
+          <Image Name="btn_changedesk_2.png" />
+          <Image Name="btn_changeDesk1.png" />
+          <Image Name="btn_changeDesk2.png" />
+          <Image Name="btn_chat_1.png" />
+          <Image Name="btn_confirm.png" />
+          <Image Name="btn_down.png" />
+          <Image Name="btn_exit_1.png" />
+          <Image Name="btn_help_1.png" />
+          <Image Name="btn_Invite.png" />
+          <Image Name="btn_max1.png" />
+          <Image Name="btn_max2.png" />
+          <Image Name="btn_min1.png" />
+          <Image Name="btn_min2.png" />
+          <Image Name="btn_Ok.png" />
+          <Image Name="btn_set_1.png" />
+          <Image Name="btn_shot3.png" />
+          <Image Name="btn_start1.png" />
+          <Image Name="btn_start2.png" />
+          <Image Name="btn_switch.png" />
+          <Image Name="btn_talk.png" />
+          <Image Name="btn_tips.png" />
+          <Image Name="btn_trustee.png" />
+          <Image Name="btn_voice.png" />
+          <Project Name="calculateNode.csd" Type="Node" />
+          <Image Name="cancelTrust.png" />
+          <Image Name="card(1).png" />
+          <Image Name="card.png" />
+          <Image Name="card_0_6.png" />
+          <Image Name="card5th.png" />
+          <Image Name="cardType_1.png" />
+          <Image Name="cardType_2.png" />
+          <Image Name="chatBg1.png" />
+          <Image Name="chatBg2.png" />
+          <Image Name="clockBg.png" />
+          <Image Name="clockNum.png" />
+          <Image Name="clockTips.png" />
+          <Image Name="clockTips_9.png" />
+          <Image Name="close1.png" />
+          <Image Name="close2.png" />
+          <Image Name="dianliang1.png" />
+          <Image Name="dianliang2.png" />
+          <Image Name="dot.png" />
+          <Image Name="extScore.png" />
+          <Image Name="game_icon_changetable.png" />
+          <Image Name="game_icon_leave.png" />
+          <Image Name="game_icon_set.png" />
+          <Image Name="game_sharebg.png" />
+          <Image Name="game_table.png" />
+          <Image Name="game_total_num.png" />
+          <Image Name="gameBg.png" />
+          <Image Name="gamebgtest.png" />
+          <Project Name="GameRoleItem.csd" Type="Node" />
+          <Project Name="GameScene.csd" Type="Scene" />
+          <Image Name="head_auto.png" />
+          <Image Name="head_bet.png" />
+          <Image Name="head_cuo.png" />
+          <Image Name="headMask.png" />
+          <Image Name="heat_off.png" />
+          <Project Name="HelpLayer.csd" Type="Layer" />
+          <Image Name="huanzuo.png" />
+          <Image Name="icon_ip.png" />
+          <Image Name="im_fly_gold.png" />
+          <Image Name="im_fly_gold_1.png" />
+          <Image Name="jiantou.png" />
+          <Project Name="Layer.csd" Type="Layer" />
+          <Project Name="locationAnim.csd" Type="Layer" />
+          <Project Name="locationAnim_red.csd" Type="Layer" />
+          <Project Name="locationCell.csd" Type="Node" />
+          <Project Name="LocationLayer.csd" Type="Layer" />
+          <Image Name="logo11.png" />
+          <Image Name="logo12.png" />
+          <Image Name="logo21.png" />
+          <Image Name="logo22.png" />
+          <Project Name="LoseNode.csd" Type="Node" />
+          <Image Name="loseTitle.png" />
+          <Project Name="Menu.csd" Type="Node" />
+          <Project Name="Menus.csd" Type="Layer" />
+          <Project Name="MoveLayer.csd" Type="Layer" />
+          <Image Name="mul_number.png" />
+          <Image Name="net_1.png" />
+          <Image Name="net_2.png" />
+          <Image Name="net_3.png" />
+          <Image Name="niu0.png" />
+          <Image Name="niu1.png" />
+          <Image Name="niu10.png" />
+          <Image Name="niu11.png" />
+          <Image Name="niu18.png" />
+          <Image Name="niu2.png" />
+          <Image Name="niu9.png" />
+          <Image Name="num_clock.png" />
+          <Image Name="num_coin.png" />
+          <Image Name="ossixx_sp_sharebg.png" />
+          <Image Name="point.png" />
+          <Image Name="Popline.png" />
+          <Image Name="public_btn_close_1_0.png" />
+          <Image Name="public_popbg.png" />
+          <Image Name="public_poptitlebg.png" />
+          <Image Name="Red01.png" />
+          <Image Name="Red02.png" />
+          <Image Name="Red03.png" />
+          <Image Name="Red04.png" />
+          <Image Name="Red05.png" />
+          <Image Name="Red06.png" />
+          <Project Name="resultNode1.csd" Type="Node" />
+          <Project Name="resultNode2.csd" Type="Node" />
+          <Image Name="sendType_1.png" />
+          <Image Name="sendType_2.png" />
+          <Image Name="share_btn_Circle.png" />
+          <Project Name="ShareLayer.csd" Type="Layer" />
+          <Image Name="shart_btn_wechat.png" />
+          <Image Name="sit.png" />
+          <Image Name="slide.png" />
+          <Image Name="slideBg.png" />
+          <Project Name="Slider.csd" Type="Node" />
+          <Image Name="Sprite_add.png" />
+          <Image Name="Sprite_banker.png" />
+          <Image Name="Sprite_calculateBg.png" />
+          <Image Name="Sprite_calculateItemBg.png" />
+          <Image Name="Sprite_clockBg.png" />
+          <Image Name="Sprite_coinBg.png" />
+          <Image Name="Sprite_complete.png" />
+          <Image Name="Sprite_equal.png" />
+          <Image Name="sprite_infobg.png" />
+          <Image Name="sprite_infobg2.png" />
+          <Image Name="Sprite_logo.png" />
+          <Image Name="Sprite_menuBg.png" />
+          <Image Name="Sprite_mul.png" />
+          <Image Name="Sprite_mul1.png" />
+          <Image Name="Sprite_mul2.png" />
+          <Image Name="Sprite_mul3.png" />
+          <Image Name="Sprite_mul4.png" />
+          <Image Name="Sprite_mul5.png" />
+          <Image Name="Sprite_puting.png" />
+          <Image Name="Sprite_ready.png" />
+          <Image Name="Sprite_room.png" />
+          <Image Name="tipBg.png" />
+          <Image Name="tips.png" />
+          <Image Name="tit.png" />
+          <Image Name="top.png" />
+          <Image Name="trust_btn_down.png" />
+          <Image Name="trust_wenhao.png" />
+          <Image Name="trustBg.png" />
+          <Image Name="trustFont.png" />
+          <Project Name="TrustLayer.csd" Type="Layer" />
+          <Image Name="trustPopBg.png" />
+          <Image Name="voice_animBg.png" />
+          <Image Name="wangge.png" />
+          <Image Name="wifi_1.png" />
+          <Image Name="wifi_2.png" />
+          <Image Name="wifi_3.png" />
+          <Image Name="x.png" />
+          <Image Name="xian1.png" />
+          <Image Name="xian2.png" />
+          <Image Name="yezi1.png" />
+          <Image Name="yezi2.png" />
+          <Image Name="yezi3.png" />
+          <Image Name="yezi4.png" />
+          <Image Name="yezi5.png" />
+          <Image Name="zhunbei.png" />
+        </Folder>
+        <Folder Name="help_res">
+          <Image Name="bei1.png" />
+          <Image Name="introduce_bg.png" />
+          <Image Name="introduce_title.png" />
+          <Project Name="IntroduceLayer.csd" Type="Layer" />
+          <Image Name="niu0.png" />
+          <Image Name="NN_Help_1.png" />
+          <Image Name="NN_Help_2.png" />
+          <Image Name="NN_Help_3.png" />
+          <Image Name="NN_Help_4.png" />
+          <Image Name="showBg.png" />
+          <Image Name="xian.png" />
+        </Folder>
+        <Folder Name="info">
+          <Image Name="bg.png" />
+          <Image Name="bg_rule.png" />
+          <Image Name="btn_dismiss1.png" />
+          <Image Name="btn_dismiss2.png" />
+          <Image Name="btn_title.png" />
+          <Image Name="btnRule1.png" />
+          <Image Name="btnRule2.png" />
+          <Image Name="btnScore1.png" />
+          <Image Name="btnScore2.png" />
+          <Image Name="cell1.png" />
+          <Image Name="cell2.png" />
+          <Image Name="checkbox1.png" />
+          <Image Name="checkbox2.png" />
+          <Image Name="dot_0.png" />
+          <Image Name="dot_1.png" />
+          <Image Name="goldBg.png" />
+          <Project Name="Layer_info.csd" Type="Layer" />
+          <Image Name="me_bg.png" />
+          <Project Name="Node_cell.csd" Type="Node" />
+          <Image Name="oxsix_rule_1.png" />
+          <Image Name="oxsix_rule_2.png" />
+          <Image Name="oxsix_rule_3.png" />
+          <Image Name="oxsix_rule_4.png" />
+          <Image Name="rule_select.png" />
+          <Image Name="title.png" />
+        </Folder>
+        <Folder Name="set">
+          <Image Name="btn_close.png" />
+          <Image Name="close.png" />
+          <Image Name="open.png" />
+          <Project Name="set.csd" Type="Layer" />
+          <Image Name="shadow_bg.png" />
+          <Image Name="Sprite_bg.png" />
+          <Image Name="Sprite_music.png" />
+          <Image Name="Sprite_sound.png" />
+          <Image Name="Sprite_title.png" />
+        </Folder>
+        <Folder Name="superControl">
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="bg.png" />
+          <Image Name="btn_Cancel.png" />
+          <Image Name="btn_cardType.png" />
+          <Image Name="btn_cardtypeNo.png" />
+          <Image Name="btn_cardTypeSelect.png" />
+          <Image Name="btn_close.png" />
+          <Image Name="btn_debug.png" />
+          <Image Name="btn_do.png" />
+          <Image Name="btnSelect0.png" />
+          <Image Name="btnSelect1.png" />
+          <Image Name="dot0.png" />
+          <Image Name="dot1.png" />
+          <Image Name="editBg.png" />
+          <Project Name="SuperControlLayer.csd" Type="Layer" />
+        </Folder>
+        <Image Name="a.png" />
+        <Image Name="aa.png" />
+        <Image Name="HelloWorld.png" />
+        <Image Name="new3.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

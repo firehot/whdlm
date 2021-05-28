@@ -1,0 +1,185 @@
+﻿  Stdafx.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  Log.cpp
+  TableFrame.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(1060): warning C4018: “>=”: 有符号/无符号不匹配
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(1064): warning C4018: “<”: 有符号/无符号不匹配
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(1076): warning C4018: “>=”: 有符号/无符号不匹配
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(1080): warning C4018: “<”: 有符号/无符号不匹配
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(2838): warning C4018: “>=”: 有符号/无符号不匹配
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(2844): warning C4018: “>=”: 有符号/无符号不匹配
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(3273): warning C4477: “_snwprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“LONGLONG”
+  g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(3273): note: 请考虑在格式字符串中使用“%lld”
+  g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(3273): note: 请考虑在格式字符串中使用“%I64d”
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(4784): warning C4477: “_snwprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“LONGLONG”
+  g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(4784): note: 请考虑在格式字符串中使用“%lld”
+  g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(4784): note: 请考虑在格式字符串中使用“%I64d”
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(6169): warning C4244: “=”: 从“LONGLONG”转换到“DWORD”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(6217): warning C4244: “=”: 从“LONGLONG”转换到“DWORD”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\tableframe.cpp(7148): warning C4244: “=”: 从“LONGLONG”转换到“DWORD”，可能丢失数据
+  ServiceUnits.cpp
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(212): note: 编译类 模板 成员函数“bool CTempldateHelper<IDataBase>::CreateInstance(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\serviceunits.cpp(756): note: 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IDataBase>::CreateInstance(void)”的引用
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1532): note: 编译类 模板 成员函数“CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::CAssoc *CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::GetAssocAt(ARG_KEY,UINT &,UINT &) const”时
+          with
+          [
+              ARG_KEY=ULONGLONG
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1590): note: 参见对正在编译的函数 模板 实例化“CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::CAssoc *CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::GetAssocAt(ARG_KEY,UINT &,UINT &) const”的引用
+          with
+          [
+              ARG_KEY=ULONGLONG
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1585): note: 编译类 模板 成员函数“tagShareStorageItem *&CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::operator [](ARG_KEY)”时
+          with
+          [
+              ARG_KEY=ULONGLONG
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1350): note: 参见对正在编译的函数 模板 实例化“tagShareStorageItem *&CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::operator [](ARG_KEY)”的引用
+          with
+          [
+              ARG_KEY=ULONGLONG
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1350): note: 编译类 模板 成员函数“void CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::SetAt(ARG_KEY,ARG_VALUE)”时
+          with
+          [
+              ARG_KEY=ULONGLONG,
+              ARG_VALUE=tagShareStorageItem *
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1786): note: 参见对正在编译的函数 模板 实例化“void CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::SetAt(ARG_KEY,ARG_VALUE)”的引用
+          with
+          [
+              ARG_KEY=ULONGLONG,
+              ARG_VALUE=tagShareStorageItem *
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1472): note: 编译类 模板 成员函数“CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::~CMap(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\共享库存服务\sharestorageservicemanager.h(21): note: 参见对正在编译的类 模板 实例化“CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>”的引用
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  ServerListManager.cpp
+  SensitiveWordsFilter.cpp
+  InitParameter.cpp
+  GameServerDlg.cpp
+c:\program files (x86)\windows kits\8.1\include\um\imagehlp.h(1873): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\program files (x86)\windows kits\8.1\include\um\imagehlp.h(3519): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(212): note: 编译类 模板 成员函数“bool CTempldateHelper<IGameServiceManager>::CreateInstance(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\gameserverdlg.cpp(498): note: 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IGameServiceManager>::CreateInstance(void)”的引用
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1532): note: 编译类 模板 成员函数“CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::CAssoc *CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::GetAssocAt(ARG_KEY,UINT &,UINT &) const”时
+          with
+          [
+              ARG_KEY=ULONGLONG
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1590): note: 参见对正在编译的函数 模板 实例化“CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::CAssoc *CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::GetAssocAt(ARG_KEY,UINT &,UINT &) const”的引用
+          with
+          [
+              ARG_KEY=ULONGLONG
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1585): note: 编译类 模板 成员函数“tagShareStorageItem *&CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::operator [](ARG_KEY)”时
+          with
+          [
+              ARG_KEY=ULONGLONG
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1350): note: 参见对正在编译的函数 模板 实例化“tagShareStorageItem *&CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::operator [](ARG_KEY)”的引用
+          with
+          [
+              ARG_KEY=ULONGLONG
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1350): note: 编译类 模板 成员函数“void CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::SetAt(ARG_KEY,ARG_VALUE)”时
+          with
+          [
+              ARG_KEY=ULONGLONG,
+              ARG_VALUE=tagShareStorageItem *
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1786): note: 参见对正在编译的函数 模板 实例化“void CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::SetAt(ARG_KEY,ARG_VALUE)”的引用
+          with
+          [
+              ARG_KEY=ULONGLONG,
+              ARG_VALUE=tagShareStorageItem *
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1472): note: 编译类 模板 成员函数“CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::~CMap(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\共享库存服务\sharestorageservicemanager.h(21): note: 参见对正在编译的类 模板 实例化“CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>”的引用
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  GameServer.cpp
+  GamePropertyListManager.cpp
+  DistributeManager.cpp
+  DBCorrespondManager.cpp
+  DataBaseEngineSink.cpp
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(212): note: 编译类 模板 成员函数“bool CTempldateHelper<IDataBase>::CreateInstance(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\databaseenginesink.cpp(90): note: 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IDataBase>::CreateInstance(void)”的引用
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1532): note: 编译类 模板 成员函数“CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::CAssoc *CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::GetAssocAt(ARG_KEY,UINT &,UINT &) const”时
+          with
+          [
+              ARG_KEY=ULONGLONG
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1590): note: 参见对正在编译的函数 模板 实例化“CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::CAssoc *CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::GetAssocAt(ARG_KEY,UINT &,UINT &) const”的引用
+          with
+          [
+              ARG_KEY=ULONGLONG
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1585): note: 编译类 模板 成员函数“tagShareStorageItem *&CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::operator [](ARG_KEY)”时
+          with
+          [
+              ARG_KEY=ULONGLONG
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1350): note: 参见对正在编译的函数 模板 实例化“tagShareStorageItem *&CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::operator [](ARG_KEY)”的引用
+          with
+          [
+              ARG_KEY=ULONGLONG
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1350): note: 编译类 模板 成员函数“void CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::SetAt(ARG_KEY,ARG_VALUE)”时
+          with
+          [
+              ARG_KEY=ULONGLONG,
+              ARG_VALUE=tagShareStorageItem *
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1786): note: 参见对正在编译的函数 模板 实例化“void CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::SetAt(ARG_KEY,ARG_VALUE)”的引用
+          with
+          [
+              ARG_KEY=ULONGLONG,
+              ARG_VALUE=tagShareStorageItem *
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1472): note: 编译类 模板 成员函数“CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>::~CMap(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\共享库存服务\sharestorageservicemanager.h(21): note: 参见对正在编译的类 模板 实例化“CMap<ULONGLONG,ULONGLONG,tagShareStorageItem *,tagShareStorageItem *>”的引用
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  AttemperEngineSink.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务器\attemperenginesink.cpp(8894): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CString”
+  正在生成代码...
+Log.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  GameServer.vcxproj -> G:\SVN\DLM\服务端\系统模块\服务器组件\游戏服务器\../../../运行/Debug/Unicode/GameServer.exe
+  GameServer.vcxproj -> ../../../中间目录/游戏服务器/Debug_Unicode/GameServer.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Debug\Unicode 已经存在。
+  已复制         1 个文件。

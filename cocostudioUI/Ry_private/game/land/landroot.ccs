@@ -1,0 +1,115 @@
+<Solution>
+  <PropertyGroup Name="landroot" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="fonts">
+          <TTF Name="FZHTJW.TTF" />
+          <TTF Name="round_body.ttf" />
+        </Folder>
+        <Folder Name="game">
+          <Image Name="back.png" />
+          <Project Name="DismissLayer.csd" Type="Layer" />
+          <Image Name="invite_0.png" />
+          <Image Name="invite_1.png" />
+          <Project Name="MarkLayer.csd" Type="Layer" />
+          <Project Name="PrivateGameEndLayer.csd" Type="Layer" />
+          <Project Name="PrivateGameLayer.csd" Type="Layer" />
+          <Image Name="publicBg.png" />
+          <Image Name="roominfo_bt_0.png" />
+          <Image Name="roominfo_bt_1.png" />
+          <Image Name="roomNo.png" />
+          <Image Name="round.png" />
+        </Folder>
+        <Folder Name="no">
+          <Image Name="grade.png" />
+          <Image Name="grade1.png" />
+          <Image Name="round_no1.png" />
+          <Image Name="round_no2.png" />
+        </Folder>
+        <Folder Name="private">
+          <Image Name="bg_1.png" />
+          <Image Name="plaza_sp_goldIcon.png" />
+          <Image Name="pri_btn_normal.png" />
+          <Image Name="pri_btn_open.png" />
+          <Image Name="pri_check_sel_0.png" />
+          <Image Name="pri_check_sel_1.png" />
+          <Image Name="pri_check_sel_1_0.png" />
+          <Image Name="pri_check_sel_1_1.png" />
+          <Image Name="pri_sp_altertips.png" />
+          <Image Name="pri_sp_createroom_separator.png" />
+          <Image Name="pri_sp_flag.png" />
+        </Folder>
+        <Folder Name="public">
+          <Image Name="bt_pri_agree_0.png" />
+          <Image Name="bt_pri_agree_1.png" />
+          <Image Name="bt_pri_oppose_0.png" />
+          <Image Name="bt_pri_oppose_1.png" />
+          <Image Name="im_pri_dismissRoom_bg.png" />
+          <Image Name="imgBg.png" />
+        </Folder>
+        <Folder Name="room">
+          <Image Name="01.png" />
+          <Image Name="bomBg.png" />
+          <Image Name="btn_change.png" />
+          <Image Name="btn_delete.png" />
+          <Image Name="btn_edit.png" />
+          <Image Name="btn_extend.png" />
+          <Project Name="ClubRoomCreate.csd" Type="Layer" />
+          <Image Name="createTitle.png" />
+          <Image Name="csmBg1.png" />
+          <Image Name="csmBg2.png" />
+          <Image Name="dt_dian2.png" />
+          <Image Name="editBg.png" />
+          <Image Name="extendBg.png" />
+          <Image Name="headBg.png" />
+          <Image Name="jiao1.png" />
+          <Image Name="land_check_sel_1_0.png" />
+          <Image Name="land_pribtn_arrow_down_0.png" />
+          <Image Name="land_pribtn_arrow_down_1.png" />
+          <Image Name="land_prisp_diamond.png" />
+          <Image Name="land_prisp_dropdown_menu.png" />
+          <Image Name="land_sp_dropdownbg.png" />
+          <Image Name="line.png" />
+          <Image Name="mem_cheak1.png" />
+          <Image Name="mem_gou.png" />
+          <Image Name="nclub_bg.png" />
+          <Image Name="nclub_close.png" />
+          <Image Name="nclub_titleBg1.png" />
+          <Image Name="nclub_titleBg2.png" />
+          <Image Name="no.png" />
+          <Image Name="ok.png" />
+          <Project Name="PrivateRoomCreateLayer.csd" Type="Layer" />
+          <Image Name="switch1.png" />
+          <Image Name="wf_btn.png" />
+          <Image Name="xzIcon.png" />
+        </Folder>
+        <Folder Name="roominfo">
+          <Image Name="grade_0.png" />
+          <Image Name="grade_1.png" />
+          <Image Name="grade_frame.png" />
+          <Image Name="line.png" />
+          <Image Name="line_1.png" />
+          <Project Name="MarkLayer.csd" Type="Layer" />
+          <Image Name="play_bt_0.png" />
+          <Image Name="play_bt_1.png" />
+          <Image Name="point.png" />
+          <Image Name="roomtitle.png" />
+          <Image Name="tabframe.png" />
+          <Image Name="title.png" />
+          <Image Name="title_1.png" />
+        </Folder>
+        <Folder Name="totalresult">
+          <Image Name="bg.png" />
+          <Image Name="count.png" />
+          <Image Name="goon_0.png" />
+          <Image Name="goon_1.png" />
+          <Image Name="scoreframe.png" />
+          <Image Name="share_0.png" />
+          <Image Name="share_1.png" />
+          <Image Name="winner.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

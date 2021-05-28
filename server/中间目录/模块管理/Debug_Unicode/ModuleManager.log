@@ -1,0 +1,130 @@
+﻿  Stdafx.cpp
+  ServerListControl.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  ServerInfoManager.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(212): note: 编译类 模板 成员函数“bool CTempldateHelper<IDataBase>::CreateInstance(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\模块管理\serverinfomanager.cpp(873): note: 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IDataBase>::CreateInstance(void)”的引用
+  g:\svn\dlm\服务端\系统模块\服务器组件\内核引擎\kernelenginehead.h(831): note: 参见对正在编译的类 模板 实例化“CTempldateHelper<IDataBase>”的引用
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  ServerCustomRule.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  ModuleManager.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  ModuleListControl.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  ModuleInfoManager.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(212): note: 编译类 模板 成员函数“bool CTempldateHelper<IDataBase>::CreateInstance(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\模块管理\moduleinfomanager.cpp(186): note: 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IDataBase>::CreateInstance(void)”的引用
+  g:\svn\dlm\服务端\系统模块\服务器组件\内核引擎\kernelenginehead.h(831): note: 参见对正在编译的类 模板 实例化“CTempldateHelper<IDataBase>”的引用
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  ModuleDBParameter.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  MatchListControl.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  MatchInfoManager.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(212): note: 编译类 模板 成员函数“bool CTempldateHelper<IDataBase>::CreateInstance(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\模块管理\matchinfomanager.cpp(800): note: 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IDataBase>::CreateInstance(void)”的引用
+  g:\svn\dlm\服务端\系统模块\服务器组件\内核引擎\kernelenginehead.h(831): note: 参见对正在编译的类 模板 实例化“CTempldateHelper<IDataBase>”的引用
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  ListControl.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  DlgServerWizard.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\模块管理\dlgserverwizard.cpp(268): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 参见“inet_addr”的声明
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(212): note: 编译类 模板 成员函数“bool CTempldateHelper<IDataBase>::CreateInstance(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\模块管理\dlgserverwizard.cpp(2506): note: 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IDataBase>::CreateInstance(void)”的引用
+  g:\svn\dlm\服务端\系统模块\服务器组件\内核引擎\kernelenginehead.h(831): note: 参见对正在编译的类 模板 实例化“CTempldateHelper<IDataBase>”的引用
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  DlgServerMatch.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(212): note: 编译类 模板 成员函数“bool CTempldateHelper<IDataBase>::CreateInstance(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\模块管理\dlgservermatch.cpp(130): note: 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IDataBase>::CreateInstance(void)”的引用
+  g:\svn\dlm\服务端\系统模块\服务器组件\内核引擎\kernelenginehead.h(831): note: 参见对正在编译的类 模板 实例化“CTempldateHelper<IDataBase>”的引用
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  DlgServerItem.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(212): note: 编译类 模板 成员函数“bool CTempldateHelper<IGameServiceManager>::CreateInstance(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\模块管理\dlgserveritem.cpp(281): note: 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IGameServiceManager>::CreateInstance(void)”的引用
+  g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\gameservicehead.h(1916): note: 参见对正在编译的类 模板 实例化“CTempldateHelper<IGameServiceManager>”的引用
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  DlgMatchWizard.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\模块管理\dlgmatchwizard.cpp(2636): warning C4244: “参数”: 从“LONGLONG”转换到“UINT”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\模块管理\dlgmatchwizard.cpp(2848): warning C4244: “参数”: 从“LONGLONG”转换到“UINT”，可能丢失数据
+  正在生成代码...
+DlgMatchWizard.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 ../../链接库/Unicode/ModuleManagerD.lib 和对象 ../../链接库/Unicode/ModuleManagerD.exp
+  ModuleManager.vcxproj -> G:\SVN\DLM\服务端\系统模块\服务器组件\模块管理\../../../运行/Debug/Unicode/\ModuleManagerD.dll
+  ModuleManager.vcxproj -> ../../../中间目录/模块管理/Debug_Unicode/ModuleManagerD.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Debug\Unicode 已经存在。
+  已复制         1 个文件。

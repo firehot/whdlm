@@ -1,0 +1,18 @@
+﻿  Stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+d:\qijianban\laok\服务端\游戏组件\开发库\include\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+d:\qijianban\laok\服务端\游戏组件\开发库\include\Core/UIManager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“EVENTTYPE_UI”的左侧
+  GameLogic.cpp
+  AndroidService.cpp
+  AndroidUserItemSink.cpp
+AndroidUserItemSink.cpp(81): warning C4244: “=”: 从“LONGLONG”转换到“UINT”，可能丢失数据
+AndroidUserItemSink.cpp(85): warning C4244: “=”: 从“LONGLONG”转换到“UINT”，可能丢失数据
+AndroidUserItemSink.cpp(490): warning C4996: '_snwscanf': This function or variable may be unsafe. Consider using _snwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(2125): note: 参见“_snwscanf”的声明
+  正在生成代码...
+    正在创建库 ../../../../运行/Release/Unicode/AndroidService.lib 和对象 ../../../../运行/Release/Unicode/AndroidService.exp
+AndroidService.exp : warning LNK4070: .EXP 中的 /OUT:AndroidService.dll 指令与输出文件名“../../../../运行/Release/Unicode/SanGongAndroid.dll”不同；忽略指令
+  AndroidService.vcxproj -> D:\qijianban\laok\服务端\游戏组件\老K子游戏\六人三公\机器人服务\../../../../运行/Release/Unicode/SanGongAndroid.dll
+  AndroidService.vcxproj -> ../../../../运行/Release/Unicode/SanGongAndroid.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Release\Unicode\ 已经存在。
+  已复制         1 个文件。

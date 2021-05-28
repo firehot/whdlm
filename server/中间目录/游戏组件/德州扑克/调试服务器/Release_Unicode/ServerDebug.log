@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+d:\qijianban\laok\服务端\游戏组件\开发库\include\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+d:\qijianban\laok\服务端\游戏组件\开发库\include\Core/UIManager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“EVENTTYPE_UI”的左侧
+  GameLogic.cpp
+  ServerDebug.cpp
+  ServerDebugItemSink.cpp
+  正在生成代码...
+    正在创建库 ../../../../运行/Release/Unicode/ServerDebug.lib 和对象 ../../../../运行/Release/Unicode/ServerDebug.exp
+ServerDebug.exp : warning LNK4070: .EXP 中的 /OUT:ServerDebug.dll 指令与输出文件名“../../../../运行/Release/Unicode/DZShowHandServerDebug.dll”不同；忽略指令
+  ServerDebug.vcxproj -> D:\qijianban\laok\服务端\游戏组件\老K子游戏\德州扑克\服务器调试\../../../../运行/Release/Unicode/DZShowHandServerDebug.dll
+  ServerDebug.vcxproj -> ../../../../运行/Release/Unicode/DZShowHandServerDebug.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Release\Unicode\ 已经存在。
+  已复制         1 个文件。

@@ -1,0 +1,87 @@
+﻿  Stdafx.cpp
+d:\qijianban\laok\服务端\系统模块\服务器组件\游戏服务\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  AndroidUserItemSink.cpp
+d:\qijianban\laok\服务端\系统模块\服务器组件\游戏服务\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  AnimalCfg.cpp
+d:\qijianban\laok\服务端\系统模块\服务器组件\游戏服务\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+AnimalCfg.cpp(79): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(80): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(81): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(82): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(83): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(126): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(127): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(128): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(129): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(130): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(131): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(132): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(133): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(134): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(135): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(136): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(145): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(146): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(147): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(148): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(149): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(169): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(170): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(171): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(199): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(200): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(273): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(274): warning C4244: “=”: 从“double”转换到“UINT32”，可能丢失数据
+AnimalCfg.cpp(577): warning C4018: “>=”: 有符号/无符号不匹配
+AnimalCfg.cpp(591): warning C4018: “>=”: 有符号/无符号不匹配
+  gamelogic.cpp
+d:\qijianban\laok\服务端\系统模块\服务器组件\游戏服务\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+gamelogic.cpp(448): warning C4018: “<”: 有符号/无符号不匹配
+gamelogic.cpp(911): warning C4244: “+=”: 从“double”转换到“INT64”，可能丢失数据
+gamelogic.cpp(1526): warning C4018: “>”: 有符号/无符号不匹配
+  GameServer.cpp
+d:\qijianban\laok\服务端\系统模块\服务器组件\游戏服务\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  GameServerManager.cpp
+d:\qijianban\laok\服务端\系统模块\服务器组件\游戏服务\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  basiclogger.cpp
+d:\qijianban\laok\服务端\系统模块\服务器组件\游戏服务\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+include\basiclogger.cpp(76): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+include\basiclogger.cpp(202): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+include\basiclogger.cpp(218): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+include\basiclogger.cpp(233): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+include\basiclogger.cpp(252): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  log.cpp
+d:\qijianban\laok\服务端\系统模块\服务器组件\游戏服务\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  pugixml.cpp
+  TableFrameSink.cpp
+d:\qijianban\laok\服务端\系统模块\服务器组件\游戏服务\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(118): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+TableFrameSink.cpp(824): warning C4129: “%”: 不可识别的字符转义序列
+TableFrameSink.cpp(824): warning C4778: “_snwprintf_s”: 格式字符串“%”未终止
+TableFrameSink.cpp(1033): warning C4129: “%”: 不可识别的字符转义序列
+TableFrameSink.cpp(1033): warning C4778: “_snwprintf_s”: 格式字符串“%”未终止
+TableFrameSink.cpp(1941): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: 参见“_snprintf”的声明
+TableFrameSink.cpp(1952): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: 参见“_snprintf”的声明
+TableFrameSink.cpp(1961): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: 参见“_snprintf”的声明
+TableFrameSink.cpp(2302): warning C4244: “参数”: 从“DWORD”转换到“WORD”，可能丢失数据
+TableFrameSink.cpp(2320): warning C4244: “参数”: 从“DWORD”转换到“WORD”，可能丢失数据
+  TestAnimal.cpp
+d:\qijianban\laok\服务端\系统模块\服务器组件\游戏服务\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  正在生成代码...
+d:\qijianban\laok\服务端\游戏组件\老k子游戏\森林舞会\游戏服务器\animalcfg.cpp(501): warning C4172: 返回局部变量或临时变量的地址: v
+d:\qijianban\laok\服务端\游戏组件\老k子游戏\森林舞会\游戏服务器\animalcfg.cpp(534): warning C4172: 返回局部变量或临时变量的地址: st
+d:\qijianban\laok\服务端\游戏组件\老k子游戏\森林舞会\游戏服务器\animalcfg.cpp(525): warning C4172: 返回局部变量或临时变量的地址: stAnimalCfg
+    正在创建库 Release_Unicode/3DSLWGServer.lib 和对象 Release_Unicode/3DSLWGServer.exp
+  GameServerSLWG.vcxproj -> D:\qijianban\laok\服务端\游戏组件\老K子游戏\森林舞会\游戏服务器\../../../../运行/Release/Unicode/3DSLWGServer.dll

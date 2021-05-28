@@ -1,0 +1,112 @@
+<Solution>
+  <PropertyGroup Name="runfast" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="fonts">
+          <TTF Name="FZHTJW.TTF" />
+          <TTF Name="round_body.ttf" />
+        </Folder>
+        <Folder Name="game">
+          <Image Name="389bt_agree_1.png" />
+          <Image Name="389bt_agree_2.png" />
+          <Image Name="389bt_oppose_1.png" />
+          <Image Name="389bt_oppose_2.png" />
+          <Image Name="389sp_dismissRoom_bg.png" />
+          <Image Name="389sp_dismissRoom_flag.png" />
+          <Image Name="btn_close.png" />
+          <Image Name="btn_dissmiss1.png" />
+          <Image Name="btn_dissmiss2.png" />
+          <Image Name="btn_exit1.png" />
+          <Image Name="btn_exit2.png" />
+          <Image Name="btn_invite1.png" />
+          <Image Name="btn_invite2.png" />
+          <Image Name="btn_record1.png" />
+          <Image Name="btn_record2.png" />
+          <Image Name="btn_rule1.png" />
+          <Image Name="btn_rule2.png" />
+          <Image Name="btn_share1.png" />
+          <Image Name="btn_share2.png" />
+          <Image Name="endCellBg.png" />
+          <Image Name="endNum.png" />
+          <Image Name="endWinNUm.png" />
+          <Image Name="img_bg.png" />
+          <Image Name="img_cellBack1.png" />
+          <Image Name="img_headBack.png" />
+          <Image Name="img_loseBg.png" />
+          <Image Name="img_num_lose.png" />
+          <Image Name="img_num_roomInfo.png" />
+          <Image Name="img_num_win.png" />
+          <Image Name="img_playCount.png" />
+          <Image Name="img_roomNum.png" />
+          <Image Name="img_roomRuleBg.png" />
+          <Image Name="img_title.png" />
+          <Image Name="img_winner.png" />
+          <Image Name="maxWin.png" />
+          <Image Name="tit_bg.png" />
+        </Folder>
+        <Folder Name="public">
+          <Image Name="anniu1.png" />
+          <Image Name="cjf_xuanzedi.png" />
+          <Image Name="cjf_xuanzedi2.png" />
+          <Image Name="cjfj_di.png" />
+          <Image Name="cjfj_gou.png" />
+          <Image Name="cjfj_mfcj.png" />
+          <Image Name="cjfj_yydi.png" />
+        </Folder>
+        <Folder Name="room">
+          <Image Name="base_sp_system_title.png" />
+          <Image Name="bomBg.png" />
+          <Image Name="bt_query_confirm_0.png" />
+          <Image Name="btn_change.png" />
+          <Image Name="btn_delete.png" />
+          <Image Name="btn_down1.png" />
+          <Image Name="btn_edit.png" />
+          <Image Name="btn_extend.png" />
+          <Image Name="check_pri_sel_0.png" />
+          <Image Name="check_pri_sel_1.png" />
+          <Image Name="check_yuan3.png" />
+          <Image Name="createTitle.png" />
+          <Image Name="csmBg1.png" />
+          <Image Name="csmBg2.png" />
+          <Image Name="dt_dian1.png" />
+          <Image Name="dt_dian2.png" />
+          <Image Name="editBg.png" />
+          <Image Name="extendBg.png" />
+          <Image Name="headBg.png" />
+          <Image Name="icon_roomlist_title.png" />
+          <Image Name="imgBg.png" />
+          <Image Name="itembuy_sp_diamond.png" />
+          <Image Name="jiao1.png" />
+          <Image Name="land_sp_dropdownbg.png" />
+          <Image Name="line.png" />
+          <Image Name="mem_cheak1.png" />
+          <Image Name="mem_gou.png" />
+          <Image Name="nclub_bg.png" />
+          <Image Name="nclub_close.png" />
+          <Image Name="nclub_titleBg1.png" />
+          <Image Name="nclub_titleBg2.png" />
+          <Image Name="plaza_sp_goldIcon.png" />
+          <Image Name="pri_btn_gold.png" />
+          <Image Name="pri_btn_normal.png" />
+          <Image Name="pri_btn_score.png" />
+          <Image Name="pri_sp_createroom_separator.png" />
+          <Image Name="pri_sp_flag.png" />
+          <Image Name="pri_sp_titleBg.png" />
+          <Image Name="prisp_dropdown_menu.png" />
+          <Project Name="PrivateRoomAAPayLayer.csd" Type="Layer" />
+          <Project Name="PrivateRoomCreateLayer.csd" Type="Layer" />
+          <Image Name="public_btn_back_0.png" />
+          <Image Name="public_btn_close_1_0.png" />
+          <Image Name="public_popbg.png" />
+          <Image Name="public_poptitlebg.png" />
+          <Image Name="sparrowgd_check_sel_1_0.png" />
+          <Image Name="sparrowgd_check_sel_1_1.png" />
+          <Image Name="switch1.png" />
+          <Image Name="wf_btn.png" />
+          <Image Name="xzIcon.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

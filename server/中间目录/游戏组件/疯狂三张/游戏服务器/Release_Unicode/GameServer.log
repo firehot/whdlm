@@ -1,0 +1,19 @@
+﻿  Stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+d:\qijianban\laok\服务端\游戏组件\开发库\include\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+d:\qijianban\laok\服务端\游戏组件\开发库\include\Core/UIManager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“EVENTTYPE_UI”的左侧
+  AESEncrypt.cpp
+  DlgCustomRule.cpp
+  GameLogic.cpp
+  GameServer.cpp
+  GameServerManager.cpp
+  TableFrameSink.cpp
+TableFrameSink.cpp(651): warning C4267: “=”: 从“size_t”转换到“WORD”，可能丢失数据
+TableFrameSink.cpp(802): warning C4267: “=”: 从“size_t”转换到“WORD”，可能丢失数据
+TableFrameSink.cpp(889): warning C4267: “=”: 从“size_t”转换到“WORD”，可能丢失数据
+TableFrameSink.cpp(1135): warning C4267: “=”: 从“size_t”转换到“WORD”，可能丢失数据
+  正在生成代码...
+    正在创建库 ../../../../运行/Release/Unicode/GameServer.lib 和对象 ../../../../运行/Release/Unicode/GameServer.exp
+  GameServer.vcxproj -> D:\qijianban\laok\服务端\游戏组件\老K子游戏\疯狂三张\游戏服务器\../../../../运行/Release/Unicode/ThreeMadnessServer.dll
+  子目录或文件 ..\..\..\发布组件\服务器组件\Release\Unicode\ 已经存在。
+  已复制         1 个文件。

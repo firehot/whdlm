@@ -1,0 +1,36 @@
+<Solution>
+  <PropertyGroup Name="begin1" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="begin.csd" Type="Node" />
+        <Image Name="ditu.jpg" />
+        <Image Name="hengtiao1.png" />
+        <Image Name="hengtiao2.png" />
+        <Image Name="hengtiao3.png" />
+        <Image Name="hengtiao4.png" />
+        <Image Name="hengtiao5.png" />
+        <Image Name="hengtiao6.png" />
+        <Image Name="hengtiao7.png" />
+        <Image Name="hengtiao8.png" />
+        <Image Name="kuosan_00000.png" />
+        <Image Name="luo.png" />
+        <Image Name="luo2.png" />
+        <Image Name="luo3.png" />
+        <Image Name="luo4.png" />
+        <Image Name="Openning_Slow.png" />
+        <Image Name="pei1.png" />
+        <Image Name="pei2.png" />
+        <Image Name="sha1.png" />
+        <Image Name="sha2.png" />
+        <Image Name="tong1.png" />
+        <Image Name="tong2.png" />
+        <Image Name="tong3.png" />
+        <Image Name="tong4.png" />
+        <Project Name="tongpei.csd" Type="Node" />
+        <Project Name="tongsha.csd" Type="Node" />
+        <Image Name="zj2.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,78 @@
+﻿  Stdafx.cpp
+d:\qijianban\laok\服务端\游戏组件\开发库\include\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+d:\qijianban\laok\服务端\游戏组件\开发库\include\Core/UIManager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“EVENTTYPE_UI”的左侧
+  DlgCustomRule.cpp
+  GameLogic.cpp
+  GameServer.cpp
+  GameServerManager.cpp
+d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(235): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(235): note: 请考虑在格式字符串中使用“%hs”
+  d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(235): note: 请考虑在格式字符串中使用“%Ts”
+  d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(235): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(212): note: 编译类 模板 成员函数“bool CTempldateHelper<IGameServiceManager>::CreateInstance(void)”时
+  GameServerManager.cpp(245): note: 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IGameServiceManager>::CreateInstance(void)”的引用
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xmemory(305): note: 参见对正在编译的函数 模板 实例化“_Ty2 **std::_Uninitialized_move_al_unchecked1<ObserverImplBase*,ObserverImplBase*,std::allocator<_Ty>>(_Ty1 *,_Ty1 *,_Ty2 *,std::_Wrap_alloc<std::allocator<_Ty>> &,std::_Really_trivial_ptr_iterator_tag,std::true_type)”的引用
+          with
+          [
+              _Ty2=ObserverImplBase *,
+              _Ty=ObserverImplBase *,
+              _Ty1=ObserverImplBase *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xmemory(318): note: 参见对正在编译的函数 模板 实例化“_FwdIt **std::_Uninitialized_move_al_unchecked<_Iter,_Iter,std::allocator<_Ty>>(_InIt,_InIt,_FwdIt,std::_Wrap_alloc<std::allocator<_Ty>> &)”的引用
+          with
+          [
+              _FwdIt=ObserverImplBase **,
+              _Iter=ObserverImplBase **,
+              _Ty=ObserverImplBase *,
+              _InIt=ObserverImplBase **
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vector(1660): note: 参见对正在编译的函数 模板 实例化“_FwdIt **std::_Uninitialized_move<_Iter,ObserverImplBase**,std::allocator<_Ty>>(_InIt,_InIt,_FwdIt,std::_Wrap_alloc<std::allocator<_Ty>> &)”的引用
+          with
+          [
+              _FwdIt=ObserverImplBase **,
+              _Iter=ObserverImplBase **,
+              _Ty=ObserverImplBase *,
+              _InIt=ObserverImplBase **
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vector(1605): note: 参见对正在编译的函数 模板 实例化“ObserverImplBase **std::vector<ObserverImplBase *,std::allocator<_Ty>>::_Umove<ObserverImplBase**>(_Iter,_Iter,ObserverImplBase **)”的引用
+          with
+          [
+              _Ty=ObserverImplBase *,
+              _Iter=ObserverImplBase **
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vector(1605): note: 参见对正在编译的函数 模板 实例化“ObserverImplBase **std::vector<ObserverImplBase *,std::allocator<_Ty>>::_Umove<ObserverImplBase**>(_Iter,_Iter,ObserverImplBase **)”的引用
+          with
+          [
+              _Ty=ObserverImplBase *,
+              _Iter=ObserverImplBase **
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vector(1601): note: 编译类 模板 成员函数“void std::vector<ObserverImplBase *,std::allocator<_Ty>>::_Reallocate(unsigned int)”时
+          with
+          [
+              _Ty=ObserverImplBase *
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vector(1631): note: 参见对正在编译的函数 模板 实例化“void std::vector<ObserverImplBase *,std::allocator<_Ty>>::_Reallocate(unsigned int)”的引用
+          with
+          [
+              _Ty=ObserverImplBase *
+          ]
+  d:\qijianban\laok\服务端\游戏组件\开发库\include\Control/UIMenu.h(192): note: 参见对正在编译的类 模板 实例化“std::vector<ObserverImplBase *,std::allocator<_Ty>>”的引用
+          with
+          [
+              _Ty=ObserverImplBase *
+          ]
+d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(243): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(243): note: 请考虑在格式字符串中使用“%hs”
+  d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(243): note: 请考虑在格式字符串中使用“%Ts”
+  d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(243): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(254): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(254): note: 请考虑在格式字符串中使用“%hs”
+  d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(254): note: 请考虑在格式字符串中使用“%Ts”
+  d:\qijianban\laok\服务端\游戏组件\开发库\include\Module.h(254): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  HistoryScore.cpp
+  TableFrameSink.cpp
+TableFrameSink.cpp(2046): warning C4267: “=”: 从“size_t”转换到“WORD”，可能丢失数据
+  正在生成代码...
+    正在创建库 ../../../../运行/Release/Unicode/GameServer.lib 和对象 ../../../../运行/Release/Unicode/GameServer.exp
+  GameServer.vcxproj -> D:\qijianban\laok\服务端\游戏组件\老K子游戏\血战麻将\服务器组件\../../../../运行/Release/Unicode/SparrowXZServer.dll
+  GameServer.vcxproj -> ../../../../运行/Release/Unicode/SparrowXZServer.pdb (Full PDB)

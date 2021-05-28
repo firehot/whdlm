@@ -1,0 +1,153 @@
+{
+  "ID": "f401e3c4-74a7-448c-bd2a-8ff419f4c276",
+  "Version": "3.10.0.0",
+  "Name": "Layer_handoff",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 49,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "hand_off/kwx_img_handoff_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 699.2104,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5241,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.476
+            },
+            "LeftMargin": 32.2104,
+            "RightMargin": -32.2104,
+            "TopMargin": 393.0,
+            "Tag": 50,
+            "ActionTag": 199559109,
+            "Size": {
+              "X": 1334.0,
+              "Y": 357.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "hand_off/kwx_btn_handoff_cancel_2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "hand_off/kwx_btn_handoff_cancel.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 162,
+            "Scale9Height": 56,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 675.3978,
+              "Y": 119.1879
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5063,
+              "Y": 0.1589
+            },
+            "PreSize": {
+              "X": 0.1439,
+              "Y": 0.104
+            },
+            "LeftMargin": 579.3978,
+            "RightMargin": 562.6022,
+            "TopMargin": 591.8121,
+            "BottomMargin": 80.1879,
+            "Tag": 51,
+            "ActionTag": -1189101335,
+            "Size": {
+              "X": 192.0,
+              "Y": 78.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1334.0,
+          "Y": 750.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "hand_off/kwx_btn_handoff_cancel.png",
+        "hand_off/kwx_btn_handoff_cancel_2.png",
+        "hand_off/kwx_img_handoff_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

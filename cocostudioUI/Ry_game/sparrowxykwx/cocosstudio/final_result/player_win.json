@@ -1,0 +1,450 @@
+{
+  "ID": "69d556b9-55ae-41c1-b696-4f19b8eaae58",
+  "Version": "3.10.0.0",
+  "Name": "player_win",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "final_result/kwx_img_selfinfo.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 106,
+            "Scale9OriginY": 142,
+            "Scale9Width": 110,
+            "Scale9Height": 148,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.9977
+            },
+            "TopMargin": 1.0,
+            "Tag": 89,
+            "Children": [
+              {
+                "FontSize": 22,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 224.1662,
+                  "Y": 373.6271
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 168,
+                  "G": 74,
+                  "B": 11
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6962,
+                  "Y": 0.8649
+                },
+                "PreSize": {
+                  "X": 0.3416,
+                  "Y": 0.0509
+                },
+                "LeftMargin": 169.1662,
+                "RightMargin": 42.8338,
+                "TopMargin": 47.3729,
+                "BottomMargin": 362.6271,
+                "Tag": 39,
+                "ActionTag": -1188883379,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 22.0
+                },
+                "Name": "text_name",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 224.1662,
+                  "Y": 343.8703
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 168,
+                  "G": 74,
+                  "B": 11
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6962,
+                  "Y": 0.796
+                },
+                "PreSize": {
+                  "X": 0.3416,
+                  "Y": 0.0509
+                },
+                "LeftMargin": 169.1662,
+                "RightMargin": 42.8338,
+                "TopMargin": 77.1297,
+                "BottomMargin": 332.8703,
+                "Tag": 40,
+                "ActionTag": 1176151134,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 22.0
+                },
+                "Name": "text_id",
+                "ctype": "TextObjectData"
+              },
+              {
+                "CharWidth": 16,
+                "CharHeight": 23,
+                "LabelText": "0",
+                "StartChar": "0",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "final_result/kwx_lab_selfinfo_s.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 205.9987,
+                  "Y": 272.2863
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6397,
+                  "Y": 0.6303
+                },
+                "PreSize": {
+                  "X": 0.0497,
+                  "Y": 0.0532
+                },
+                "LeftMargin": 197.9987,
+                "RightMargin": 108.0013,
+                "TopMargin": 148.2137,
+                "BottomMargin": 260.7863,
+                "Tag": 43,
+                "ActionTag": -1995634254,
+                "Size": {
+                  "X": 16.0,
+                  "Y": 23.0
+                },
+                "Name": "lab_zimo",
+                "ctype": "TextAtlasObjectData"
+              },
+              {
+                "CharWidth": 16,
+                "CharHeight": 23,
+                "LabelText": "0",
+                "StartChar": "0",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "final_result/kwx_lab_selfinfo_s.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 205.9987,
+                  "Y": 231.9866
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6397,
+                  "Y": 0.537
+                },
+                "PreSize": {
+                  "X": 0.0497,
+                  "Y": 0.0532
+                },
+                "LeftMargin": 197.9987,
+                "RightMargin": 108.0013,
+                "TopMargin": 188.5134,
+                "BottomMargin": 220.4866,
+                "Tag": 44,
+                "ActionTag": -2053344354,
+                "Size": {
+                  "X": 16.0,
+                  "Y": 23.0
+                },
+                "Name": "lab_hu",
+                "ctype": "TextAtlasObjectData"
+              },
+              {
+                "CharWidth": 16,
+                "CharHeight": 23,
+                "LabelText": "0",
+                "StartChar": "0",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "final_result/kwx_lab_selfinfo_s.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 205.9987,
+                  "Y": 191.6868
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6397,
+                  "Y": 0.4437
+                },
+                "PreSize": {
+                  "X": 0.0497,
+                  "Y": 0.0532
+                },
+                "LeftMargin": 197.9987,
+                "RightMargin": 108.0013,
+                "TopMargin": 228.8132,
+                "BottomMargin": 180.1868,
+                "Tag": 45,
+                "ActionTag": 1076578946,
+                "Size": {
+                  "X": 16.0,
+                  "Y": 23.0
+                },
+                "Name": "lab_dianpao",
+                "ctype": "TextAtlasObjectData"
+              },
+              {
+                "CharWidth": 16,
+                "CharHeight": 23,
+                "LabelText": "0",
+                "StartChar": "0",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "final_result/kwx_lab_selfinfo_s.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 205.9987,
+                  "Y": 151.3871
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6397,
+                  "Y": 0.3504
+                },
+                "PreSize": {
+                  "X": 0.0497,
+                  "Y": 0.0532
+                },
+                "LeftMargin": 197.9987,
+                "RightMargin": 108.0013,
+                "TopMargin": 269.1129,
+                "BottomMargin": 139.8871,
+                "Tag": 46,
+                "ActionTag": -1966683434,
+                "Size": {
+                  "X": 16.0,
+                  "Y": 23.0
+                },
+                "Name": "lab_angang",
+                "ctype": "TextAtlasObjectData"
+              },
+              {
+                "CharWidth": 16,
+                "CharHeight": 23,
+                "LabelText": "0",
+                "StartChar": "0",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "final_result/kwx_lab_selfinfo_s.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 205.9988,
+                  "Y": 111.0873
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6397,
+                  "Y": 0.2571
+                },
+                "PreSize": {
+                  "X": 0.0497,
+                  "Y": 0.0532
+                },
+                "LeftMargin": 197.9988,
+                "RightMargin": 108.0012,
+                "TopMargin": 309.4127,
+                "BottomMargin": 99.5873,
+                "Tag": 47,
+                "ActionTag": -165077501,
+                "Size": {
+                  "X": 16.0,
+                  "Y": 23.0
+                },
+                "Name": "lab_minggang",
+                "ctype": "TextAtlasObjectData"
+              },
+              {
+                "CharWidth": 32,
+                "CharHeight": 40,
+                "LabelText": "/99",
+                "StartChar": "/",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "final_result/kwx_lab_selfinfo_p.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 144.4271,
+                  "Y": 48.4574
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4485,
+                  "Y": 0.1122
+                },
+                "PreSize": {
+                  "X": 0.2981,
+                  "Y": 0.0926
+                },
+                "LeftMargin": 144.4271,
+                "RightMargin": 81.5729,
+                "TopMargin": 363.5426,
+                "BottomMargin": 28.4574,
+                "Tag": 48,
+                "ActionTag": 1668125612,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 40.0
+                },
+                "Name": "lab_result",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": -2122097776,
+            "Size": {
+              "X": 322.0,
+              "Y": 432.0
+            },
+            "Name": "img_bg",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 322.0,
+          "Y": 433.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "kwx_img_selfinfo.png",
+        "kwx_lab_selfinfo_p.png",
+        "kwx_lab_selfinfo_s.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

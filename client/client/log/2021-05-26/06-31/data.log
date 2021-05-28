@@ -1,0 +1,16 @@
+[
+    "clientscene:queryUserScoreInfo 05/26/21 06:31:15",
+    "clientscene:queryUserScoreInfo responese 05/26/21 06:31:15",
+    "clientscene:queryUserScoreInfo 05/26/21 06:31:17",
+    "clientscene:queryUserScoreInfo responese 05/26/21 06:31:17",
+    "clientscene:queryUserScoreInfo 05/26/21 06:31:42",
+    "clientscene:queryUserScoreInfo responese 05/26/21 06:31:42",
+    "clientscene:queryUserScoreInfo 05/26/21 06:31:45",
+    "clientscene:queryUserScoreInfo responese 05/26/21 06:31:45",
+    {
+        "logtime": "2021/05/26 06:31:51",
+        "logdata": "网络出现错误记录"
+    },
+    "clientscene:queryUserScoreInfo 05/26/21 06:31:56",
+    "clientscene:queryUserScoreInfo responese 05/26/21 06:31:56"
+]

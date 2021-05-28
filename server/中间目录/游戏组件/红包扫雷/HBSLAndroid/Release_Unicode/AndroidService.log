@@ -1,0 +1,13 @@
+﻿  AndroidService.cpp
+  AndroidUserItemSink.cpp
+AndroidUserItemSink.cpp(109): warning C4018: “>”: 有符号/无符号不匹配
+AndroidUserItemSink.cpp(553): warning C4018: “>”: 有符号/无符号不匹配
+AndroidUserItemSink.cpp(576): warning C4018: “<”: 有符号/无符号不匹配
+AndroidUserItemSink.cpp(576): warning C4018: “>=”: 有符号/无符号不匹配
+AndroidUserItemSink.cpp(583): warning C4018: “<”: 有符号/无符号不匹配
+    正在创建库 ../../../../运行/Release/Unicode/HBSLAndroid.lib 和对象 ../../../../运行/Release/Unicode/HBSLAndroid.exp
+HBSLAndroid.exp : warning LNK4070: .EXP 中的 /OUT:AndroidService.dll 指令与输出文件名“../../../../运行/Release/Unicode/HBSLAndroid.dll”不同；忽略指令
+  AndroidService.vcxproj -> G:\SVN\DLM\服务端\游戏组件\旗舰版待修\红包扫雷\AI服务\../../../../运行/Release/Unicode/HBSLAndroid.dll
+  AndroidService.vcxproj -> ../../../../运行/Release/Unicode/HBSLAndroid.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Release\Unicode\ 已经存在。
+  已复制         1 个文件。

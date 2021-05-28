@@ -1,0 +1,1041 @@
+{
+  "ID": "b45dfc72-5426-423d-8862-7a6aa78f73fc",
+  "Version": "3.10.0.0",
+  "Name": "DismissLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 65,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "create_room/389sp_dismissRoom_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 667.9411,
+              "Y": 375.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5007,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5675,
+              "Y": 0.5987
+            },
+            "LeftMargin": 289.4411,
+            "RightMargin": 287.5588,
+            "TopMargin": 150.5,
+            "BottomMargin": 150.5,
+            "Tag": 81,
+            "ActionTag": -412896229,
+            "Size": {
+              "X": 757.0,
+              "Y": 449.0
+            },
+            "Name": "sp_dismissRoom_bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "create_room/389sp_dismissRoom_flag.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 667.0,
+              "Y": 542.2056
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7229
+            },
+            "PreSize": {
+              "X": 0.1019,
+              "Y": 0.0467
+            },
+            "LeftMargin": 599.0,
+            "RightMargin": 599.0,
+            "TopMargin": 190.2944,
+            "BottomMargin": 524.7056,
+            "Tag": 84,
+            "ActionTag": 1387196373,
+            "Size": {
+              "X": 136.0,
+              "Y": 35.0
+            },
+            "Name": "sp_flag",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "玩家                                     申请解散房间\n半数或以上玩家同意即为通过，请你选择同意或者不同意",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/round_body.ttf",
+              "Plist": ""
+            },
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 667.0015,
+              "Y": 468.6468
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 250,
+              "G": 204,
+              "B": 38
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6249
+            },
+            "PreSize": {
+              "X": 0.3771,
+              "Y": 0.064
+            },
+            "LeftMargin": 415.5015,
+            "RightMargin": 415.4985,
+            "TopMargin": 257.3532,
+            "BottomMargin": 444.6468,
+            "Tag": 85,
+            "ActionTag": 1937832127,
+            "Size": {
+              "X": 503.0,
+              "Y": 48.0
+            },
+            "Name": "Text_rule",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "( 120 )",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/round_body.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 667.0,
+              "Y": 265.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 193,
+              "G": 221
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3533
+            },
+            "PreSize": {
+              "X": 0.039,
+              "Y": 0.032
+            },
+            "LeftMargin": 641.0,
+            "RightMargin": 641.0,
+            "TopMargin": 473.0,
+            "BottomMargin": 253.0,
+            "Tag": 87,
+            "ActionTag": 1876982336,
+            "Size": {
+              "X": 52.0,
+              "Y": 24.0
+            },
+            "Name": "Text_countDown",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "我有许多小秘密！",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/round_body.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 626.27,
+              "Y": 481.01
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 79,
+              "G": 212,
+              "B": 253
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4695,
+              "Y": 0.6413
+            },
+            "PreSize": {
+              "X": 0.1124,
+              "Y": 0.032
+            },
+            "LeftMargin": 551.27,
+            "RightMargin": 632.73,
+            "TopMargin": 256.99,
+            "BottomMargin": 469.01,
+            "Tag": 141,
+            "ActionTag": 971950479,
+            "Size": {
+              "X": 150.0,
+              "Y": 24.0
+            },
+            "Name": "Text_user",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "我有许多小秘密",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/round_body.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 440.0,
+              "Y": 420.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 193,
+              "G": 221
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3298,
+              "Y": 0.56
+            },
+            "PreSize": {
+              "X": 0.1072,
+              "Y": 0.032
+            },
+            "LeftMargin": 368.5,
+            "RightMargin": 822.5,
+            "TopMargin": 318.0,
+            "BottomMargin": 408.0,
+            "Tag": 86,
+            "ActionTag": 100877885,
+            "Size": {
+              "X": 143.0,
+              "Y": 24.0
+            },
+            "Name": "Text_user1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "申请解散",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/round_body.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 440.0,
+              "Y": 297.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 193,
+              "G": 221
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3298,
+              "Y": 0.396
+            },
+            "PreSize": {
+              "X": 0.0622,
+              "Y": 0.032
+            },
+            "LeftMargin": 398.5,
+            "RightMargin": 852.5,
+            "TopMargin": 441.0,
+            "BottomMargin": 285.0,
+            "Tag": 142,
+            "ActionTag": -1862256869,
+            "Size": {
+              "X": 83.0,
+              "Y": 24.0
+            },
+            "Name": "Text_user1_action",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "放羊的哈士奇",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/round_body.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 590.0,
+              "Y": 420.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 193,
+              "G": 221
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4423,
+              "Y": 0.56
+            },
+            "PreSize": {
+              "X": 0.0922,
+              "Y": 0.032
+            },
+            "LeftMargin": 528.5,
+            "RightMargin": 682.5,
+            "TopMargin": 318.0,
+            "BottomMargin": 408.0,
+            "Tag": 88,
+            "ActionTag": 936682536,
+            "Size": {
+              "X": 123.0,
+              "Y": 24.0
+            },
+            "Name": "Text_user2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "正在选择",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/round_body.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 590.0,
+              "Y": 297.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 193,
+              "G": 221
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4423,
+              "Y": 0.396
+            },
+            "PreSize": {
+              "X": 0.0622,
+              "Y": 0.032
+            },
+            "LeftMargin": 548.5,
+            "RightMargin": 702.5,
+            "TopMargin": 441.0,
+            "BottomMargin": 285.0,
+            "Tag": 143,
+            "ActionTag": -1203371898,
+            "Size": {
+              "X": 83.0,
+              "Y": 24.0
+            },
+            "Name": "Text_user2_action",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "头上有犄角",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/round_body.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 740.0,
+              "Y": 420.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 193,
+              "G": 221
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5547,
+              "Y": 0.56
+            },
+            "PreSize": {
+              "X": 0.0765,
+              "Y": 0.032
+            },
+            "LeftMargin": 689.0,
+            "RightMargin": 543.0,
+            "TopMargin": 318.0,
+            "BottomMargin": 408.0,
+            "Tag": 89,
+            "ActionTag": -431487599,
+            "Size": {
+              "X": 102.0,
+              "Y": 24.0
+            },
+            "Name": "Text_user3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "正在选择",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/round_body.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 740.0,
+              "Y": 297.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 193,
+              "G": 221
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5547,
+              "Y": 0.396
+            },
+            "PreSize": {
+              "X": 0.0622,
+              "Y": 0.032
+            },
+            "LeftMargin": 698.5,
+            "RightMargin": 552.5,
+            "TopMargin": 441.0,
+            "BottomMargin": 285.0,
+            "Tag": 144,
+            "ActionTag": 1815659241,
+            "Size": {
+              "X": 83.0,
+              "Y": 24.0
+            },
+            "Name": "Text_user3_action",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "东方树叶",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/round_body.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 890.0,
+              "Y": 420.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 193,
+              "G": 221
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6672,
+              "Y": 0.56
+            },
+            "PreSize": {
+              "X": 0.0622,
+              "Y": 0.032
+            },
+            "LeftMargin": 848.5,
+            "RightMargin": 402.5,
+            "TopMargin": 318.0,
+            "BottomMargin": 408.0,
+            "Tag": 90,
+            "ActionTag": -816227565,
+            "Size": {
+              "X": 83.0,
+              "Y": 24.0
+            },
+            "Name": "Text_user4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "正在选择",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "fonts/round_body.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 890.0,
+              "Y": 297.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 193,
+              "G": 221
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6672,
+              "Y": 0.396
+            },
+            "PreSize": {
+              "X": 0.0622,
+              "Y": 0.032
+            },
+            "LeftMargin": 848.5,
+            "RightMargin": 402.5,
+            "TopMargin": 441.0,
+            "BottomMargin": 285.0,
+            "Tag": 145,
+            "ActionTag": -1714871379,
+            "Size": {
+              "X": 83.0,
+              "Y": 24.0
+            },
+            "Name": "Text_user4_action",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "create_room/389bt_oppose_2.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "create_room/389bt_oppose_2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "create_room/389bt_oppose_1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 123,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 805.5,
+              "Y": 200.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6038,
+              "Y": 0.2667
+            },
+            "PreSize": {
+              "X": 0.1147,
+              "Y": 0.0707
+            },
+            "LeftMargin": 729.0,
+            "RightMargin": 452.0,
+            "TopMargin": 523.5,
+            "BottomMargin": 173.5,
+            "Tag": 83,
+            "ActionTag": 604468095,
+            "Size": {
+              "X": 153.0,
+              "Y": 53.0
+            },
+            "Name": "bt_oppose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "create_room/389bt_agree_2.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "create_room/389bt_agree_2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "create_room/389bt_agree_1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 123,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 528.5,
+              "Y": 200.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3962,
+              "Y": 0.2667
+            },
+            "PreSize": {
+              "X": 0.1147,
+              "Y": 0.0707
+            },
+            "LeftMargin": 452.0,
+            "RightMargin": 729.0,
+            "TopMargin": 523.5,
+            "BottomMargin": 173.5,
+            "Tag": 82,
+            "ActionTag": -1638589310,
+            "Size": {
+              "X": 153.0,
+              "Y": 53.0
+            },
+            "Name": "bt_agree",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 440.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3298,
+              "Y": 0.48
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 440.0,
+            "RightMargin": 894.0,
+            "TopMargin": 390.0,
+            "BottomMargin": 360.0,
+            "Tag": 134,
+            "ActionTag": -1782481091,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 590.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4423,
+              "Y": 0.48
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 590.0,
+            "RightMargin": 744.0,
+            "TopMargin": 390.0,
+            "BottomMargin": 360.0,
+            "Tag": 135,
+            "ActionTag": 1547806153,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 740.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5547,
+              "Y": 0.48
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 740.0,
+            "RightMargin": 594.0,
+            "TopMargin": 390.0,
+            "BottomMargin": 360.0,
+            "Tag": 137,
+            "ActionTag": 1162194515,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_3",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 890.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6672,
+              "Y": 0.48
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 890.0,
+            "RightMargin": 444.0,
+            "TopMargin": 390.0,
+            "BottomMargin": 360.0,
+            "Tag": 139,
+            "ActionTag": 580936603,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_4",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1334.0,
+          "Y": 750.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "create_room/389bt_agree_1.png",
+        "create_room/389bt_agree_2.png",
+        "create_room/389bt_oppose_1.png",
+        "create_room/389bt_oppose_2.png",
+        "create_room/389sp_dismissRoom_bg.png",
+        "create_room/389sp_dismissRoom_flag.png",
+        "fonts/round_body.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

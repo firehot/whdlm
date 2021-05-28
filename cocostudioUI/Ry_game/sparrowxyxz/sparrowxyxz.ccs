@@ -1,0 +1,261 @@
+<Solution>
+  <PropertyGroup Name="sparrowxyxz" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="auto">
+          <Folder Name="default">
+            <Image Name="labelatlas.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="card">
+          <Folder Name="left_right">
+            <Image Name="tile_leftRight_03.png" />
+            <Image Name="tile_leftRight_08.png" />
+          </Folder>
+          <Folder Name="my_big">
+            <Image Name="tile_me_up_04.png" />
+          </Folder>
+          <Folder Name="my_normal">
+            <Image Name="tile_me_04.png" />
+          </Folder>
+          <Folder Name="my_small">
+            <Image Name="tile_meUp_04.png" />
+          </Folder>
+          <Image Name="back_normal.png" />
+          <Image Name="dowm_small.png" />
+          <Image Name="dowm_small_shadow.png" />
+          <Image Name="down_big.png" />
+          <Image Name="down_big_shadow.png" />
+          <Image Name="down_normal.png" />
+          <Image Name="down_normal_shadow.png" />
+          <Image Name="heap_1.png" />
+          <Image Name="heap_1_shadow.png" />
+          <Image Name="left_right_down.png" />
+          <Image Name="left_right_shadow.png" />
+          <Image Name="mark_left_right.png" />
+          <Image Name="mark_me_top.png" />
+          <Project Name="Node_heap.csd" Type="Node" />
+          <Project Name="Node_majong_left.csd" Type="Node" />
+          <Project Name="Node_majong_left_down.csd" Type="Node" />
+          <Project Name="Node_majong_my.csd" Type="Node" />
+          <Project Name="Node_majong_my_downbig.csd" Type="Node" />
+          <Project Name="Node_majong_my_downnormal.csd" Type="Node" />
+          <Project Name="Node_majong_my_downsmall.csd" Type="Node" />
+          <Project Name="Node_majong_right.csd" Type="Node" />
+          <Project Name="Node_majong_right_down.csd" Type="Node" />
+          <Project Name="Node_majong_top.csd" Type="Node" />
+          <Project Name="Node_majong_top_dowm.csd" Type="Node" />
+          <Image Name="stand_left.png" />
+          <Image Name="stand_left_shadow.png" />
+          <Image Name="stand_my.png" />
+          <Image Name="stand_right.png" />
+          <Image Name="stand_top.png" />
+          <Image Name="stand_top_shadow.png" />
+        </Folder>
+        <Folder Name="chat">
+          <Project Name="GameChatLayer.csd" Type="Layer" />
+          <Image Name="public_chatBg.png" />
+          <Image Name="public_chatEmoj.png" />
+          <Image Name="public_chatSelect.png" />
+          <Image Name="public_chatTxt.png" />
+        </Folder>
+        <Folder Name="common">
+          <Image Name="bg_shadow.png" />
+          <Image Name="btn_cancel1.png" />
+          <Image Name="btn_cancel2.png" />
+          <Image Name="btn_sure1.png" />
+          <Image Name="btn_sure2.png" />
+          <Image Name="num_leftCard.png" />
+        </Folder>
+        <Folder Name="Default">
+          <Image Name="Button_Disable.png" />
+          <Image Name="Button_Press.png" />
+          <Image Name="ImageFile.png" />
+          <Image Name="Sprite.png" />
+        </Folder>
+        <Folder Name="fonts">
+          <TTF Name="round_body.ttf" />
+        </Folder>
+        <Folder Name="game">
+          <Image Name="BatteryBg.png" />
+          <Image Name="Bg.png" />
+          <Image Name="bgdecorate.png" />
+          <Image Name="btn_changedesk.png" />
+          <Image Name="btn_changedesk1.png" />
+          <Image Name="btn_changeok.png" />
+          <Image Name="btn_chi1.png" />
+          <Image Name="btn_chi2.png" />
+          <Image Name="btn_chi3.png" />
+          <Image Name="btn_dismiss.png" />
+          <Image Name="btn_exit1.png" />
+          <Image Name="btn_exit2.png" />
+          <Image Name="btn_gang1.png" />
+          <Image Name="btn_gang2.png" />
+          <Image Name="btn_gang3.png" />
+          <Image Name="btn_guo1.png" />
+          <Image Name="btn_guo2.png" />
+          <Image Name="btn_guo3.png" />
+          <Image Name="btn_hu1.png" />
+          <Image Name="btn_hu2.png" />
+          <Image Name="btn_hu3.png" />
+          <Image Name="btn_liushui_1.png" />
+          <Image Name="btn_liushui_2.png" />
+          <Image Name="btn_menu1.png" />
+          <Image Name="btn_menu2.png" />
+          <Image Name="btn_pen1.png" />
+          <Image Name="btn_pen2.png" />
+          <Image Name="btn_pen3.png" />
+          <Image Name="btn_ready.png" />
+          <Image Name="btn_record_1.png" />
+          <Image Name="btn_record_2.png" />
+          <Image Name="btn_setting1.png" />
+          <Image Name="btn_setting2.png" />
+          <Image Name="btn_sit.png" />
+          <Image Name="btn_start.png" />
+          <Image Name="btn_ting1.png" />
+          <Image Name="btn_ting2.png" />
+          <Image Name="btn_ting3.png" />
+          <Image Name="btn_trust1.png" />
+          <Image Name="btn_trust2.png" />
+          <Image Name="btn_trust3.png" />
+          <Image Name="btn_voice.png" />
+          <Image Name="btn_wanfa_1.png" />
+          <Image Name="btn_wanfa_2.png" />
+          <Image Name="BTN-dingwei1.png" />
+          <Image Name="BTN-fangjianwanfa1.png" />
+          <Image Name="BTN-fangjianwanfa2.png" />
+          <Image Name="BTN-queding1.png" />
+          <Image Name="BTN-queding2.png" />
+          <Image Name="BTN-tiao.png" />
+          <Image Name="BTN-tiao1.png" />
+          <Image Name="BTN-tong.png" />
+          <Image Name="BTN-tong2.png" />
+          <Image Name="BTN-wan.png" />
+          <Image Name="BTN-wan2.png" />
+          <Image Name="BTN-zhanjiliushui1.png" />
+          <Image Name="BTN-zhanjiliushui2.png" />
+          <Project Name="callCard.csd" Type="Node" />
+          <Image Name="callingcard.png" />
+          <Image Name="change1.png" />
+          <Image Name="coin.png" />
+          <Image Name="coin_num.png" />
+          <Image Name="coinbg.png" />
+          <Image Name="countdown_leftcard_digits.png" />
+          <Image Name="dikuang1.png" />
+          <Image Name="dir_none.png" />
+          <Image Name="exit_bg.png" />
+          <Image Name="exit_tips.png" />
+          <Project Name="GameScene.csd" Type="Layer" />
+          <Image Name="headerBg.png" />
+          <Image Name="hintTip.png" />
+          <Image Name="icon_roomHolder.png" />
+          <Image Name="info_cellscore.png" />
+          <Image Name="info_Daizi.png" />
+          <Image Name="info_ma.png" />
+          <Image Name="info_NoMagicDouble.png" />
+          <Image Name="info_Qianggang.png" />
+          <Image Name="info_Qidui.png" />
+          <Image Name="jiesuanbg.png" />
+          <Image Name="label_tong.png" />
+          <Project Name="Layer_exit.csd" Type="Layer" />
+          <Project Name="Layer_jiesuan.csd" Type="Layer" />
+          <Project Name="Layer_liushui.csd" Type="Layer" />
+          <Project Name="Layer_zhanji.csd" Type="Layer" />
+          <Image Name="leftcard_sp.png" />
+          <Image Name="leftCardBg.png" />
+          <Image Name="liaotian1.png" />
+          <Image Name="liushuiline.png" />
+          <Image Name="magicBg.png" />
+          <Image Name="momaBg.png" />
+          <Project Name="Node_liushui_list.csd" Type="Node" />
+          <Project Name="Node_moma.csd" Type="Node" />
+          <Project Name="Node_tips.csd" Type="Node" />
+          <Project Name="Node_Zhanji_list.csd" Type="Node" />
+          <Project Name="NodeInfo.csd" Type="Node" />
+          <Project Name="nodeUser.csd" Type="Node" />
+          <Image Name="notchoosed.png" />
+          <Image Name="num_cions.png" />
+          <Image Name="num_moma.png" />
+          <Image Name="num_tips.png" />
+          <Image Name="num_wan.png" />
+          <Project Name="Opbar.csd" Type="Node" />
+          <Image Name="outCardBg.png" />
+          <Project Name="Player.csd" Type="Node" />
+          <Project Name="Scene.csd" Type="Layer" />
+          <Image Name="select.png" />
+          <Project Name="ShareLayer.csd" Type="Layer" />
+          <Image Name="sparrowgd_btn_share_cycle_0.png" />
+          <Image Name="sparrowgd_btn_share_cycle_1.png" />
+          <Image Name="sparrowgd_btn_share_wx_0.png" />
+          <Image Name="sparrowgd_btn_share_wx_1.png" />
+          <Image Name="sparrowgd_sp_sharebg.png" />
+          <Image Name="tip_bg.png" />
+          <Image Name="tipchangcard.png" />
+          <Image Name="tips_all.png" />
+          <Image Name="tips_bg.png" />
+          <Image Name="tips_fan.png" />
+          <Image Name="tips_hu.png" />
+          <Image Name="tips_huCardNum.png" />
+          <Image Name="trust.png" />
+          <Image Name="trustBottom.png" />
+          <Image Name="trustPoint.png" />
+          <Image Name="user_banker.png" />
+          <Image Name="user_coinbg2.png" />
+          <Image Name="user_face.png" />
+          <Image Name="voice_animBg.png" />
+          <Image Name="wifi-3.png" />
+          <Image Name="xuanpai.png" />
+          <Image Name="xuanpaidian.png" />
+          <Image Name="xzbg.png" />
+          <Image Name="zhanjibox.png" />
+        </Folder>
+        <Folder Name="gameEnd">
+          <Image Name="bg.png" />
+          <Image Name="btn_changedesk.png" />
+          <Image Name="btn_countinue.png" />
+          <Image Name="btn_countinue_2.png" />
+          <Image Name="btn_exit.png" />
+          <Image Name="btn_exit_2.png" />
+          <Image Name="btn_ready.png" />
+          <Image Name="btn_share.png" />
+          <Image Name="btn_share_2.png" />
+          <Image Name="coin.png" />
+          <Project Name="GameEnd.csd" Type="Layer" />
+          <Image Name="huawen.png" />
+          <Image Name="line.png" />
+          <Project Name="Node_end_list.csd" Type="Node" />
+          <Project Name="Node_end_player.csd" Type="Node" />
+          <Image Name="selfbg.png" />
+          <Image Name="title.png" />
+          <Image Name="zhuang.png" />
+        </Folder>
+        <Folder Name="localtion">
+          <Image Name="icon_ip.png" />
+          <Image Name="kwx_btn_loc_quit.png" />
+          <Image Name="kwx_btn_loc_quit_2.png" />
+        </Folder>
+        <Folder Name="setting">
+          <Image Name="Bg.png" />
+          <Image Name="effect.png" />
+          <Image Name="music.png" />
+          <Image Name="off.png" />
+          <Image Name="on.png" />
+          <Project Name="SettingLayer.csd" Type="Layer" />
+          <Image Name="title.png" />
+        </Folder>
+        <Folder Name="video">
+          <Image Name="bg.png" />
+          <Image Name="bgRomal.png" />
+          <Image Name="face.png" />
+          <Project Name="Layer_VideoResult.csd" Type="Layer" />
+          <Project Name="Node_info.csd" Type="Node" />
+          <Image Name="public_btn_close_0.png" />
+          <Image Name="public_btn_close_1.png" />
+          <Image Name="title.png" />
+        </Folder>
+        <Project Name="LocationLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

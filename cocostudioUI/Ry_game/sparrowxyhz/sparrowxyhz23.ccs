@@ -1,0 +1,232 @@
+<Solution>
+  <PropertyGroup Name="sparrowxyhz23" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="card">
+          <Image Name="heap_1.png" />
+          <Image Name="heap_1_shadow.png" />
+          <Project Name="Node_heap.csd" Type="Node" />
+        </Folder>
+        <Folder Name="chat">
+          <Project Name="GameChatLayer.csd" Type="Layer" />
+          <Image Name="public_chatBg.png" />
+          <Image Name="public_chatEmoj.png" />
+          <Image Name="public_chatSelect.png" />
+          <Image Name="public_chatTxt.png" />
+        </Folder>
+        <Folder Name="game">
+          <Folder Name="font_big">
+            <Image Name="card_down.png" />
+            <Image Name="card_up.png" />
+            <Image Name="font_0_1.png" />
+          </Folder>
+          <Folder Name="popInfo">
+            <Image Name="coin.png" />
+            <Image Name="countBg.png" />
+            <Project Name="GamePopInfo.csd" Type="Layer" />
+            <Image Name="headBg.png" />
+            <Image Name="line.png" />
+            <Image Name="popBg.png" />
+            <Image Name="prop_1.png" />
+          </Folder>
+          <Image Name="389_sp_setLayer_bg.png" />
+          <Image Name="background_sparrowHz.png" />
+          <Image Name="battery_inner.png" />
+          <Image Name="battery_out.png" />
+          <Image Name="bg1.png" />
+          <Image Name="bg2.png" />
+          <Image Name="btn_fenxiang1.png" />
+          <Image Name="btn_fenxiang2.png" />
+          <Image Name="btn_fenxiang21.png" />
+          <Image Name="btn_fenxiang22.png" />
+          <Image Name="btn_jieshan1.png" />
+          <Image Name="btn_jieshan2.png" />
+          <Image Name="btn_ready1.png" />
+          <Image Name="btn_ready2.png" />
+          <Image Name="btn_sit1.png" />
+          <Image Name="btn_sit2.png" />
+          <Image Name="btn_trustee.png" />
+          <Image Name="card_up.png" />
+          <Image Name="change1.png" />
+          <Image Name="change2.png" />
+          <Image Name="check1.png" />
+          <Image Name="check2.png" />
+          <Image Name="close1.png" />
+          <Image Name="close2.png" />
+          <Image Name="exit1.png" />
+          <Image Name="exit2.png" />
+          <Project Name="GameScene.csd" Type="Layer" />
+          <Image Name="img_chat.png" />
+          <Image Name="img_chat_2.png" />
+          <Image Name="img_gou.png" />
+          <Image Name="img_left_count.png" />
+          <Image Name="img_location.png" />
+          <Image Name="img_location2.png" />
+          <Image Name="img_ma_2.png" />
+          <Image Name="img_ma_bg.png" />
+          <Image Name="img_ma_edge.png" />
+          <Image Name="img_password_type.png" />
+          <Image Name="img_pay_type.png" />
+          <Image Name="img_player_num.png" />
+          <Image Name="img_rule_tittle.png" />
+          <Image Name="img_top.png" />
+          <Image Name="img_top_left.png" />
+          <Image Name="img_voice.png" />
+          <Image Name="img_voice_1.png" />
+          <Image Name="info_title11.png" />
+          <Image Name="info_title12.png" />
+          <Image Name="info_title21.png" />
+          <Image Name="info_title22.png" />
+          <Image Name="kuang.png" />
+          <Image Name="menu1.png" />
+          <Image Name="menu2.png" />
+          <Image Name="num_clock.png" />
+          <Project Name="Player.csd" Type="Node" />
+          <Project Name="Player_Right.csd" Type="Node" />
+          <Project Name="RoomInfoLayer.csd" Type="Layer" />
+          <Image Name="set1.png" />
+          <Image Name="set2.png" />
+          <Project Name="SetLayer.csd" Type="Layer" />
+          <Project Name="ShareLayer.csd" Type="Layer" />
+          <Image Name="shengyuNum.png" />
+          <Image Name="sp_trusteeCover.png" />
+          <Image Name="sp_trusteeMan.png" />
+          <Image Name="title_cell.png" />
+          <Project Name="TrusteeCoverLayer.csd" Type="Layer" />
+          <Image Name="txt_fenxiang.png" />
+          <Image Name="txt_mashu.png" />
+          <Image Name="xian.png" />
+        </Folder>
+        <Folder Name="gameResult">
+          <Image Name="cellBg1.png" />
+          <Image Name="change1.png" />
+          <Image Name="change2.png" />
+          <Image Name="defenTxt.png" />
+          <Project Name="GameResultLayer.csd" Type="Layer" />
+          <Image Name="goon1.png" />
+          <Image Name="goon2.png" />
+          <Image Name="img_leave.png" />
+          <Image Name="img_leave_2.png" />
+          <Image Name="img_share.png" />
+          <Image Name="img_share_2.png" />
+          <Image Name="js_close1.png" />
+          <Image Name="js_close2.png" />
+          <Project Name="nodeUser.csd" Type="Node" />
+          <Image Name="result_background.png" />
+          <Image Name="result_background_1.png" />
+          <Image Name="title_blzm.png" />
+        </Folder>
+        <PlistImageFolder Image="gameScene.png" PListFile="gameScene.plist" Name=".gameScene_PList.Dir">
+          <PlistImageFile Name="389_bt_set_1.png" Key="389_bt_set_1.png" />
+          <PlistImageFile Name="389_bt_set_2.png" Key="389_bt_set_2.png" />
+          <PlistImageFile Name="389_bt_switch_1.png" Key="389_bt_switch_1.png" />
+          <PlistImageFile Name="389_bt_switch_2.png" Key="389_bt_switch_2.png" />
+          <PlistImageFile Name="389_cbx_switch_1.png" Key="389_cbx_switch_1.png" />
+          <PlistImageFile Name="389_cbx_switch_2.png" Key="389_cbx_switch_2.png" />
+          <PlistImageFile Name="389_sp_listen_anyCard.png" Key="389_sp_listen_anyCard.png" />
+          <PlistImageFile Name="389_sp_listen_manyCard.png" Key="389_sp_listen_manyCard.png" />
+          <PlistImageFile Name="389_sp_tableBtBg.png" Key="389_sp_tableBtBg.png" />
+          <PlistImageFile Name="bt_bridge_1.png" Key="bt_bridge_1.png" />
+          <PlistImageFile Name="bt_bridge_2.png" Key="bt_bridge_2.png" />
+          <PlistImageFile Name="bt_bump_1.png" Key="bt_bump_1.png" />
+          <PlistImageFile Name="bt_bump_2.png" Key="bt_bump_2.png" />
+          <PlistImageFile Name="bt_chat_1.png" Key="bt_chat_1.png" />
+          <PlistImageFile Name="bt_chat_2.png" Key="bt_chat_2.png" />
+          <PlistImageFile Name="bt_close_setLayer_1.png" Key="bt_close_setLayer_1.png" />
+          <PlistImageFile Name="bt_close_setLayer_2.png" Key="bt_close_setLayer_2.png" />
+          <PlistImageFile Name="bt_continue_1.png" Key="bt_continue_1.png" />
+          <PlistImageFile Name="bt_continue_2.png" Key="bt_continue_2.png" />
+          <PlistImageFile Name="bt_eat_1.png" Key="bt_eat_1.png" />
+          <PlistImageFile Name="bt_eat_2.png" Key="bt_eat_2.png" />
+          <PlistImageFile Name="bt_exit_1.png" Key="bt_exit_1.png" />
+          <PlistImageFile Name="bt_exit_2.png" Key="bt_exit_2.png" />
+          <PlistImageFile Name="bt_howPlay_1.png" Key="bt_howPlay_1.png" />
+          <PlistImageFile Name="bt_howPlay_2.png" Key="bt_howPlay_2.png" />
+          <PlistImageFile Name="bt_listen_1.png" Key="bt_listen_1.png" />
+          <PlistImageFile Name="bt_listen_2.png" Key="bt_listen_2.png" />
+          <PlistImageFile Name="bt_pass_1.png" Key="bt_pass_1.png" />
+          <PlistImageFile Name="bt_pass_2.png" Key="bt_pass_2.png" />
+          <PlistImageFile Name="bt_recodeShow_1.png" Key="bt_recodeShow_1.png" />
+          <PlistImageFile Name="bt_recodeShow_2.png" Key="bt_recodeShow_2.png" />
+          <PlistImageFile Name="bt_send_1.png" Key="bt_send_1.png" />
+          <PlistImageFile Name="bt_send_2.png" Key="bt_send_2.png" />
+          <PlistImageFile Name="bt_soundOff_1.png" Key="bt_soundOff_1.png" />
+          <PlistImageFile Name="bt_soundOff_2.png" Key="bt_soundOff_2.png" />
+          <PlistImageFile Name="bt_start_1.png" Key="bt_start_1.png" />
+          <PlistImageFile Name="bt_start_2.png" Key="bt_start_2.png" />
+          <PlistImageFile Name="bt_trustee_1.png" Key="bt_trustee_1.png" />
+          <PlistImageFile Name="bt_trustee_2.png" Key="bt_trustee_2.png" />
+          <PlistImageFile Name="bt_trusteeCancel_1.png" Key="bt_trusteeCancel_1.png" />
+          <PlistImageFile Name="bt_trusteeCancel_2.png" Key="bt_trusteeCancel_2.png" />
+          <PlistImageFile Name="bt_voice_1.png" Key="bt_voice_1.png" />
+          <PlistImageFile Name="bt_voice_2.png" Key="bt_voice_2.png" />
+          <PlistImageFile Name="bt_win_1.png" Key="bt_win_1.png" />
+          <PlistImageFile Name="bt_win_2.png" Key="bt_win_2.png" />
+          <PlistImageFile Name="sp_announcement.png" Key="sp_announcement.png" />
+          <PlistImageFile Name="sp_announcementBg.png" Key="sp_announcementBg.png" />
+          <PlistImageFile Name="sp_banker.png" Key="sp_banker.png" />
+          <PlistImageFile Name="sp_bubble_1.png" Key="sp_bubble_1.png" />
+          <PlistImageFile Name="sp_bubble_2.png" Key="sp_bubble_2.png" />
+          <PlistImageFile Name="sp_chooseFlag.png" Key="sp_chooseFlag.png" />
+          <PlistImageFile Name="sp_clock_1.png" Key="sp_clock_1.png" />
+          <PlistImageFile Name="sp_clock_2.png" Key="sp_clock_2.png" />
+          <PlistImageFile Name="sp_clock_3.png" Key="sp_clock_3.png" />
+          <PlistImageFile Name="sp_clock_4.png" Key="sp_clock_4.png" />
+          <PlistImageFile Name="sp_fangPao.png" Key="sp_fangPao.png" />
+          <PlistImageFile Name="sp_flag_bridge.png" Key="sp_flag_bridge.png" />
+          <PlistImageFile Name="sp_flag_bump.png" Key="sp_flag_bump.png" />
+          <PlistImageFile Name="sp_flag_eat.png" Key="sp_flag_eat.png" />
+          <PlistImageFile Name="sp_flag_listen.png" Key="sp_flag_listen.png" />
+          <PlistImageFile Name="sp_flag_pass.png" Key="sp_flag_pass.png" />
+          <PlistImageFile Name="sp_flag_win.png" Key="sp_flag_win.png" />
+          <PlistImageFile Name="sp_gameBtn_bg.png" Key="sp_gameBtn_bg.png" />
+          <PlistImageFile Name="sp_gender.png" Key="sp_gender.png" />
+          <PlistImageFile Name="sp_headBg.png" Key="sp_headBg.png" />
+          <PlistImageFile Name="sp_headCover.png" Key="sp_headCover.png" />
+          <PlistImageFile Name="sp_headCover_result.png" Key="sp_headCover_result.png" />
+          <PlistImageFile Name="sp_ID.png" Key="sp_ID.png" />
+          <PlistImageFile Name="sp_inputBg.png" Key="sp_inputBg.png" />
+          <PlistImageFile Name="sp_IP.png" Key="sp_IP.png" />
+          <PlistImageFile Name="sp_listenBg_1.png" Key="sp_listenBg_1.png" />
+          <PlistImageFile Name="sp_listenBg_2.png" Key="sp_listenBg_2.png" />
+          <PlistImageFile Name="sp_listenBg_3.png" Key="sp_listenBg_3.png" />
+          <PlistImageFile Name="sp_listenNum.png" Key="sp_listenNum.png" />
+          <PlistImageFile Name="sp_listenPromptFlag.png" Key="sp_listenPromptFlag.png" />
+          <PlistImageFile Name="sp_listenTimes.png" Key="sp_listenTimes.png" />
+          <PlistImageFile Name="sp_ready.png" Key="sp_ready.png" />
+          <PlistImageFile Name="sp_roomHost.png" Key="sp_roomHost.png" />
+          <PlistImageFile Name="sp_scoreFlag.png" Key="sp_scoreFlag.png" />
+          <PlistImageFile Name="sp_sparrowPlate.png" Key="sp_sparrowPlate.png" />
+          <PlistImageFile Name="sp_trustee.png" Key="sp_trustee.png" />
+          <PlistImageFile Name="sp_ziMo.png" Key="sp_ziMo.png" />
+        </PlistImageFolder>
+        <Folder Name="localtion">
+          <Image Name="icon_ip.png" />
+          <Image Name="kwx_btn_loc_quit.png" />
+          <Image Name="kwx_btn_loc_quit_2.png" />
+        </Folder>
+        <Folder Name="singal">
+          <Image Name="1_1.png" />
+          <Image Name="1_2.png" />
+          <Image Name="1_3.png" />
+          <Image Name="s_0.png" />
+          <Image Name="s_1.png" />
+          <Image Name="s_2.png" />
+        </Folder>
+        <Folder Name="video">
+          <Image Name="bg.png" />
+          <Image Name="bgRomal.png" />
+          <Image Name="face.png" />
+          <Project Name="Layer_VideoResult.csd" Type="Layer" />
+          <Project Name="Node_info.csd" Type="Node" />
+          <Image Name="public_btn_close_0.png" />
+          <Image Name="public_btn_close_1.png" />
+          <Image Name="title.png" />
+        </Folder>
+        <Project Name="LocationLayer.csd" Type="Layer" />
+        <Project Name="MaLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

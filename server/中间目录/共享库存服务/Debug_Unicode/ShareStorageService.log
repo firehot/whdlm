@@ -1,0 +1,11 @@
+﻿  Stdafx.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  ShareStorageServiceManager.cpp
+  ShareStorageService.cpp
+  正在生成代码...
+ShareStorageService.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 ../../链接库/Unicode/ShareStorageServiceD.lib 和对象 ../../链接库/Unicode/ShareStorageServiceD.exp
+  ShareStorageService.vcxproj -> G:\SVN\DLM\服务端\系统模块\服务器组件\共享库存服务\../../../运行/Debug/Unicode/ShareStorageServiceD.dll
+  ShareStorageService.vcxproj -> ../../../中间目录/共享库存服务/Debug_Unicode/ShareStorageServiceD.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Debug\Unicode 已经存在。
+  已复制         1 个文件。

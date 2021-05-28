@@ -1,0 +1,19 @@
+﻿  Stdafx.cpp
+d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  UserTaskManager.cpp
+  ServerUserManager.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\serverusermanager.cpp(834): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const CString”
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\serverusermanager.cpp(907): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const CString”
+  GameService.cpp
+  GamePropertyManager.cpp
+  AndroidUserManager.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  AndroidUserItem.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\游戏服务\androiduseritem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  正在生成代码...
+AndroidUserItem.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 ../../链接库/Unicode/GameServiceD.lib 和对象 ../../链接库/Unicode/GameServiceD.exp
+  GameService.vcxproj -> G:\SVN\DLM\服务端\系统模块\服务器组件\游戏服务\../../../运行/Debug/Unicode/GameServiceD.dll
+  GameService.vcxproj -> ../../../中间目录/游戏服务/Debug_Unicode/GameServiceD.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Debug\Unicode 已经存在。
+  已复制         1 个文件。

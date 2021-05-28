@@ -1,0 +1,323 @@
+{
+  "ID": "8d59dbc5-a91a-4454-84dd-5a7d1bc0c27e",
+  "Version": "3.10.0.0",
+  "Name": "PrivateGameLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 63,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "create_room/btnInfo1.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "create_room/btnInfo1.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "create_room/btnInfo1.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 22,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 237.9686,
+              "Y": 717.6292
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1784,
+              "Y": 0.9568
+            },
+            "PreSize": {
+              "X": 0.1027,
+              "Y": 0.0587
+            },
+            "LeftMargin": 169.4686,
+            "RightMargin": 1027.5314,
+            "TopMargin": 10.3708,
+            "BottomMargin": 695.6292,
+            "Tag": 103,
+            "ActionTag": -316834290,
+            "Size": {
+              "X": 137.0,
+              "Y": 44.0
+            },
+            "Name": "btn_info",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "create_room/fanghao.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 199.9999,
+              "Y": 680.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1499,
+              "Y": 0.9067
+            },
+            "PreSize": {
+              "X": 0.0427,
+              "Y": 0.0333
+            },
+            "LeftMargin": 171.4999,
+            "RightMargin": 1105.5001,
+            "TopMargin": 57.5,
+            "BottomMargin": 667.5,
+            "Tag": 80,
+            "ActionTag": -1400640678,
+            "Size": {
+              "X": 57.0,
+              "Y": 25.0
+            },
+            "Name": "txt_room",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "CharWidth": 15,
+            "CharHeight": 20,
+            "LabelText": "000000",
+            "StartChar": "0",
+            "LabelAtlasFileImage_CNB": {
+              "Type": "Normal",
+              "Path": "create_room/num_room.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 234.9191,
+              "Y": 676.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1761,
+              "Y": 0.9013
+            },
+            "PreSize": {
+              "X": 0.0675,
+              "Y": 0.0267
+            },
+            "LeftMargin": 234.9191,
+            "RightMargin": 1009.0809,
+            "TopMargin": 64.0,
+            "BottomMargin": 666.0,
+            "Tag": 81,
+            "ActionTag": -1268562706,
+            "Size": {
+              "X": 90.0,
+              "Y": 20.0
+            },
+            "Name": "num_roomID",
+            "ctype": "TextAtlasObjectData"
+          },
+          {
+            "CharWidth": 15,
+            "CharHeight": 21,
+            "LabelText": "12/20",
+            "StartChar": "/",
+            "LabelAtlasFileImage_CNB": {
+              "Type": "Normal",
+              "Path": "create_room/num_count.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 265.3176,
+              "Y": 719.6155
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1989,
+              "Y": 0.9595
+            },
+            "PreSize": {
+              "X": 0.0562,
+              "Y": 0.028
+            },
+            "LeftMargin": 227.8176,
+            "RightMargin": 1031.1824,
+            "TopMargin": 19.8845,
+            "BottomMargin": 709.1155,
+            "Tag": 83,
+            "ActionTag": 900021165,
+            "Size": {
+              "X": 75.0,
+              "Y": 21.0
+            },
+            "Name": "num_count",
+            "ctype": "TextAtlasObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "create_room/bt_invite_0.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "create_room/bt_invite_0.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 366,
+            "Scale9Height": 67,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 667.0,
+              "Y": 375.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.2969,
+              "Y": 0.1187
+            },
+            "LeftMargin": 469.0,
+            "RightMargin": 469.0,
+            "TopMargin": 330.5,
+            "BottomMargin": 330.5,
+            "Tag": 76,
+            "ActionTag": -687591815,
+            "Size": {
+              "X": 396.0,
+              "Y": 89.0
+            },
+            "Name": "bt_invite",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1334.0,
+          "Y": 750.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "create_room/bt_invite_0.png",
+        "create_room/btnInfo1.png",
+        "create_room/fanghao.png",
+        "create_room/num_count.png",
+        "create_room/num_room.png",
+        "Default/Button_Disable.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

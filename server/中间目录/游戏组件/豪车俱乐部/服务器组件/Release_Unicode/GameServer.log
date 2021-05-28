@@ -1,0 +1,48 @@
+﻿  Stdafx.cpp
+d:\qijianban\laok\服务端\游戏组件\开发库\include\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+d:\qijianban\laok\服务端\游戏组件\开发库\include\Core/UIManager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“EVENTTYPE_UI”的左侧
+  DlgCustomRule.cpp
+  GameLogic.cpp
+  GameServer.cpp
+  GameServerManager.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  MiniDumper.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+MiniDumper.cpp(68): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+MiniDumper.cpp(72): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+MiniDumper.cpp(73): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+  TableFrameSink.cpp
+TableFrameSink.cpp(878): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: 参见“_snwprintf”的声明
+TableFrameSink.cpp(1664): warning C4477: “swprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“LONGLONG”
+  TableFrameSink.cpp(1664): note: 请考虑在格式字符串中使用“%lld”
+  TableFrameSink.cpp(1664): note: 请考虑在格式字符串中使用“%I64d”
+TableFrameSink.cpp(1666): warning C4477: “swprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“LONGLONG”
+  TableFrameSink.cpp(1666): note: 请考虑在格式字符串中使用“%lld”
+  TableFrameSink.cpp(1666): note: 请考虑在格式字符串中使用“%I64d”
+TableFrameSink.cpp(1668): warning C4477: “swprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“LONGLONG”
+  TableFrameSink.cpp(1668): note: 请考虑在格式字符串中使用“%lld”
+  TableFrameSink.cpp(1668): note: 请考虑在格式字符串中使用“%I64d”
+TableFrameSink.cpp(1712): warning C4477: “swprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“LONGLONG”
+  TableFrameSink.cpp(1712): note: 请考虑在格式字符串中使用“%lld”
+  TableFrameSink.cpp(1712): note: 请考虑在格式字符串中使用“%I64d”
+TableFrameSink.cpp(1838): warning C4244: “=”: 从“DWORD”转换到“WORD”，可能丢失数据
+TableFrameSink.cpp(2267): warning C4244: “=”: 从“DWORD”转换到“WORD”，可能丢失数据
+TableFrameSink.cpp(2410): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(2411): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(2412): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(2432): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+TableFrameSink.cpp(2436): warning C4244: “=”: 从“LONGLONG”转换到“int”，可能丢失数据
+  正在生成代码...
+d:\qijianban\laok\服务端\游戏组件\老k子游戏\豪车俱乐部\游戏服务器\tableframesink.cpp(1475): warning C4715: “CTableFrameSink::GetRandCardValue”: 不是所有的控件路径都返回值
+d:\qijianban\laok\服务端\游戏组件\老k子游戏\豪车俱乐部\游戏服务器\tableframesink.cpp(2123): warning C4715: “CTableFrameSink::ProbeJudge”: 不是所有的控件路径都返回值
+    正在创建库 ../../../../运行/Release/Unicode/GameServer.lib 和对象 ../../../../运行/Release/Unicode/GameServer.exp
+  GameServer.vcxproj -> D:\qijianban\laok\服务端\游戏组件\老K子游戏\豪车俱乐部\游戏服务器\../../../../运行/Release/Unicode/LuxuryCarServer.dll
+  GameServer.vcxproj -> ../../../../运行/Release/Unicode/LuxuryCarServer.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Release\Unicode\ 已经存在。
+  已复制         1 个文件。

@@ -1,0 +1,534 @@
+{
+  "ID": "bca89395-aedb-406b-86de-b077160a360d",
+  "Version": "3.10.0.0",
+  "Name": "PrivateGameEndLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 96,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -440,
+            "Scale9OriginY": -247,
+            "Scale9Width": 880,
+            "Scale9Height": 494,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -1.3284,
+              "Y": 2.3284
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.001,
+              "Y": 0.0031
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.3284,
+            "RightMargin": 1.3284,
+            "TopMargin": -2.3284,
+            "BottomMargin": 2.3284,
+            "Tag": 98,
+            "ActionTag": 1929322684,
+            "Size": {
+              "X": 1334.0,
+              "Y": 750.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "single_round/kwx_img_result_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 667.0,
+              "Y": 382.65
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5102
+            },
+            "PreSize": {
+              "X": 0.9228,
+              "Y": 0.9133
+            },
+            "LeftMargin": 51.5,
+            "RightMargin": 51.5,
+            "TopMargin": 24.85,
+            "BottomMargin": 40.15,
+            "Tag": 97,
+            "Children": [
+              {
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 0.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 113.7271,
+                  "Y": 114.119
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0924,
+                  "Y": 0.1666
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 113.7271,
+                "RightMargin": 1117.2729,
+                "TopMargin": 570.881,
+                "BottomMargin": 114.119,
+                "Tag": 192,
+                "ActionTag": 2095252271,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "infoNode_1",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 0.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 451.3011,
+                  "Y": 114.119
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.3666,
+                  "Y": 0.1666
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 451.3011,
+                "RightMargin": 779.6989,
+                "TopMargin": 570.881,
+                "BottomMargin": 114.119,
+                "Tag": 202,
+                "ActionTag": -674204004,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "infoNode_2",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 0.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 788.8751,
+                  "Y": 114.119
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.6408,
+                  "Y": 0.1666
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 788.8751,
+                "RightMargin": 442.1249,
+                "TopMargin": 570.881,
+                "BottomMargin": 114.119,
+                "Tag": 212,
+                "ActionTag": 225674638,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "infoNode_3",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "common/kwx_btn_selfi_uni.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "common/kwx_btn_selfi_uni.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "common/kwx_btn_selfi_uni.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 403.4004,
+                  "Y": 74.2239
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3277,
+                  "Y": 0.1084
+                },
+                "PreSize": {
+                  "X": 0.156,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 307.4004,
+                "RightMargin": 731.5996,
+                "TopMargin": 571.7761,
+                "BottomMargin": 35.2239,
+                "Tag": 99,
+                "ActionTag": -1950856051,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_share",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "common/kwx_btn_quit_game_uni.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "common/kwx_btn_quit_game_uni.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "common/kwx_btn_quit_game_uni.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 740.6636,
+                  "Y": 74.2239
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6017,
+                  "Y": 0.1084
+                },
+                "PreSize": {
+                  "X": 0.156,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 644.6636,
+                "RightMargin": 394.3364,
+                "TopMargin": 571.7761,
+                "BottomMargin": 35.2239,
+                "Tag": 100,
+                "ActionTag": 2073498723,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_quit",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "final_result/kwx_img_last_calc_win.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.4984,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 646.6619,
+                  "Y": 688.0367
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5253,
+                  "Y": 1.0044
+                },
+                "PreSize": {
+                  "X": 0.5435,
+                  "Y": 0.2102
+                },
+                "LeftMargin": 313.223,
+                "RightMargin": 248.777,
+                "TopMargin": -75.0367,
+                "BottomMargin": 616.0367,
+                "Tag": 33,
+                "ActionTag": -1787068132,
+                "Size": {
+                  "X": 669.0,
+                  "Y": 144.0
+                },
+                "Name": "Sprite_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "final_result/kwx_img_room_num.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 52.5244,
+                  "Y": 655.9589
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0427,
+                  "Y": 0.9576
+                },
+                "PreSize": {
+                  "X": 0.0536,
+                  "Y": 0.0453
+                },
+                "LeftMargin": 19.5244,
+                "RightMargin": 1145.4756,
+                "TopMargin": 13.5411,
+                "BottomMargin": 640.4589,
+                "Tag": 35,
+                "ActionTag": -392115782,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 31.0
+                },
+                "Name": "Sprite_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "CharWidth": 17,
+                "CharHeight": 27,
+                "LabelText": "999999",
+                "StartChar": "0",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "final_result/kwx_lab_num_un.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 102.3677,
+                  "Y": 656.52
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0832,
+                  "Y": 0.9584
+                },
+                "PreSize": {
+                  "X": 0.0829,
+                  "Y": 0.0394
+                },
+                "LeftMargin": 102.3677,
+                "RightMargin": 1026.6323,
+                "TopMargin": 14.98,
+                "BottomMargin": 643.02,
+                "Tag": 36,
+                "ActionTag": 1590315104,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 27.0
+                },
+                "Name": "lab_room_num",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": 825175143,
+            "Size": {
+              "X": 1231.0,
+              "Y": 685.0
+            },
+            "Name": "Image_bg",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1334.0,
+          "Y": 750.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/kwx_btn_quit_game_uni.png",
+        "common/kwx_btn_selfi_uni.png",
+        "final_result/kwx_img_last_calc_win.png",
+        "final_result/kwx_img_room_num.png",
+        "final_result/kwx_lab_num_un.png",
+        "single_round/kwx_img_result_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

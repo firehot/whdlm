@@ -1,0 +1,51 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.gameLayout" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-10" />
+        <iOS_Target Value="gameLayout iOS" />
+        <iOS_BundleID Value="" />
+        <Platform Value="None" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="IDE cocos" />
+        <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="game/GameScene.csd" />
+          <FilePathData Path="game/LocationLayer.csd" />
+          <FilePathData Path="game/LoseNode.csd" />
+          <FilePathData Path="game/Menu.csd" />
+          <FilePathData Path="game/Menus.csd" />
+          <FilePathData Path="game/MoveLayer.csd" />
+          <FilePathData Path="game/resultNode1.csd" />
+          <FilePathData Path="game/resultNode2.csd" />
+          <FilePathData Path="game/ShareLayer.csd" />
+          <FilePathData Path="info/Node_cell.csd" />
+          <FilePathData Path="info/Layer_info.csd" />
+          <FilePathData Path="set/set.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="game/resultNode2.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

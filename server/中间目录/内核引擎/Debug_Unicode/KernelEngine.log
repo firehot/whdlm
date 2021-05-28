@@ -1,0 +1,8 @@
+﻿  TCPNetworkEngine.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\内核引擎\tcpnetworkengine.cpp(767): warning C4267: “参数”: 从“size_t”转换到“WORD”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\内核引擎\tcpnetworkengine.cpp(895): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 参见“inet_addr”的声明
+  KernelEngine.vcxproj -> G:\SVN\DLM\服务端\系统模块\服务器组件\内核引擎\../../../运行/Debug/Unicode/KernelEngineD.dll
+  KernelEngine.vcxproj -> ../../../运行/Debug/Unicode/KernelEngineD.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Debug\Unicode 已经存在。
+  已复制         1 个文件。

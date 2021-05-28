@@ -1,0 +1,217 @@
+{
+  "ID": "356d96e9-0dc8-4411-af7e-bdc424d9953a",
+  "Version": "3.10.0.0",
+  "Name": "LayerFaceInfo",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 43,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "face_infos/kwx_img_info_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 44,
+            "ActionTag": 396934489,
+            "Size": {
+              "X": 451.0,
+              "Y": 216.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "000000",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 238.0372,
+              "Y": 146.4021
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5278,
+              "Y": 0.6778
+            },
+            "PreSize": {
+              "X": 0.133,
+              "Y": 0.0926
+            },
+            "LeftMargin": 238.0372,
+            "RightMargin": 152.9628,
+            "TopMargin": 59.5979,
+            "BottomMargin": 136.4021,
+            "Tag": 45,
+            "ActionTag": 419495338,
+            "Size": {
+              "X": 60.0,
+              "Y": 20.0
+            },
+            "Name": "Text_name",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "000000",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 238.0372,
+              "Y": 98.4016
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5278,
+              "Y": 0.4556
+            },
+            "PreSize": {
+              "X": 0.133,
+              "Y": 0.0926
+            },
+            "LeftMargin": 238.0372,
+            "RightMargin": 152.9628,
+            "TopMargin": 107.5984,
+            "BottomMargin": 88.4016,
+            "Tag": 46,
+            "ActionTag": 2065714274,
+            "Size": {
+              "X": 60.0,
+              "Y": 20.0
+            },
+            "Name": "Text_id",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "000000",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 142.9011,
+              "Y": 43.6008
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3169,
+              "Y": 0.2019
+            },
+            "PreSize": {
+              "X": 0.133,
+              "Y": 0.0926
+            },
+            "LeftMargin": 142.9011,
+            "RightMargin": 248.0989,
+            "TopMargin": 162.3992,
+            "BottomMargin": 33.6008,
+            "Tag": 48,
+            "ActionTag": -1572439274,
+            "Size": {
+              "X": 60.0,
+              "Y": 20.0
+            },
+            "Name": "Text_sign",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 451.0,
+          "Y": 216.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "face_infos/kwx_img_info_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

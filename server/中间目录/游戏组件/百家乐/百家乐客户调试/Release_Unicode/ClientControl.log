@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+d:\qijianban\laok\服务端\游戏组件\开发库\include\Core/UIManager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“EVENTTYPE_UI”的左侧
+  ClientControl.cpp
+  ClientControlItemSink.cpp
+  正在生成代码...
+    正在创建库 ../../../../运行/Release/Unicode/ClientControl.lib 和对象 ../../../../运行/Release/Unicode/ClientControl.exp
+ClientControl.exp : warning LNK4070: .EXP 中的 /OUT:ClientControl.dll 指令与输出文件名“../../../../运行/Release/Unicode/BaccaratNewClientDebug.dll”不同；忽略指令
+  ClientControl.vcxproj -> D:\qijianban\laok\服务端\游戏组件\老K子游戏\新百家乐\客户端控制\../../../../运行/Release/Unicode/BaccaratNewClientDebug.dll
+  ClientControl.vcxproj -> ../../../../运行/Release/Unicode/BaccaratNewClientDebug.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\客户端组件\Release\Unicode\ 已经存在。
+  已复制         1 个文件。

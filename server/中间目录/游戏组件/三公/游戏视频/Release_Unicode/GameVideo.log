@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+d:\qijianban\laok\服务端\系统模块\服务器组件\游戏服务\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+  GameVideo.cpp
+  GameVideoItemSink.cpp
+GameVideoItemSink.cpp(81): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: 参见“_snwprintf”的声明
+GameVideoItemSink.cpp(159): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: 参见“_snprintf”的声明
+  正在生成代码...
+    正在创建库 ../../../../运行/Release/Unicode/LandGameVideo.lib 和对象 ../../../../运行/Release/Unicode/LandGameVideo.exp
+LandGameVideo.exp : warning LNK4070: .EXP 中的 /OUT:GameVideo.dll 指令与输出文件名“../../../../运行/Release/Unicode/SanGongGameVideo.dll”不同；忽略指令
+  GameVideo.vcxproj -> D:\qijianban\laok\服务端\游戏组件\老K子游戏\六人三公\游戏录像\../../../../运行/Release/Unicode/SanGongGameVideo.dll
+  GameVideo.vcxproj -> ../../../../运行/Release/Unicode/SanGongGameVideo.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Release\Unicode\ 已经存在。
+  已复制         1 个文件。

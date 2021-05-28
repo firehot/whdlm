@@ -1,0 +1,682 @@
+<Solution>
+  <PropertyGroup Name="sparrowkwx" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="activity">
+          <Image Name="Activ.png" />
+          <Image Name="btn_close.png" />
+          <Image Name="btn_recv.png" />
+          <Image Name="day.png" />
+          <Image Name="f.png" />
+          <Image Name="img_background.png" />
+          <Image Name="img_bg_left.png" />
+          <Image Name="img_item.png" />
+          <Image Name="img_left_item.png" />
+          <Image Name="img_left_item_choose.png" />
+          <Image Name="img_red_point.png" />
+          <Image Name="img_up.png" />
+          <Image Name="tabs_bg.png" />
+          <Image Name="tabs_hover.png" />
+        </Folder>
+        <Folder Name="btns">
+          <Image Name="kwx_btn_chat.png" />
+          <Image Name="kwx_btn_chat_2.png" />
+          <Image Name="kwx_btn_help.png" />
+          <Image Name="kwx_btn_help_2.png" />
+          <Image Name="kwx_btn_location.png" />
+          <Image Name="kwx_btn_location_2.png" />
+          <Image Name="kwx_btn_menu.png" />
+          <Image Name="kwx_btn_menu_2.png" />
+          <Image Name="kwx_btn_set.png" />
+          <Image Name="kwx_btn_set_2.png" />
+          <Image Name="kwx_btn_setting_quit.png" />
+          <Image Name="kwx_btn_setting_quit_2.png" />
+          <Image Name="kwx_btn_voice.png" />
+          <Image Name="kwx_btn_voice_2.png" />
+          <Image Name="kwx_img_change.png" />
+          <Image Name="kwx_img_change_2.png" />
+          <Image Name="kwx_img_help_bg.png" />
+          <Image Name="kwx_img_help_bg_2.png" />
+          <Image Name="kwx_img_setting_shadow.png" />
+        </Folder>
+        <Folder Name="card">
+          <Folder Name="left_right">
+            <Image Name="tile_leftRight_01.png" />
+            <Image Name="tile_leftRight_02.png" />
+            <Image Name="tile_leftRight_03.png" />
+            <Image Name="tile_leftRight_04.png" />
+            <Image Name="tile_leftRight_05.png" />
+            <Image Name="tile_leftRight_06.png" />
+            <Image Name="tile_leftRight_07.png" />
+            <Image Name="tile_leftRight_08.png" />
+            <Image Name="tile_leftRight_09.png" />
+            <Image Name="tile_leftRight_11.png" />
+            <Image Name="tile_leftRight_12.png" />
+            <Image Name="tile_leftRight_13.png" />
+            <Image Name="tile_leftRight_14.png" />
+            <Image Name="tile_leftRight_15.png" />
+            <Image Name="tile_leftRight_16.png" />
+            <Image Name="tile_leftRight_17.png" />
+            <Image Name="tile_leftRight_18.png" />
+            <Image Name="tile_leftRight_19.png" />
+            <Image Name="tile_leftRight_20.png" />
+            <Image Name="tile_leftRight_21.png" />
+            <Image Name="tile_leftRight_22.png" />
+            <Image Name="tile_leftRight_23.png" />
+            <Image Name="tile_leftRight_24.png" />
+            <Image Name="tile_leftRight_25.png" />
+            <Image Name="tile_leftRight_26.png" />
+            <Image Name="tile_leftRight_27.png" />
+            <Image Name="tile_leftRight_28.png" />
+            <Image Name="tile_leftRight_29.png" />
+            <Image Name="tile_leftRight_30.png" />
+            <Image Name="tile_leftRight_31.png" />
+            <Image Name="tile_leftRight_32.png" />
+            <Image Name="tile_leftRight_33.png" />
+            <Image Name="tile_leftRight_34.png" />
+            <Image Name="tile_leftRight_35.png" />
+          </Folder>
+          <Folder Name="my_big">
+            <Image Name="tile_me_up_01.png" />
+            <Image Name="tile_me_up_02.png" />
+            <Image Name="tile_me_up_03.png" />
+            <Image Name="tile_me_up_04.png" />
+            <Image Name="tile_me_up_05.png" />
+            <Image Name="tile_me_up_06.png" />
+            <Image Name="tile_me_up_07.png" />
+            <Image Name="tile_me_up_08.png" />
+            <Image Name="tile_me_up_09.png" />
+            <Image Name="tile_me_up_11.png" />
+            <Image Name="tile_me_up_12.png" />
+            <Image Name="tile_me_up_13.png" />
+            <Image Name="tile_me_up_14.png" />
+            <Image Name="tile_me_up_15.png" />
+            <Image Name="tile_me_up_16.png" />
+            <Image Name="tile_me_up_17.png" />
+            <Image Name="tile_me_up_18.png" />
+            <Image Name="tile_me_up_19.png" />
+            <Image Name="tile_me_up_20.png" />
+            <Image Name="tile_me_up_21.png" />
+            <Image Name="tile_me_up_22.png" />
+            <Image Name="tile_me_up_23.png" />
+            <Image Name="tile_me_up_24.png" />
+            <Image Name="tile_me_up_25.png" />
+            <Image Name="tile_me_up_26.png" />
+            <Image Name="tile_me_up_27.png" />
+            <Image Name="tile_me_up_28.png" />
+            <Image Name="tile_me_up_29.png" />
+            <Image Name="tile_me_up_30.png" />
+            <Image Name="tile_me_up_31.png" />
+            <Image Name="tile_me_up_32.png" />
+            <Image Name="tile_me_up_33.png" />
+            <Image Name="tile_me_up_34.png" />
+            <Image Name="tile_me_up_35.png" />
+          </Folder>
+          <Folder Name="my_normal">
+            <Image Name="tile_me_01.png" />
+            <Image Name="tile_me_02.png" />
+            <Image Name="tile_me_03.png" />
+            <Image Name="tile_me_04.png" />
+            <Image Name="tile_me_05.png" />
+            <Image Name="tile_me_06.png" />
+            <Image Name="tile_me_07.png" />
+            <Image Name="tile_me_08.png" />
+            <Image Name="tile_me_09.png" />
+            <Image Name="tile_me_11.png" />
+            <Image Name="tile_me_12.png" />
+            <Image Name="tile_me_13.png" />
+            <Image Name="tile_me_14.png" />
+            <Image Name="tile_me_15.png" />
+            <Image Name="tile_me_16.png" />
+            <Image Name="tile_me_17.png" />
+            <Image Name="tile_me_18.png" />
+            <Image Name="tile_me_19.png" />
+            <Image Name="tile_me_20.png" />
+            <Image Name="tile_me_21.png" />
+            <Image Name="tile_me_22.png" />
+            <Image Name="tile_me_23.png" />
+            <Image Name="tile_me_24.png" />
+            <Image Name="tile_me_25.png" />
+            <Image Name="tile_me_26.png" />
+            <Image Name="tile_me_27.png" />
+            <Image Name="tile_me_28.png" />
+            <Image Name="tile_me_29.png" />
+            <Image Name="tile_me_30.png" />
+            <Image Name="tile_me_31.png" />
+            <Image Name="tile_me_32.png" />
+            <Image Name="tile_me_33.png" />
+            <Image Name="tile_me_34.png" />
+            <Image Name="tile_me_35.png" />
+          </Folder>
+          <Folder Name="my_small">
+            <Image Name="tile_meUp_01.png" />
+            <Image Name="tile_meUp_02.png" />
+            <Image Name="tile_meUp_03.png" />
+            <Image Name="tile_meUp_04.png" />
+            <Image Name="tile_meUp_05.png" />
+            <Image Name="tile_meUp_06.png" />
+            <Image Name="tile_meUp_07.png" />
+            <Image Name="tile_meUp_08.png" />
+            <Image Name="tile_meUp_09.png" />
+            <Image Name="tile_meUp_10.png" />
+            <Image Name="tile_meUp_11.png" />
+            <Image Name="tile_meUp_13.png" />
+            <Image Name="tile_meUp_14.png" />
+            <Image Name="tile_meUp_15.png" />
+            <Image Name="tile_meUp_16.png" />
+            <Image Name="tile_meUp_17.png" />
+            <Image Name="tile_meUp_18.png" />
+            <Image Name="tile_meUp_19.png" />
+            <Image Name="tile_meUp_20.png" />
+            <Image Name="tile_meUp_21.png" />
+            <Image Name="tile_meUp_22.png" />
+            <Image Name="tile_meUp_23.png" />
+            <Image Name="tile_meUp_24.png" />
+            <Image Name="tile_meUp_25.png" />
+            <Image Name="tile_meUp_26.png" />
+            <Image Name="tile_meUp_27.png" />
+            <Image Name="tile_meUp_28.png" />
+            <Image Name="tile_meUp_29.png" />
+            <Image Name="tile_meUp_30.png" />
+            <Image Name="tile_meUp_31.png" />
+            <Image Name="tile_meUp_32.png" />
+            <Image Name="tile_meUp_33.png" />
+            <Image Name="tile_meUp_34.png" />
+            <Image Name="tile_meUp_35.png" />
+          </Folder>
+          <Image Name="back_big.png" />
+          <Image Name="back_normal.png" />
+          <Image Name="back_small.png" />
+          <Image Name="dowm_small.png" />
+          <Image Name="dowm_small_shadow.png" />
+          <Image Name="down_big.png" />
+          <Image Name="down_big_shadow.png" />
+          <Image Name="down_normal.png" />
+          <Image Name="down_normal_shadow.png" />
+          <Image Name="heap_1.png" />
+          <Image Name="heap_1_shadow.png" />
+          <Image Name="heap_2.png" />
+          <Image Name="heap_2_shadow.png" />
+          <Image Name="left_right_back.png" />
+          <Image Name="left_right_down.png" />
+          <Image Name="left_right_shadow.png" />
+          <Image Name="magic_big.png" />
+          <Image Name="magic_small.png" />
+          <File Name="Node_heap.csb" />
+          <Project Name="Node_heap.csd" Type="Node" />
+          <File Name="Node_majong_left.csb" />
+          <Project Name="Node_majong_left.csd" Type="Node" />
+          <File Name="Node_majong_left_down.csb" />
+          <Project Name="Node_majong_left_down.csd" Type="Node" />
+          <File Name="Node_majong_my.csb" />
+          <Project Name="Node_majong_my.csd" Type="Node" />
+          <File Name="Node_majong_my_downbig.csb" />
+          <Project Name="Node_majong_my_downbig.csd" Type="Node" />
+          <File Name="Node_majong_my_downnormal.csb" />
+          <Project Name="Node_majong_my_downnormal.csd" Type="Node" />
+          <File Name="Node_majong_my_downsmall.csb" />
+          <Project Name="Node_majong_my_downsmall.csd" Type="Node" />
+          <File Name="Node_majong_right.csb" />
+          <Project Name="Node_majong_right.csd" Type="Node" />
+          <File Name="Node_majong_right_down.csb" />
+          <Project Name="Node_majong_right_down.csd" Type="Node" />
+          <File Name="Node_majong_top.csb" />
+          <Project Name="Node_majong_top.csd" Type="Node" />
+          <File Name="Node_majong_top_dowm.csb" />
+          <Project Name="Node_majong_top_dowm.csd" Type="Node" />
+          <Image Name="stand_kou.png" />
+          <Image Name="stand_left.png" />
+          <Image Name="stand_left_shadow.png" />
+          <Image Name="stand_listen.png" />
+          <Image Name="stand_my.png" />
+          <Image Name="stand_my_small.png" />
+          <Image Name="stand_right.png" />
+          <Image Name="stand_right_shadow.png" />
+          <Image Name="stand_top.png" />
+          <Image Name="stand_top_shadow.png" />
+        </Folder>
+        <Folder Name="chat">
+          <Image Name="kwx_btn_emoj.png" />
+          <Image Name="kwx_btn_emoj_2.png" />
+          <Image Name="kwx_btn_msg.png" />
+          <Image Name="kwx_btn_msg_2.png" />
+          <Image Name="kwx_img_chat_bg.png" />
+          <Image Name="kwx_img_chat_tab.png" />
+          <Image Name="kwx_img_msg_light.png" />
+          <Image Name="kwx_img_msg_line.png" />
+        </Folder>
+        <Folder Name="common">
+          <Image Name="kwx_btn_again_2_uni.png" />
+          <Image Name="kwx_btn_again_uni.png" />
+          <Image Name="kwx_btn_quit_2_uni.png" />
+          <Image Name="kwx_btn_quit_game_2_uni.png" />
+          <Image Name="kwx_btn_quit_game_uni.png" />
+          <Image Name="kwx_btn_quit_uni.png" />
+          <Image Name="kwx_btn_selfi_2_uni.png" />
+          <Image Name="kwx_btn_selfi_uni.png" />
+          <Image Name="kwx_img_mask_uni.png" />
+          <Image Name="kwx_lab_num_uni.png" />
+          <File Name="Layer_setting.csb" />
+          <Project Name="Layer_setting.csd" Type="Layer" />
+          <File Name="Layer_setting.json" />
+        </Folder>
+        <Folder Name="create_room">
+          <Image Name="389bt_agree_1.png" />
+          <Image Name="389bt_agree_11.png" />
+          <Image Name="389bt_agree_2.png" />
+          <Image Name="389bt_agree_21.png" />
+          <Image Name="389bt_oppose_1.png" />
+          <Image Name="389bt_oppose_11.png" />
+          <Image Name="389bt_oppose_2.png" />
+          <Image Name="389bt_oppose_21.png" />
+          <Image Name="389sp_dismissRoom_bg.png" />
+          <Image Name="389sp_dismissRoom_bg1.png" />
+          <Image Name="389sp_dismissRoom_flag.png" />
+          <Image Name="389sp_dismissRoom_flag1.png" />
+          <Image Name="base_sp_system_title.png" />
+          <Image Name="bt_invite_0.png" />
+          <Image Name="bt_invite_01.png" />
+          <Image Name="btnInfo1.png" />
+          <Image Name="btnInfo11.png" />
+          <Image Name="fanghao.png" />
+          <Image Name="fanghao1.png" />
+          <Image Name="kawuxing.png" />
+          <Image Name="kawuxing1.png" />
+          <Image Name="kwx_wuma.png" />
+          <Image Name="kwx_wuma1.png" />
+          <Image Name="land_pribtn_arrow_down_0.png" />
+          <Image Name="land_pribtn_arrow_down_01.png" />
+          <Image Name="land_sp_dropdownbg.png" />
+          <Image Name="land_sp_dropdownbg1.png" />
+          <Image Name="momaBg.png" />
+          <Image Name="momaBg1.png" />
+          <Image Name="num_count.png" />
+          <Image Name="num_count1.png" />
+          <Image Name="num_moma.png" />
+          <Image Name="num_moma1.png" />
+          <Image Name="num_room.png" />
+          <Image Name="num_room1.png" />
+          <Image Name="pri_btn_gold.png" />
+          <Image Name="pri_btn_gold1.png" />
+          <Image Name="pri_btn_normal.png" />
+          <Image Name="pri_btn_normal1.png" />
+          <Image Name="pri_btn_score.png" />
+          <Image Name="pri_btn_score1.png" />
+          <Image Name="pri_check_sel_0.png" />
+          <Image Name="pri_check_sel_01.png" />
+          <Image Name="pri_check_sel_1.png" />
+          <Image Name="pri_check_sel_1_0.png" />
+          <Image Name="pri_check_sel_1_01.png" />
+          <Image Name="pri_check_sel_1_1.png" />
+          <Image Name="pri_check_sel_1_11.png" />
+          <Image Name="pri_check_sel_11.png" />
+          <Image Name="pri_sp_altertips.png" />
+          <Image Name="pri_sp_altertips1.png" />
+          <Image Name="pri_sp_backbtn_bg.png" />
+          <Image Name="pri_sp_backbtn_bg1.png" />
+          <Image Name="pri_sp_bgBox.png" />
+          <Image Name="pri_sp_bgBox1.png" />
+          <Image Name="pri_sp_bottombg.png" />
+          <Image Name="pri_sp_bottombg1.png" />
+          <Image Name="pri_sp_createroombg_1.png" />
+          <Image Name="pri_sp_createroombg_11.png" />
+          <Image Name="pri_sp_flag.png" />
+          <Image Name="pri_sp_flag1.png" />
+          <Image Name="pri_sp_titleBg.png" />
+          <Image Name="pri_sp_titleBg1.png" />
+          <Image Name="pri_sp_topbg.png" />
+          <Image Name="pri_sp_topbg1.png" />
+          <Image Name="public_background_4.png" />
+          <Image Name="public_background_41.png" />
+          <Image Name="public_btn_back_0.png" />
+          <Image Name="public_btn_back_01.png" />
+          <Image Name="public_btn_back_1.png" />
+          <Image Name="public_btn_back_11.png" />
+          <Image Name="public_btn_close_1_0.png" />
+          <Image Name="public_sp_frame_03.png" />
+          <Image Name="sel.png" />
+          <Image Name="sel_bg.png" />
+          <Image Name="sel_bg1.png" />
+          <Image Name="sel1.png" />
+          <Image Name="sparrowgd_btn_createroom_0.png" />
+          <Image Name="sparrowgd_btn_createroom_01.png" />
+          <Image Name="sparrowgd_btn_createroom_1.png" />
+          <Image Name="sparrowgd_btn_createroom_1_0.png" />
+          <Image Name="sparrowgd_btn_createroom_1_01.png" />
+          <Image Name="sparrowgd_btn_createroom_1_1.png" />
+          <Image Name="sparrowgd_btn_createroom_1_11.png" />
+          <Image Name="sparrowgd_btn_createroom_11.png" />
+          <Image Name="sparrowgd_btn_entergame_0.png" />
+          <Image Name="sparrowgd_btn_entergame_1.png" />
+          <Image Name="sparrowgd_check_dropdown_sel_0.png" />
+          <Image Name="sparrowgd_check_dropdown_sel_01.png" />
+          <Image Name="sparrowgd_prisp_diamond.png" />
+          <Image Name="sparrowgd_prisp_diamond1.png" />
+          <Image Name="sparrowgd_prisp_dropdown_menu.png" />
+          <Image Name="sparrowgd_prisp_dropdown_menu1.png" />
+          <Image Name="sparrowgd_sp_bg_3.png" />
+          <Image Name="sparrowgd_sp_bg_31.png" />
+          <Image Name="sparrowgd_sp_dropdownbg.png" />
+        </Folder>
+        <Folder Name="Default">
+          <Image Name="Button_Disable.png" />
+          <Image Name="Button_Press.png" />
+          <Image Name="Sprite.png" />
+        </Folder>
+        <Folder Name="face_infos">
+          <Image Name="kwx_img_bupiao.png" />
+          <Image Name="kwx_img_info_bg.png" />
+          <Image Name="kwx_img_piao_1.png" />
+          <Image Name="kwx_img_piao_2.png" />
+        </Folder>
+        <Folder Name="faces">
+          <Image Name="kwx_img_face_edge.png" />
+          <Image Name="kwx_img_face_fang.png" />
+          <Image Name="kwx_img_face_zhuang.png" />
+          <Image Name="kwx_img_gold.png" />
+          <Image Name="kwx_lab_gold.png" />
+          <Image Name="kwx_lab_gold_bg.png" />
+          <Image Name="kwx_wan.png" />
+          <Image Name="kwx_yi.png" />
+        </Folder>
+        <Folder Name="final_result">
+          <Image Name="kwx_img_last_calc.png" />
+          <Image Name="kwx_img_last_calc_mask.png" />
+          <Image Name="kwx_img_last_calc_win.png" />
+          <Image Name="kwx_img_most_win.png" />
+          <Image Name="kwx_img_player_info.png" />
+          <Image Name="kwx_img_room_num.png" />
+          <Image Name="kwx_img_round.png" />
+          <Image Name="kwx_img_selfinfo.png" />
+          <Image Name="kwx_lab_num_un.png" />
+          <Image Name="kwx_lab_player_info_l.png" />
+          <Image Name="kwx_lab_player_info_s.png" />
+          <Image Name="kwx_lab_selfinfo_n.png" />
+          <Image Name="kwx_lab_selfinfo_p.png" />
+          <Image Name="kwx_lab_selfinfo_s.png" />
+          <File Name="player_lose.csb" />
+          <Project Name="player_lose.csd" Type="Layer" />
+          <File Name="player_lose.json" />
+          <File Name="player_win.csb" />
+          <Project Name="player_win.csd" Type="Layer" />
+          <File Name="player_win.json" />
+        </Folder>
+        <Folder Name="fonts">
+          <TTF Name="FZHTJW.TTF" />
+          <Fnt Name="kwx_bm_room_rule.fnt" />
+          <TTF Name="round_body.ttf" />
+        </Folder>
+        <Folder Name="hand_off">
+          <Image Name="kwx_btn_handoff_cancel.png" />
+          <Image Name="kwx_btn_handoff_cancel_2.png" />
+          <Image Name="kwx_img_handoff_bg.png" />
+        </Folder>
+        <Folder Name="helps">
+          <Image Name="kwx_img_help_bg.png" />
+          <Image Name="kwx_img_help_mask.png" />
+        </Folder>
+        <Folder Name="localtion">
+          <Image Name="icon_ip.png" />
+          <Image Name="icon_ip_2.png" />
+          <Image Name="kwx_btn_loc_quit.png" />
+          <Image Name="kwx_btn_loc_quit_2.png" />
+          <Image Name="kwx_img_location.png" />
+          <Image Name="line_long.png" />
+          <Image Name="line_near.png" />
+        </Folder>
+        <Folder Name="lotter">
+          <Image Name="kwx_buy_effect_bg.png" />
+        </Folder>
+        <Folder Name="ops">
+          <Image Name="kwx_btn_chi.png" />
+          <Image Name="kwx_btn_gang.png" />
+          <Image Name="kwx_btn_hu.png" />
+          <Image Name="kwx_btn_ming.png" />
+          <Image Name="kwx_btn_ming_2.png" />
+          <Image Name="kwx_btn_op_chi.png" />
+          <Image Name="kwx_btn_op_chi_2.png" />
+          <Image Name="kwx_btn_op_chi_3.png" />
+          <Image Name="kwx_btn_op_discard.png" />
+          <Image Name="kwx_btn_op_discard_2.png" />
+          <Image Name="kwx_btn_op_gang.png" />
+          <Image Name="kwx_btn_op_gang_2.png" />
+          <Image Name="kwx_btn_op_gang_3.png" />
+          <Image Name="kwx_btn_op_guo.png" />
+          <Image Name="kwx_btn_op_guo_2.png" />
+          <Image Name="kwx_btn_op_guo_3.png" />
+          <Image Name="kwx_btn_op_hu.png" />
+          <Image Name="kwx_btn_op_hu_2.png" />
+          <Image Name="kwx_btn_op_hu_3.png" />
+          <Image Name="kwx_btn_op_peng.png" />
+          <Image Name="kwx_btn_op_peng_2.png" />
+          <Image Name="kwx_btn_op_peng_3.png" />
+          <Image Name="kwx_btn_op_ting.png" />
+          <Image Name="kwx_btn_op_ting_2.png" />
+          <Image Name="kwx_btn_op_ting_3.png" />
+          <Image Name="kwx_btn_peng.png" />
+          <Image Name="kwx_btn_ting.png" />
+        </Folder>
+        <Folder Name="room_rule">
+          <Image Name="kwx_btn_dissolve.png" />
+          <Image Name="kwx_btn_dissolve_2.png" />
+          <Image Name="kwx_btn_record.png" />
+          <Image Name="kwx_btn_record_2.png" />
+          <Image Name="kwx_btn_room_mask.png" />
+          <Image Name="kwx_btn_room_rule.png" />
+          <Image Name="kwx_btn_room_rule_2.png" />
+          <Image Name="kwx_img_move_down.png" />
+          <Image Name="kwx_img_move_tag.png" />
+          <Image Name="kwx_img_move_up.png" />
+          <Image Name="kwx_img_room_bg.png" />
+          <Image Name="kwx_img_room_bg_1.png" />
+          <Image Name="kwx_img_room_bg_2.png" />
+        </Folder>
+        <Folder Name="round">
+          <Image Name="kwx_img_roll_0.png" />
+          <Image Name="kwx_img_roll_1.png" />
+          <Image Name="kwx_img_roll_2.png" />
+          <Image Name="kwx_img_roll_3.png" />
+          <Image Name="kwx_img_roll_4.png" />
+          <Image Name="kwx_img_roll_bg.png" />
+          <Image Name="kwx_img_roll_count.png" />
+          <Image Name="kwx_img_roll_num_bg.png" />
+        </Folder>
+        <Folder Name="setting">
+          <Image Name="kwx_btn_off.png" />
+          <Image Name="kwx_btn_off_2.png" />
+          <Image Name="kwx_btn_on.png" />
+          <Image Name="kwx_btn_on_2.png" />
+          <Image Name="kwx_img_mask.png" />
+          <Image Name="kwx_img_setting_bg.png" />
+        </Folder>
+        <Folder Name="singal">
+          <Image Name="kwx_battery_0.png" />
+          <Image Name="kwx_battery_100.png" />
+          <Image Name="kwx_battery_20.png" />
+          <Image Name="kwx_battery_40.png" />
+          <Image Name="kwx_battery_50.png" />
+          <Image Name="kwx_battery_60.png" />
+          <Image Name="kwx_battery_80.png" />
+          <Image Name="kwx_battery_line.png" />
+          <Image Name="kwx_charge_1.png" />
+          <Image Name="kwx_charge_2.png" />
+          <Image Name="kwx_charge_3.png" />
+          <Image Name="kwx_sig_1.png" />
+          <Image Name="kwx_sig_2.png" />
+          <Image Name="kwx_sig_3.png" />
+          <Image Name="kwx_sig_4.png" />
+          <Image Name="kwx_sig_5.png" />
+          <Image Name="kwx_sig_6.png" />
+          <Image Name="kwx_wifi_power.png" />
+        </Folder>
+        <Folder Name="single_round">
+          <Folder Name="win">
+            <Image Name="kwx_img_7_pairs.png" />
+            <Image Name="kwx_img_angang.png" />
+            <Image Name="kwx_img_ansigui.png" />
+            <Image Name="kwx_img_chaochaohaohuaqidui.png" />
+            <Image Name="kwx_img_chaohaohuaqidui.png" />
+            <Image Name="kwx_img_dasanyuan.png" />
+            <Image Name="kwx_img_fanggang.png" />
+            <Image Name="kwx_img_gangkai.png" />
+            <Image Name="kwx_img_gangshangpao.png" />
+            <Image Name="kwx_img_haidilao.png" />
+            <Image Name="kwx_img_half_channel.png" />
+            <Image Name="kwx_img_haohuaqidui.png" />
+            <Image Name="kwx_img_kwx.png" />
+            <Image Name="kwx_img_maima.png" />
+            <Image Name="kwx_img_mingpai.png" />
+            <Image Name="kwx_img_mingsigui.png" />
+            <Image Name="kwx_img_pengpenghu.png" />
+            <Image Name="kwx_img_pihu.png" />
+            <Image Name="kwx_img_qianggang.png" />
+            <Image Name="kwx_img_qys.png" />
+            <Image Name="kwx_img_qys_ansigui.png" />
+            <Image Name="kwx_img_qys_chaohaohuaqidui.png" />
+            <Image Name="kwx_img_qys_f.png" />
+            <Image Name="kwx_img_qys_haohuaqidui.png" />
+            <Image Name="kwx_img_qys_kwx.png" />
+            <Image Name="kwx_img_qys_mingsigui.png" />
+            <Image Name="kwx_img_qys_pengpenghu.png" />
+            <Image Name="kwx_img_qys_qidui.png" />
+            <Image Name="kwx_img_shouzhuayi.png" />
+            <Image Name="kwx_img_total_channel.png" />
+            <Image Name="kwx_img_xiaosanyuan.png" />
+            <Image Name="kwx_img_xugang.png" />
+            <Image Name="kwx_lab_num.png" />
+          </Folder>
+          <Image Name="kwx_img_buy_bg.png" />
+          <Image Name="kwx_img_dividing_line.png" />
+          <Image Name="kwx_img_face_mask.png" />
+          <Image Name="kwx_img_fangpao.png" />
+          <Image Name="kwx_img_jiepao.png" />
+          <Image Name="kwx_img_lose.png" />
+          <Image Name="kwx_img_lose_2.png" />
+          <Image Name="kwx_img_result_bg.png" />
+          <Image Name="kwx_img_result_mask.png" />
+          <Image Name="kwx_img_round_n.png" />
+          <Image Name="kwx_img_self_tag.png" />
+          <Image Name="kwx_img_total_bg.png" />
+          <Image Name="kwx_img_win.png" />
+          <Image Name="kwx_img_win_2.png" />
+          <Image Name="kwx_img_zimo.png" />
+          <Image Name="kwx_lab_score_l.png" />
+          <Image Name="kwx_lab_score_s.png" />
+          <File Name="Layer.csb" />
+          <Project Name="Layer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="test">
+          <Image Name="Button_Disable.png" />
+          <Image Name="CheckBox_Disable.png" />
+          <Image Name="CheckBox_Normal.png" />
+          <Image Name="CheckBox_Press.png" />
+          <Image Name="CheckBoxNode_Disable.png" />
+          <Image Name="CheckBoxNode_Normal.png" />
+        </Folder>
+        <Folder Name="waste">
+          <Image Name="kwx_img_hz_bg.png" />
+          <Image Name="kwx_img_mask.png" />
+          <Image Name="kwx_img_restart.png" />
+          <Image Name="kwx_img_restart_2.png" />
+        </Folder>
+        <Image Name="bg.png" />
+        <Image Name="danger.png" />
+        <Project Name="DismissLayer.csd" Type="Scene" />
+        <Project Name="GamePopInfo.csd" Type="Layer" />
+        <Project Name="GameResultLayer.csd" Type="Layer" />
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Project Name="HelpLayer.csd" Type="Layer" />
+        <Image Name="hupaitishi.png" />
+        <Image Name="huTip.png" />
+        <Project Name="HuTipLayer.csd" Type="Layer" />
+        <Image Name="kwx_atlas_left_card.png" />
+        <Image Name="kwx_b1s1.png" />
+        <Image Name="kwx_bg_showout.png" />
+        <Fnt Name="kwx_bm_room_rule.fnt" />
+        <Image Name="kwx_btn_invite.png" />
+        <Image Name="kwx_btn_invite_2.png" />
+        <Image Name="kwx_btn_no_raise_1.png" />
+        <Image Name="kwx_btn_no_raise_2.png" />
+        <Image Name="kwx_btn_piao_1.png" />
+        <Image Name="kwx_btn_piao_1_2.png" />
+        <Image Name="kwx_btn_piao_2.png" />
+        <Image Name="kwx_btn_piao_2_2.png" />
+        <Image Name="kwx_btn_ready1.png" />
+        <Image Name="kwx_btn_ready2.png" />
+        <Image Name="kwx_btn_start_game.png" />
+        <Image Name="kwx_btn_start_game_2.png" />
+        <Image Name="kwx_effect_game_room.png" />
+        <Image Name="kwx_img_cancel.png" />
+        <Image Name="kwx_img_cancel_2.png" />
+        <Image Name="kwx_img_chs_piao.png" />
+        <Image Name="kwx_img_discard_bg.png" />
+        <Image Name="kwx_img_discard_tip.png" />
+        <Image Name="kwx_img_fin.png" />
+        <Image Name="kwx_img_fin_2.png" />
+        <Image Name="kwx_img_help_bg.png" />
+        <Image Name="kwx_img_hu_small_bg.png" />
+        <Image Name="kwx_img_hukou.png" />
+        <Image Name="kwx_img_kou.png" />
+        <Image Name="kwx_img_ok.png" />
+        <Image Name="kwx_img_ok_2.png" />
+        <Image Name="kwx_img_ok_3.png" />
+        <Image Name="kwx_img_ready.png" />
+        <Image Name="kwx_img_room_bg_1.png" />
+        <Image Name="kwx_img_roominfo_bg.png" />
+        <Image Name="kwx_img_round.png" />
+        <Image Name="kwx_img_shaking.png" />
+        <Image Name="kwx_img_txt_rule.png" />
+        <Image Name="kwx_img_waiting.png" />
+        <Image Name="kwx_img_zimomaima.png" />
+        <Image Name="kwx_img_ziyou.png" />
+        <Image Name="kwx_info_0.png" />
+        <Image Name="kwx_info_1.png" />
+        <Image Name="kwx_lab_round.png" />
+        <Image Name="kwx_no_raise.png" />
+        <Image Name="kwx_text_total_channel.png" />
+        <Image Name="kwx_txt_buy_1.png" />
+        <Image Name="kwx_txt_buy_6.png" />
+        <Image Name="kwx_txt_half_channel.png" />
+        <Image Name="kwx_txt_show_buy.png" />
+        <Image Name="kwx_wuma.png" />
+        <File Name="Layer.json" />
+        <Project Name="Layer_handoff.csd" Type="Layer" />
+        <Project Name="Layer_info.csd" Type="Layer" />
+        <Project Name="Layer_waste.csd" Type="Layer" />
+        <Project Name="LayerActivity.csd" Type="Layer" />
+        <Project Name="LayerCardLisen.csd" Type="Layer" />
+        <Project Name="LayerFaceInfo.csd" Type="Layer" />
+        <Project Name="LayerHuTipStatic.csd" Type="Layer" />
+        <Project Name="LayerMoreThan3.csd" Type="Layer" />
+        <Project Name="LocationLayer.csd" Type="Layer" />
+        <Project Name="LoginTest.csd" Type="Layer" />
+        <Project Name="Lotter.csd" Type="Layer" />
+        <Project Name="Node_cell.csd" Type="Node" />
+        <Project Name="Node_moma.csd" Type="Node" />
+        <Project Name="Node_room_rule.csd" Type="Node" />
+        <Project Name="PlayerLeft.csd" Type="Layer" />
+        <Project Name="PlayerRight.csd" Type="Layer" />
+        <Project Name="PrivateGameEndLayer.csd" Type="Layer" />
+        <Project Name="PrivateGameLayer.csd" Type="Layer" />
+        <Project Name="PrivateRoomAAPayLayer.csd" Type="Layer" />
+        <Project Name="PrivateRoomCreateLayer.csd" Type="Layer" />
+        <Image Name="qipao1.png" />
+        <Image Name="qipao2.png" />
+        <Project Name="SettingLayer.csd" Type="Layer" />
+        <Project Name="ShareLayer.csd" Type="Layer" />
+        <Image Name="showOut.png" />
+        <Image Name="shuzi .png" />
+        <Image Name="sparrowgd_btn_share_cycle_0.png" />
+        <Image Name="sparrowgd_btn_share_cycle_1.png" />
+        <Image Name="sparrowgd_btn_share_wx_0.png" />
+        <Image Name="sparrowgd_btn_share_wx_1.png" />
+        <Image Name="sparrowgd_sp_sharebg.png" />
+        <Image Name="zi1.png" />
+        <Image Name="zi2.png" />
+        <Image Name="zi3.png" />
+        <Image Name="zi4.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

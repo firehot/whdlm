@@ -1,0 +1,46 @@
+﻿  Stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+d:\qijianban\laok\服务端\游戏组件\开发库\include\AndroidUserItem.h(235): warning C4244: “return”: 从“WORD”转换到“BYTE”，可能丢失数据
+d:\qijianban\laok\服务端\游戏组件\开发库\include\Core/UIManager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“EVENTTYPE_UI”的左侧
+  DlgCustomRule.cpp
+DlgCustomRule.cpp(67): warning C4244: “参数”: 从“LONGLONG”转换到“UINT”，可能丢失数据
+DlgCustomRule.cpp(68): warning C4244: “参数”: 从“LONGLONG”转换到“UINT”，可能丢失数据
+DlgCustomRule.cpp(69): warning C4244: “参数”: 从“LONGLONG”转换到“UINT”，可能丢失数据
+DlgCustomRule.cpp(70): warning C4244: “参数”: 从“LONGLONG”转换到“UINT”，可能丢失数据
+  DlgPersonalRule.cpp
+  GameLogic.cpp
+  GameServer.cpp
+  GameServerManager.cpp
+  HistoryScore.cpp
+  TableFrameSink.cpp
+TableFrameSink.cpp(166): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(167): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(168): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(169): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(172): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(173): warning C4800: “LONGLONG”: 将值强制为布尔值“true”或“false”(性能警告)
+TableFrameSink.cpp(182): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: 参见“_snwprintf”的声明
+TableFrameSink.cpp(186): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: 参见“_snwprintf”的声明
+TableFrameSink.cpp(194): warning C4996: '_snwscanf': This function or variable may be unsafe. Consider using _snwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(2125): note: 参见“_snwscanf”的声明
+TableFrameSink.cpp(295): warning C4800: “BYTE”: 将值强制为布尔值“true”或“false”(性能警告)
+TableFrameSink.cpp(298): warning C4996: '_snwprintf': This function or variable may be unsafe. Consider using _snwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): note: 参见“_snwprintf”的声明
+TableFrameSink.cpp(374): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(375): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(376): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(377): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(789): warning C4244: “参数”: 从“WORD”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(931): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+TableFrameSink.cpp(988): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(989): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(990): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+TableFrameSink.cpp(991): warning C4244: “=”: 从“LONGLONG”转换到“BYTE”，可能丢失数据
+  正在生成代码...
+    正在创建库 ../../../../运行/Release/Unicode/GameServer.lib 和对象 ../../../../运行/Release/Unicode/GameServer.exp
+  GameServer.vcxproj -> D:\qijianban\laok\服务端\游戏组件\老K子游戏\六人三公\游戏服务器\../../../../运行/Release/Unicode/SanGongServer.dll
+  GameServer.vcxproj -> ../../../../运行/Release/Unicode/SanGongServer.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Release\Unicode\ 已经存在。
+  已复制         1 个文件。

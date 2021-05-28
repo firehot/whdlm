@@ -1,0 +1,103 @@
+﻿  Stdafx.cpp
+g:\svn\dlm\服务端\系统模块\全局定义\log.h(76): warning C4996: '_vsnwprintf': This function or variable may be unsafe. Consider using _vsnwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1120): note: 参见“_vsnwprintf”的声明
+  WordFilter.cpp
+  ServiceUnits.cpp
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(212): note: 编译类 模板 成员函数“bool CTempldateHelper<ITimerEngine>::CreateInstance(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\serviceunits.cpp(148): note: 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<ITimerEngine>::CreateInstance(void)”的引用
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(965): note: 编译类 模板 成员函数“POSITION CList<IControlSiteFactory *,IControlSiteFactory *>::AddTail(ARG_TYPE)”时
+          with
+          [
+              ARG_TYPE=IControlSiteFactory *
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1196): note: 参见对正在编译的函数 模板 实例化“POSITION CList<IControlSiteFactory *,IControlSiteFactory *>::AddTail(ARG_TYPE)”的引用
+          with
+          [
+              ARG_TYPE=IControlSiteFactory *
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(878): note: 编译类 模板 成员函数“CList<IControlSiteFactory *,IControlSiteFactory *>::~CList(void)”时
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxocc.h(64): note: 参见对正在编译的类 模板 实例化“CList<IControlSiteFactory *,IControlSiteFactory *>”的引用
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  ServerUserManager.cpp
+  ServerListManager.cpp
+  InitParameter.cpp
+  GroupInfoManager.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\groupinfomanager.cpp(148): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\groupinfomanager.cpp(155): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\groupinfomanager.cpp(201): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  DataBaseEngineSink.cpp
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\databaseenginesink.cpp(2262): warning C4244: “=”: 从“DWORD”转换到“BYTE”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\databaseenginesink.cpp(2271): warning C4244: “=”: 从“DWORD”转换到“BYTE”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\databaseenginesink.cpp(2880): warning C4244: “初始化”: 从“LONGLONG”转换到“DWORD”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\databaseenginesink.cpp(2863): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\databaseenginesink.cpp(2987): warning C4244: “=”: 从“LONGLONG”转换到“WORD”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\databaseenginesink.cpp(2970): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\databaseenginesink.cpp(3849): warning C4244: “+=”: 从“LONGLONG”转换到“INT”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(235): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(212): note: 编译类 模板 成员函数“bool CTempldateHelper<IDataBase>::CreateInstance(void)”时
+  g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\databaseenginesink.cpp(36): note: 参见对正在编译的函数 模板 实例化“bool CTempldateHelper<IDataBase>::CreateInstance(void)”的引用
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(965): note: 编译类 模板 成员函数“POSITION CList<IControlSiteFactory *,IControlSiteFactory *>::AddTail(ARG_TYPE)”时
+          with
+          [
+              ARG_TYPE=IControlSiteFactory *
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(1196): note: 参见对正在编译的函数 模板 实例化“POSITION CList<IControlSiteFactory *,IControlSiteFactory *>::AddTail(ARG_TYPE)”的引用
+          with
+          [
+              ARG_TYPE=IControlSiteFactory *
+          ]
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxtempl.h(878): note: 编译类 模板 成员函数“CList<IControlSiteFactory *,IControlSiteFactory *>::~CList(void)”时
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxocc.h(64): note: 参见对正在编译的类 模板 实例化“CList<IControlSiteFactory *,IControlSiteFactory *>”的引用
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(243): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): warning C4477: “_snwprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“CHAR *”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%hs”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 请考虑在格式字符串中使用“%Ts”
+  g:\svn\dlm\服务端\系统模块\全局定义\module.h(254): note: 如果需要 C99 标准语义，请考虑定义 _CRT_STDIO_ISO_WIDE_SPECIFIERS
+  AttemperEngineSink.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(128): warning C4018: “<”: 有符号/无符号不匹配
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(346): warning C4244: “初始化”: 从“double”转换到“LONGLONG”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(347): warning C4244: “参数”: 从“LONGLONG”转换到“DWORD”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(350): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(3955): warning C4244: “参数”: 从“DWORD”转换到“WORD”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(4001): warning C4244: “参数”: 从“DWORD”转换到“WORD”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(5086): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(5658): warning C4244: “初始化”: 从“double”转换到“LONGLONG”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(5661): warning C4244: “参数”: 从“LONGLONG”转换到“DWORD”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(5654): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(5855): warning C4244: “=”: 从“DWORD”转换到“WORD”，可能丢失数据
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(6861): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+g:\svn\dlm\服务端\系统模块\服务器组件\接入服务器\attemperenginesink.cpp(7121): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): note: 参见“_swprintf”的声明
+  AccessServerDlg.cpp
+  AccessServer.cpp
+  正在生成代码...
+AccessServer.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  AccessServer.vcxproj -> G:\SVN\DLM\服务端\系统模块\服务器组件\接入服务器\../../../运行/Debug/Unicode/ClubServer.exe
+  AccessServer.vcxproj -> ../../../运行/Debug/Unicode/ClubServer.pdb (Full PDB)
+  子目录或文件 ..\..\..\发布组件\服务器组件\Debug\Unicode 已经存在。
+  已复制         1 个文件。

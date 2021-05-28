@@ -1,0 +1,183 @@
+<Solution>
+  <PropertyGroup Name="studio" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="fonts">
+          <TTF Name="FZHTJW.TTF" />
+          <TTF Name="round_body.ttf" />
+        </Folder>
+        <Folder Name="game">
+          <Image Name="389bt_agree_1.png" />
+          <Image Name="389bt_agree_2.png" />
+          <Image Name="389bt_oppose_1.png" />
+          <Image Name="389bt_oppose_2.png" />
+          <Image Name="389sp_dismissRoom_bg.png" />
+          <Image Name="389sp_dismissRoom_flag.png" />
+          <Image Name="bg.png" />
+          <Image Name="bghehe.png" />
+          <Image Name="bt_invite_0.png" />
+          <Image Name="bt_invite_1.png" />
+          <Image Name="bt_pri_quit_0.png" />
+          <Image Name="bt_share_0.png" />
+          <Image Name="btn_Bg1.png" />
+          <Image Name="btn_Bg2.png" />
+          <Image Name="common_close.png" />
+          <Project Name="DismissLayer.csd" Type="Scene" />
+          <Image Name="headK.png" />
+          <Image Name="icon.png" />
+          <Image Name="im_end_info_frame1.png" />
+          <Image Name="im_end_info_frame2.png" />
+          <Image Name="im_pri_info_frame.png" />
+          <Project Name="infoNode.csd" Type="Node" />
+          <Image Name="maxWin.png" />
+          <Image Name="midBg.png" />
+          <Project Name="PrivateGameEndLayer.csd" Type="Layer" />
+          <Project Name="PrivateGameLayer.csd" Type="Layer" />
+          <Image Name="round_btn.png" />
+          <Image Name="Sprite_coinBg.png" />
+          <Image Name="Sprite_line.png" />
+          <Image Name="Sprite_lose.png" />
+          <Image Name="Sprite_room.png" />
+          <Image Name="Sprite_time.png" />
+          <Image Name="Sprite_win.png" />
+          <Image Name="tit_bg.png" />
+          <Image Name="title.png" />
+          <Image Name="xian.png" />
+        </Folder>
+        <Folder Name="private">
+          <Image Name="pri_sp_altertips.png" />
+          <Image Name="pri_sp_backbtn_bg.png" />
+          <Image Name="pri_sp_bottombg.png" />
+          <Image Name="pri_sp_createroom_separator.png" />
+          <Image Name="pri_sp_createroom_title.png" />
+          <Image Name="pri_sp_createroombg_1.png" />
+          <Image Name="pri_sp_topbg.png" />
+        </Folder>
+        <Folder Name="public">
+          <Image Name="bt_pri_agree_0.png" />
+          <Image Name="bt_pri_agree_1.png" />
+          <Image Name="bt_pri_oppose_0.png" />
+          <Image Name="bt_pri_oppose_1.png" />
+          <Image Name="im_pri_dismissRoom_bg.png" />
+          <Image Name="public_background_4.png" />
+          <Image Name="public_btn_back_0.png" />
+          <Image Name="public_btn_back_1.png" />
+          <Image Name="public_btn_close_0.png" />
+          <Image Name="public_btn_close_1.png" />
+          <Image Name="public_btn_close_1_0.png" />
+          <Image Name="public_btn_tips.png" />
+          <Image Name="public_sp_dialogbg.png" />
+          <Image Name="public_sp_frame_03.png" />
+        </Folder>
+        <Folder Name="room">
+          <Image Name="111111111111111111111.png" />
+          <Image Name="base_sp_system_title.png" />
+          <Image Name="bg_down.png" />
+          <Image Name="bg_top.png" />
+          <Image Name="bomBg.png" />
+          <Image Name="bt_query_confirm_0.png" />
+          <Image Name="btn_bg.png" />
+          <Image Name="btn_bg1.png" />
+          <Image Name="btn_change.png" />
+          <Image Name="btn_delete.png" />
+          <Image Name="btn_down1.png" />
+          <Image Name="btn_downBg.png" />
+          <Image Name="btn_edit.png" />
+          <Image Name="btn_extend.png" />
+          <Image Name="btn_list1.png" />
+          <Image Name="btn_list2.png" />
+          <Image Name="btn_ruleBg1.png" />
+          <Image Name="btn_ruleBg2.png" />
+          <Image Name="btn_up1.png" />
+          <Image Name="check_yuan1.png" />
+          <Image Name="check_yuan2.png" />
+          <Image Name="check1.png" />
+          <Image Name="check2.png" />
+          <Image Name="closeBg.png" />
+          <Project Name="ClubRoomCreate.csd" Type="Layer" />
+          <Image Name="createTitle.png" />
+          <Image Name="csmBg1.png" />
+          <Image Name="csmBg2.png" />
+          <Image Name="dt_check_1.png" />
+          <Image Name="dt_check_2.png" />
+          <Image Name="dt_dian1.png" />
+          <Image Name="dt_dian2.png" />
+          <Image Name="editBg.png" />
+          <Image Name="extendBg.png" />
+          <Image Name="headBg.png" />
+          <Image Name="help1.png" />
+          <Image Name="icon_roomlist_title.png" />
+          <Image Name="imgBg.png" />
+          <Image Name="itembuy_sp_diamond.png" />
+          <Image Name="jiao1.png" />
+          <Image Name="line.png" />
+          <Image Name="linetop.png" />
+          <Image Name="list_bg.png" />
+          <Image Name="nclub_bg.png" />
+          <Image Name="nclub_btn_exchange.png" />
+          <Image Name="nclub_btn_title.png" />
+          <Image Name="nclub_btn_title_1.png" />
+          <Image Name="nclub_btn_title_2.png" />
+          <Image Name="nclub_close.png" />
+          <Image Name="nclub_title.png" />
+          <Image Name="nclub_titleBg1.png" />
+          <Image Name="nclub_titleBg2.png" />
+          <Image Name="oxsix_btn_create_0.png" />
+          <Image Name="oxsix_check_0.png" />
+          <Image Name="oxsix_check_1.png" />
+          <Image Name="oxsix_check_sel_0.png" />
+          <Image Name="oxsix_check_sel_1.png" />
+          <Image Name="oxsix_sp_createroom_role.png" />
+          <Image Name="oxsix_sp_tipsbg.png" />
+          <Image Name="plaza_sp_goldIcon.png" />
+          <Image Name="pri_btn_gold.png" />
+          <Image Name="pri_btn_normal.png" />
+          <Image Name="pri_btn_open.png" />
+          <Image Name="pri_btn_score.png" />
+          <Image Name="pri_sp_altertips.png" />
+          <Image Name="pri_sp_bgBox.png" />
+          <Image Name="pri_sp_bottombg.png" />
+          <Image Name="pri_sp_createroom_separator.png" />
+          <Image Name="pri_sp_createroom_title.png" />
+          <Image Name="pri_sp_createroombg_1.png" />
+          <Image Name="pri_sp_flag.png" />
+          <Image Name="pri_sp_titleBg.png" />
+          <Image Name="pri_sp_topbg.png" />
+          <Image Name="prisp_dropdown_menu.png" />
+          <Project Name="PrivateRoomAAPayLayer.csd" Type="Layer" />
+          <Project Name="PrivateRoomCreateLayer.csd" Type="Layer" />
+          <Image Name="public_btn_close_1_0.png" />
+          <Image Name="public_popbg.png" />
+          <Image Name="public_poptitlebg.png" />
+          <Image Name="selectBg.png" />
+          <Image Name="sp_dropdownbg.png" />
+          <Image Name="sparrowgd_btn_entergame_0.png" />
+          <Image Name="sparrowgd_btn_entergame_1.png" />
+          <Image Name="sparrowgd_check_dropdown_sel_0.png" />
+          <Image Name="sparrowgd_check_dropdown_sel_1.png" />
+          <Image Name="sparrowgd_check_sel_1_0.png" />
+          <Image Name="sparrowgd_check_sel_1_1.png" />
+          <Image Name="sparrowgd_prisp_diamond.png" />
+          <Image Name="sparrowgd_prisp_dropdown_menu.png" />
+          <Image Name="sparrowgd_sp_dropdownbg.png" />
+          <Image Name="switch1.png" />
+          <Image Name="switch2.png" />
+          <Image Name="test111.png" />
+          <Image Name="tiaoBg.png" />
+          <Image Name="tiaoBg_k.png" />
+          <Image Name="tiaoBtn.png" />
+          <Image Name="wf_btn.png" />
+          <Image Name="xian.png" />
+          <Image Name="xzIcon.png" />
+          <Image Name="zuan.png" />
+        </Folder>
+        <Folder Name="shop">
+          <Image Name="itembuy_sp_diamond.png" />
+        </Folder>
+        <Image Name="base_sp_system_title.png" />
+        <Image Name="query_bg.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

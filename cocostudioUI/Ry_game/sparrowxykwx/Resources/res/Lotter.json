@@ -1,0 +1,109 @@
+{
+  "ID": "3c74a08c-0156-40ee-872d-34b8ff9c2706",
+  "Version": "3.10.0.0",
+  "Name": "Lotter",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lotter/kwx_buy_effect_bg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 677.0,
+              "Y": 375.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5075,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5105,
+              "Y": 0.432
+            },
+            "LeftMargin": 336.5,
+            "RightMargin": 316.5,
+            "TopMargin": 213.0,
+            "BottomMargin": 213.0,
+            "Tag": 2,
+            "ActionTag": -1078106614,
+            "Size": {
+              "X": 681.0,
+              "Y": 324.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 440.716,
+              "Y": 298.9087
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3304,
+              "Y": 0.3985
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 440.716,
+            "RightMargin": 893.284,
+            "TopMargin": 451.0913,
+            "BottomMargin": 298.9087,
+            "Tag": 4,
+            "ActionTag": 1969677067,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_pokers",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1334.0,
+          "Y": 750.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "lotter/kwx_buy_effect_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

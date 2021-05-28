@@ -1,0 +1,236 @@
+<Solution>
+  <PropertyGroup Name="dfsdf" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="animate">
+          <Folder Name="boom">
+            <Project Name="boom.csd" Type="Layer" />
+            <Image Name="boom-1.png" />
+            <Image Name="boom-2.png" />
+            <Image Name="boom-3.png" />
+            <Image Name="boom-4.png" />
+            <Image Name="boom-5.png" />
+            <Image Name="boom-6.png" />
+          </Folder>
+          <Folder Name="rocket">
+            <Project Name="rocket.csd" Type="Layer" />
+            <Image Name="rocket.png" />
+            <Image Name="rocket_fire-2.png" />
+            <Image Name="rocket-1.png" />
+            <Image Name="rocket-2.png" />
+            <Image Name="rocket-3.png" />
+            <Image Name="rocket-4.png" />
+          </Folder>
+          <Folder Name="spring_resverse">
+            <Image Name="ban.png" />
+            <Image Name="butterfly1-1.png" />
+            <Image Name="butterfly1-2.png" />
+            <Image Name="butterfly1-3.png" />
+            <Image Name="butterfly1-4.png" />
+            <Image Name="butterfly1-5.png" />
+            <Image Name="butterfly2-1.png" />
+            <Image Name="butterfly2-2.png" />
+            <Image Name="butterfly2-3.png" />
+            <Image Name="butterfly2-4.png" />
+            <Image Name="butterfly2-5.png" />
+            <Image Name="spring.png" />
+            <Project Name="spring_fan.csd" Type="Layer" />
+            <Image Name="spring-0.png" />
+            <Image Name="spring-0-1.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="auto">
+          <Folder Name="default">
+            <Image Name="labelatlas.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="chat">
+          <Image Name="bg.png" />
+          <Image Name="chag_frame.png" />
+          <Image Name="chat_his.png" />
+          <Image Name="chat_send.png" />
+          <Image Name="chat_send_1.png" />
+          <Image Name="frame.png" />
+          <Project Name="GameChatLayer.csd" Type="Layer" />
+          <Image Name="smile.png" />
+          <Image Name="word.png" />
+        </Folder>
+        <Folder Name="fonts">
+          <TTF Name="round_body.ttf" />
+        </Folder>
+        <Folder Name="game">
+          <PlistImageFolder Image="game.png" PListFile="game.plist" Name=".game_PList.Dir">
+            <PlistImageFile Name="call_point_00.png" Key="call_point_00.png" />
+            <PlistImageFile Name="call_point_01.png" Key="call_point_01.png" />
+            <PlistImageFile Name="call_point_02.png" Key="call_point_02.png" />
+            <PlistImageFile Name="call_point_03.png" Key="call_point_03.png" />
+            <PlistImageFile Name="call_point_04.png" Key="call_point_04.png" />
+            <PlistImageFile Name="call_point_05.png" Key="call_point_05.png" />
+            <PlistImageFile Name="call_point_06.png" Key="call_point_06.png" />
+            <PlistImageFile Name="call_point_07.png" Key="call_point_07.png" />
+            <PlistImageFile Name="call_point_15.png" Key="call_point_15.png" />
+            <PlistImageFile Name="call_point_16.png" Key="call_point_16.png" />
+            <PlistImageFile Name="call_point_17.png" Key="call_point_17.png" />
+            <PlistImageFile Name="call_point_25.png" Key="call_point_25.png" />
+            <PlistImageFile Name="call_point_26.png" Key="call_point_26.png" />
+            <PlistImageFile Name="call_point_27.png" Key="call_point_27.png" />
+            <PlistImageFile Name="game_alarm_01.png" Key="game_alarm_01.png" />
+            <PlistImageFile Name="game_alarm_02.png" Key="game_alarm_02.png" />
+            <PlistImageFile Name="game_alarm_03.png" Key="game_alarm_03.png" />
+            <PlistImageFile Name="game_alarm_04.png" Key="game_alarm_04.png" />
+            <PlistImageFile Name="game_chat_0.png" Key="game_chat_0.png" />
+            <PlistImageFile Name="game_chat_1.png" Key="game_chat_1.png" />
+            <PlistImageFile Name="game_chat_2.png" Key="game_chat_2.png" />
+            <PlistImageFile Name="game_nooutcard.png" Key="game_nooutcard.png" />
+            <PlistImageFile Name="game_tips_00.png" Key="game_tips_00.png" />
+            <PlistImageFile Name="game_tips_01.png" Key="game_tips_01.png" />
+            <PlistImageFile Name="game_tips_callscore0.png" Key="game_tips_callscore0.png" />
+            <PlistImageFile Name="land_blank.png" Key="land_blank.png" />
+            <PlistImageFile Name="land_itemlander_flag.png" Key="land_itemlander_flag.png" />
+            <PlistImageFile Name="land_itemroomer_flag.png" Key="land_itemroomer_flag.png" />
+            <PlistImageFile Name="no_can.png" Key="no_can.png" />
+          </PlistImageFolder>
+          <Image Name="0_bg.png" />
+          <Image Name="1_bg.png" />
+          <Image Name="2_bg.png" />
+          <Image Name="already.png" />
+          <Image Name="bottomBg.png" />
+          <Image Name="btn_ready_0.png" />
+          <Image Name="btn_ready_1.png" />
+          <Project Name="cardRecord.csd" Type="Layer" />
+          <Image Name="cardrecord.png" />
+          <Image Name="chat_0.png" />
+          <Image Name="chat_1.png" />
+          <Image Name="clock.png" />
+          <Image Name="game_bt_out.png" />
+          <Image Name="game_bt_out1.png" />
+          <Image Name="game_bt_pass0.png" />
+          <Image Name="game_bt_pass1.png" />
+          <Image Name="game_bt_score_one.png" />
+          <Image Name="game_bt_score_one_0.png" />
+          <Image Name="game_bt_score_pass.png" />
+          <Image Name="game_bt_score_pass1.png" />
+          <Image Name="game_bt_score_three.png" />
+          <Image Name="game_bt_score_three1.png" />
+          <Image Name="game_bt_score_two.png" />
+          <Image Name="game_bt_score_two1.png" />
+          <Image Name="game_bt_sit1.png" />
+          <Image Name="game_bt_sit2.png" />
+          <Image Name="game_bt_tip.png" />
+          <Image Name="game_bt_tip1.png" />
+          <Image Name="game_gold.png" />
+          <Project Name="GameLayer.csd" Type="Layer" />
+          <Project Name="GamePopInfo.csd" Type="Layer" />
+          <Project Name="GameResultLayer.csd" Type="Layer" />
+          <Project Name="GameRoleItem.csd" Type="Node" />
+          <Image Name="help.png" />
+          <Image Name="help0.png" />
+          <Image Name="invite_0.png" />
+          <Image Name="invite_1.png" />
+          <Image Name="land_sp_sharebg.png" />
+          <Image Name="landholder_bg.png" />
+          <Image Name="leftCardNo.png" />
+          <Image Name="location_0.png" />
+          <Image Name="location_1.png" />
+          <Project Name="Node.csd" Type="Node" />
+          <Image Name="outcardbg.png" />
+          <Image Name="playerFrame.png" />
+          <Image Name="recordBg.png" />
+          <Image Name="share_0.png" />
+          <Image Name="share_1.png" />
+          <Project Name="ShareLayer.csd" Type="Layer" />
+          <Image Name="voice_0.png" />
+          <Image Name="voice_1.png" />
+          <Image Name="wx_0.png" />
+          <Image Name="wx_1.png" />
+        </Folder>
+        <Folder Name="help">
+          <Image Name="bg.png" />
+          <Image Name="content.png" />
+          <Project Name="help.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="location">
+          <Image Name="icon_ip.png" />
+          <Image Name="kwx_btn_loc_quit.png" />
+          <Image Name="kwx_btn_loc_quit_2.png" />
+          <Image Name="line_long.png" />
+          <Image Name="line_near.png" />
+          <File Name="LocationLayer.csb" />
+          <Project Name="LocationLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="menu">
+          <Folder Name="setting">
+            <Image Name="desk1.png" />
+            <Image Name="desk2.png" />
+            <Image Name="desk3.png" />
+            <Image Name="quit.png" />
+            <Image Name="setting.png" />
+          </Folder>
+          <Image Name="menu_0.png" />
+          <Image Name="menu_bg.png" />
+        </Folder>
+        <Folder Name="no">
+          <Image Name="cardRecord.png" />
+          <Image Name="clock.png" />
+          <Image Name="leftcard.png" />
+          <Image Name="multiple.png" />
+        </Folder>
+        <Folder Name="peronInfo">
+          <Image Name="bg.png" />
+          <Image Name="input1.png" />
+          <Image Name="input2.png" />
+          <Image Name="name.png" />
+          <Image Name="sign.png" />
+        </Folder>
+        <Folder Name="popInfo">
+          <Image Name="coin.png" />
+          <Image Name="coinBg.png" />
+          <Image Name="countBg.png" />
+          <Project Name="GamePopInfo.csd" Type="Layer" />
+          <Image Name="line.png" />
+          <Image Name="popBg.png" />
+          <Image Name="prop_1.png" />
+        </Folder>
+        <Folder Name="public">
+          <Image Name="back_red.png" />
+          <Image Name="publicBg.png" />
+          <Image Name="publicBg2.png" />
+        </Folder>
+        <Folder Name="result">
+          <Folder Name="win">
+            <Image Name="dikuang.png" />
+            <Image Name="tiao.png" />
+          </Folder>
+          <Image Name="change_table_0.png" />
+          <Image Name="change_table_1.png" />
+          <Image Name="exit_0.png" />
+          <Image Name="exit_1.png" />
+          <Image Name="goon_0.png" />
+          <Image Name="goon_1.png" />
+        </Folder>
+        <Folder Name="setting">
+          <Image Name="check_setting_close.png" />
+          <Image Name="check_setting_open.png" />
+          <Image Name="effect.png" />
+          <Image Name="music.png" />
+          <Project Name="SettingLayer.csd" Type="Layer" />
+          <Image Name="title.png" />
+        </Folder>
+        <Folder Name="wifi">
+          <Image Name="4g_1.png" />
+          <Image Name="4g_2.png" />
+          <Image Name="4g_3.png" />
+          <Image Name="4g_4.png" />
+          <Image Name="battery_1.png" />
+          <Image Name="battery_2.png" />
+          <Image Name="bg.png" />
+          <Image Name="wifi_1.png" />
+          <Image Name="wifi_2.png" />
+          <Image Name="wifi_3.png" />
+          <Image Name="wifi_4.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
